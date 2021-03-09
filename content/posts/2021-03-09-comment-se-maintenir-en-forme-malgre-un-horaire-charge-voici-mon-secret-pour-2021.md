@@ -15,6 +15,8 @@ tags:
   - Perte de Poids
   - Santé
 ---
-Après avoir perdu du poids en 2019 et 2020, mon objectif principal au début de l'année 2021 était bien évidemment de me maintenir en forme. Je savais que cela n'allait pas être facile. Je venais tout juste de passer les 3 derniers mois de 2020 à me battre contre le phénomène Yo-Yo qui menaçait maintenant de renvoyer mon poids au dessus de 90 kg. Il me fallait donc mettre en place un plan solide, des résolutions conséquentes pour m'assurer que cela ne puisse en aucun cas se produire en 2021. Comment y arriver ?
+Après avoir perdu du poids en 2019 et 2020, mon objectif principal au début de l'année 2021 était bien évidemment de me maintenir en forme. Je savais que cela n'allait pas être facile. Je venais tout juste de passer les 3 derniers mois de 2020 à me battre contre le phénomène Yo-Yo qui menaçait maintenant de renvoyer mon poids au dessus de 90 kg. Il me fallait donc mettre en place un plan solide, des résolutions conséquentes pour m'assurer que cela ne puisse en aucun cas se produire en 2021. La seule question qui restait désormais était: Comment y arriver ?
 
-En effet, pour l'année 2021
+Pour maintenir mon poids pendant l'année 2021, je n'ai fait recours à rien d'autre que la même technique qui m'avait auparavant de me remettre en forme: Le Programme 4P.
+
+En effet, quand j'ai créé le Programme 4P pour m'aider à perdre du poids, j'avais réalisé que ce même programme pourrait être aussi utiliser pour se maintenir en forme. C'est d'ailleurs pour cette raison que livre sur le Programme 4P s'intitule Prendre Plaisir à Perdre du Poids et à se maintenir en forme. Maintenant était arrivé le temps pour moi d'expérimenter la partie mise en forme du programme 4P.
