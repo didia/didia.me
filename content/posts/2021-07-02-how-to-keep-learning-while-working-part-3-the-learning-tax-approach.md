@@ -22,8 +22,14 @@ This is the third article of the series [**How to keep learning while working**]
 
 Previous article ☞ [**How to keep learning while working, Part 2: What experienced people taught me about learning on the job**](/how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job)
 
-After asking experienced people around me how they found time to keep getting better at their job while still spending quality time with their friends and family, I discovered that most of them used one or more of the following approaches: Learning by experience, learning on their own time or learning proactively on their company's time.
+After learning what more experience people around me were doing to keep getting better at their job while still spending quality with their friends and family, I realized that none of tactics they shared with me really fitted what I was looking for. I was gutted and decided to stick to learning entirely on my own time as I used to do before even if it meant I needed to make some sacrifices on my work-life balance.
 
-Unfortunately, none of those approaches really fitted my lifestyle or job content. Learning by experience alone wouldn't have allowed to learn as much as I wished and my job content didn't really leave a lot of room for learning on company time. So the only viable option for me was to stick to what I used to do in the past which is learning on my own time and that would have required some sacrifices from my work-life balance.
+Then one day, I got an unsuspected idea while filing my taxes. We give the government part of our hard earned money to allow it to make our life better by building infrastructures and services that would benefit us and potentially help us make even more money.
 
-As I was getting ready to sacrifice some of my social life, an unsuspected idea came to me while filing my taxes: What If I made my employer or clients pay me a learning tax to get better at serving them ? I would actively use company time to acquire knowledge that would then be useful to my employer or my clients. That's when the learning tax approach was born.
+As the government serves me, I serve my employer and its clients. What if my employer paid me a learning tax to better serve them just like I pay tax to the government for it to better serve me ? As an idea, this was really a stretch one. There is a big difference between my relation to the government and the one to my employer. But I liked the idea because it seemed to me like a better version of working on company time. So I decided to try it out.
+
+## Defining the learning tax approach
+
+Before trying the learning tax approach, I needed to define it. What did I want it to look like ? What did I want to accomplish with it ?
+
+The definition of the learning tax approach was simple: Taking some time out of your work hours to learn things that can make you better at serving your employer.
