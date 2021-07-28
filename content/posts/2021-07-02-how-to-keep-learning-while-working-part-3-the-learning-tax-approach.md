@@ -22,15 +22,27 @@ This is the third article of the series [**How to keep learning while working**]
 
 Previous article ☞ [**How to keep learning while working, Part 2: What experienced people taught me about learning on the job**](/how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job)
 
-After learning what more experience people around me were doing to keep getting better at their job while still spending quality with their friends and family, I realized that none of the tactics they shared with me really fitted what I was looking for. I was gutted and decided to stick to learning entirely on my own time as I used to do even if that meant I needed to make some sacrifices on my work-life balance.
+After learning what more experienced people around me were doing to keep getting better at their job while still spending quality with their friends and family, I realized that none of the tactics they shared with me really fitted what I was looking for. I was gutted and decided to stick to learning entirely on my own time as I used to do even if that meant I needed to make some sacrifices on my work-life balance.
 
 Then one day, I got an unsuspected idea while filing my taxes. We give the government part of our hard earned money to allow it to make our life better by building infrastructures and services that would benefit us and potentially help us make even more money.
 
 As the government serves me, I serve my employer and its clients. What if my employer paid me a learning tax to better serve them just like I pay tax to the government for it to better serve me ? As an idea, this was really a stretch one. There is a big difference between my relation to the government and the one to my employer. But I liked the idea because it seemed to me like a better version of working on company time. So I decided to try it out.
 
-## The learning tax approach
+## What is the learning tax approach ?
 
-The learning tax approach involves spending a fixed amount of company time on learning that has a potential to make you better at your current work or a potential to improve what you are currently working on.
+The learning tax approach is a more restricted version of the learning on company time approach that we saw in the previous article. In essence, this approach involves using a fixed amount of company time, the tax, on learning that can bring value to the company. This ensures that this approach is beneficial to both the company and the employee.
+
+## How does the learning tax approach work ?
+
+To implement the learning tax approach, you need to choose the amount of time you are going to spend on learning and what you are going to learn.
+
+### Choosing how much time to spend on learning
+
+### Choosing what to learn
+
+
+
+By using company t
 
 The learning tax approach differs from just taking your company time in two aspects:
 
