@@ -36,9 +36,11 @@ The learning tax approach is a more restricted version of the learning on compan
 
 To implement the learning tax approach, you need to choose the amount of time you are going to spend on learning and what you are going to learn.
 
-### Choosing how much time to spend on learning
+1. ### Choosing how much time to spend on learning
 
-### Choosing what to learn
+2. ### Choosing what to learn
+
+
 
 
 
