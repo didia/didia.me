@@ -30,19 +30,19 @@ As the government serves me, I serve my employer and its clients. What if my emp
 
 ## What is the learning tax approach ?
 
-The learning tax approach is a more restricted version of the learning on company time approach that we saw in the previous article. In essence, this approach involves using a fixed amount of company time, the tax, on learning that can bring value to the company. This ensures that this approach is beneficial to both the company and the employee.
+The learning tax approach is a more restricted version of the learning on company time approach that we saw in the previous article. In essence, this approach involves using a fixed amount of company time on proactive learning that can bring value to the company.
 
-## How does the learning tax approach work ?
+## Who is this approach for ?
 
-To implement the learning tax approach, you need to choose the amount of time you are going to spend on learning and what you are going to learn.
+The learning tax approach works well for people who are looking to learn proactively but find it difficult to learn on their personal time and their job contents rarely give them opportunities for proactive learning.
 
-1. ### Choosing how much time to spend on learning
+## How does it work ?
 
+To implement the learning tax approach, you need to choose what you are going to learn and how much time you will spend on it.
+
+1. ### Choosing what to learn
+   Because this approach targets proactive learning ie subjects that are not urgent for your company right now, it is of utmost important to only choose subjects that have a potential to bring value to the company. You must be capable to demonstrate your employers that the time you are taking is not wasted, that what you are learning can bring value to the company down the road.
 2. ### Choosing what to learn
-
-
-
-
 
 By using company t
 
