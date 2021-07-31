@@ -46,10 +46,18 @@ The learning tax approach requires that the subjects learned have a potential to
 
 ### Choosing how much time to spend on learning
 
-This will depend on what you are learning, your employer and your work hours. The rule of thumb is it should be a reasonable amount that won't make your employer cringe and the take time taken should not impede on your ability to deliver projects on time.
+This will depend on what you are learning, your employer and your work hours. The rule of thumb is it should be a reasonable amount that won't impede on your ability to deliver your assignments on time.
 
-## How did it work out for me ?
+## How did I use the learning tax approach ?
 
+I decided to start testing the learning tax approach in late 2019. It was the perfect timing for it because right around the same time, I also started doing mobile application development, something I hadn't really done a lot in the past. So, I needed to learn how mobile development how mobile development was done at Mirego and because this was an existing project, I also needed to learn how it was built in the first place. This was what was required for me to be able to work on the project. And because it was required and part of the job, I did it on company time without any problem.
 
+Indeed, this allowed me to start contributing to the project. But I knew deep down that if I wanted to be able to not just contribue but solve problem and bring the project to a better level, I needed to learn more about mobile development. I couldn't just be an average mobile developer, I needed to become a better one. And for that, I needed to keep learning, proactively!. 
 
-###
+And that's when As it was an existing project, I needed to learn how the project was done in the first place and how mobile development was done at Mirego in order to start contributing. This was what I needed to Because this was required learning for me to even start working, It was easy to learn on company time because it was part of my job.
+
+But, I  I also needed to learn the particularities of how mobile development was done at my company, Mirego. Around the same time, I was promoted to the role of lead developer at Mirego. So, I decided to use the approach to learn how to improve my engineering leadership abilities. become a better engineering leader. The time coincided with my nomination as a lead developer at Mirego. So, I wanted to learn more on how to be a good engineering leader.   My first order of business was choosing how much time I should be spending on learning at work.
+
+I used to spend 10 to 15 hours per week when I was learning on my own time. Obviously, I couldn't use the same amount at work because that would have impeded on my capacity to deliver. As I didn't any other base from which to decide what amount would be good for me, I decided to go with a learning tax of 10% of my weekly work hours which was 4 hours per week.
+
+Because I used the pomodoro technique for my focus work, I ended up settling for two blocks of 25 minutes per day with a 5 minutes break between each block. This gave a grand total of 4 hours and 35 minutes per week, a 11.5% learning tax.
