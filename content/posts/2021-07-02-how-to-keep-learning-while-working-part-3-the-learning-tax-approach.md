@@ -53,7 +53,9 @@ In late 2019, there was opening for a mobile development position for the projec
 
 Despite my will to help, the mobile side of the project was still new to me. To be able to contribute, I needed to learn how everything worked and how mobile development was done at Mirego. For that, I used company time to learn as this was an integral part of my job content. In less than 2 months, I was already able to contribue to the project. The learning was fast, fun, exciting and was all done on company time.
 
-But 
+Although I had reached the point where I could use 100% percent of my time to deliver value to the client, I knew deep down that it was impossible to become a good mobile developer in 2 months. What I had become was a good mobile contributor for the project. I could deliver great value but I knew that I needed to learn more to become a better mobile developer. I knew that when faced with a slightly more difficult problem than what I have had to face so far, I would have struggled.
+
+To keep learning to become a better mobile developer, I had two choices: Either, I cthe slow process of learning by exp
 
  I was already contributing to the project. not only about the project but also about how mobile development was done at Mirego.Because this was all new to me, I needed a little bit of onboarding and learning before I could be able to contribute. As this was part of my job content,  \
 \
