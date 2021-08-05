@@ -51,7 +51,7 @@ This will depend on what you are learning, your employer and your work hours. Th
 
 In late 2019, there was opening for a mobile development position for the project I was working on. We needed a new mobile developer as our colleague who was doing it before switched projects. At that point, I had only spent less than 2 months building mobile apps and that was more than 2 years before. But because it was an urgent need, I decided to help by switching from web to mobile development on the project.
 
-Despite my will to help, the mobile side of the project was still new to me. To be able to contribute, I needed to learn how everything worked and how mobile development was done at Mirego. For that, I used company time to learn as this was an integral part of my job content. In less than a month, I was already able to contribue to the project. The learning was fast, fun, exciting and was on all done on company time.
+Despite my will to help, the mobile side of the project was still new to me. To be able to contribute, I needed to learn how everything worked and how mobile development was done at Mirego. For that, I used company time to learn as this was an integral part of my job content. In less than 2 months, I was already able to contribue to the project. The learning was fast, fun, exciting and was all done on company time.
 
 But 
 
