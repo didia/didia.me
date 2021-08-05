@@ -1,15 +1,14 @@
 ---
 template: post
-title: 'How to keep learning while working, Part 3: The learning tax approach'
+title: "How to keep learning while working, Part 3: The learning tax approach"
 slug: how-to-keep-learning-while-working/the-learning-tax-approach
 draft: true
 date: 2021-07-02T15:43:02.683Z
-description: >-
-  While searching for an approach to keep learning while working, I got the idea
-  of making my employer or clients pay me a learning tax to get better at
-  serving them. In this article, I share what I discovered by adopting this
-  approach, the impact it had on projects I working on and the difficulties I
-  ran into while using it.
+description: While searching for an approach to keep learning while working, I
+  got the idea of making my employer or clients pay me a learning tax to get
+  better at serving them. In this article, I share what I discovered by adopting
+  this approach, the impact it had on projects I working on and the difficulties
+  I ran into while using it.
 category: How to keep learning while working
 tags:
   - Personal development
@@ -18,9 +17,9 @@ tags:
   - learning
   - learning tax approach
 ---
-This is the third article of the series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/) in which I share how I learned to find the time, energy and focus necessary to learn new things while maintaining a good work-life balance.
+This is the third article of the series **[How to keep learning while working](/category/how-to-keep-learning-while-working/)** in which I share how I learned to find the time, energy and focus necessary to learn new things while maintaining a good work-life balance.
 
-Previous article ☞ [**How to keep learning while working, Part 2: What experienced people taught me about learning on the job**](/how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job)
+Previous article ☞ **[How to keep learning while working, Part 2: What experienced people taught me about learning on the job](/how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job)**
 
 After learning what more experienced people around me were doing to keep getting better at their job while still spending quality with their friends and family, I realized that none of the tactics they shared with me really fitted what I was looking for. I was gutted and decided to stick to learning entirely on my own time as I used to do even if that meant I needed to make some sacrifices on my work-life balance.
 
@@ -50,6 +49,14 @@ This will depend on what you are learning, your employer and your work hours. Th
 
 ## How did I use the learning tax approach ?
 
+In late 2019, there was opening for a mobile development position for the project I was working on. We needed a new mobile developer as our colleague who was doing it before switched projects. At that point, I had only spent less than 2 months building mobile apps and that was more than 2 years before. But because it was an urgent need, I decided to help by switching from web to mobile development on the project.
+
+Despite my will to help, the mobile side of the project was still new to me. To be able to contribute, I needed to learn how everything worked and how mobile development was done at Mirego. For that, I used company time to learn as this was an integral part of my job content. In less than a month, I was already able to contribue to the project. The learning was fast, fun, exciting and was on all done on company time.
+
+But 
+
+ I was already contributing to the project. not only about the project but also about how mobile development was done at Mirego.Because this was all new to me, I needed a little bit of onboarding and learning before I could be able to contribute. As this was part of my job content,  \
+\
 I decided to start testing the learning tax approach in late 2019. It was the perfect timing for it because right around the same time, I also started doing mobile application development, something I hadn't really done a lot in the past. So, I needed to learn how mobile development how mobile development was done at Mirego and because this was an existing project, I also needed to learn how it was built in the first place. This was what was required for me to be able to work on the project. And because it was required and part of the job, I did it on company time without any problem.
 
 Indeed, this allowed me to start contributing to the project. But I knew deep down that if I wanted to be able to not just contribue but solve problem and bring the project to a better level, I needed to learn more about mobile development. I couldn't just be an average mobile developer, I needed to become a better one. And for that, I needed to keep learning, proactively!. 
