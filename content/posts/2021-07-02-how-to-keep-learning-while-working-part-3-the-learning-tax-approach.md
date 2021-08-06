@@ -49,8 +49,24 @@ This will depend on what you are learning, your employer and your work hours. Th
 
 ## How did I use the learning tax approach ?
 
-In late 2019, there was opening for a mobile development position for the project I was working on. We needed a new mobile developer as our colleague who was doing it before switched projects. At that point, I had only spent less than 2 months building mobile apps and that was more than 2 years before. But because it was an urgent need, I decided to help by switching from web to mobile development on the project.
+In late 2019, there was a need for a mobile developer on our project as the one who did it before switched for another project. At that point, I had spent only two months as mobile developer and that was more than 2 years before. Nevertheless, I decided to make the switch from the web because it was an urgent need. there was an opening for a mobile development position in the project I was working on.
 
+Although I was filled with good intentions, the mobile development side of the project was new to me. I needed to get up to speed by learning how everything worked and how mobile development had evolved since the last time I did it. Because that was a part of the job, a required learning for me, I was able to use company time to learn as much as I could.
+
+I started with an entire week of learning and then gradually started charging my clients for the value I was bringing. After a little more than two months, I reached the point where I knew everything I needed to know in order to do a decent job and deliver value for the project.
+
+But I also knew that I hadn't yet become a very good mobile developer. I knew most of what needed to be done for the project but I wouldn't call myself a real mobile developer. For that, I needed to keep learning.
+
+This is was a perfect timing as it was at that moment that I also thought about the learning tax approach. So, I decided to test in this new challenge. I would use the learning tax approach to learn more about mobile development at work.
+
+### First ride with the learning tax approach
+
+To test the learning tax approach, I needed to decide how much time out of my 40 hours per week I would dedicate to learning. I wanted to take an amount that would allow me to learn at a good pace without undermining my capacity to deliver on my projects. I didn't want my project teammates to feel the impact of the new unilaterally imposed learning tax.
+
+Because, I use the pomodoro technique for my work, I decided to go with the smallest unit of focused time possible, a single pomodori per day i.e 25 minutes per day on learning. \
+To test the learning tax approach, I decided to first go with a 25 minutes per day learning tax. I used that time to go through the advanced Android development training developed by Google.
+
+After two weeks, I realized that 25 minutes was not sufficient. My learning pace was really small\
 Despite my will to help, the mobile side of the project was still new to me. To be able to contribute, I needed to learn how everything worked and how mobile development was done at Mirego. For that, I used company time to learn as this was an integral part of my job content. In less than 2 months, I was already able to contribue to the project. The learning was fast, fun, exciting and was all done on company time.
 
 Although I had reached the point where I could use 100% percent of my time to deliver value to the client, I knew deep down that it was impossible to become a good mobile developer in 2 months. What I had become was a good mobile contributor for the project. I could deliver great value but I knew that I needed to learn more to become a better mobile developer. I knew that when faced with a slightly more difficult problem than what I have had to face so far, I would have struggled.
