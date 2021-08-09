@@ -63,10 +63,26 @@ This is was a perfect timing as it was at that moment that I also thought about 
 
 To test the learning tax approach, I needed to decide how much time out of my 40 hours per week I would dedicate to learning. I wanted to take an amount that would allow me to learn at a good pace without undermining my capacity to deliver on my projects. I didn't want my project teammates to feel the impact of the new unilaterally imposed learning tax.
 
-Because, I use the pomodoro technique for my work, I decided to go with the smallest unit of focused time possible, a single pomodori per day i.e 25 minutes per day on learning. \
+For my first try, I decided to go with 25 minutes per day for learning. I chose 25 minutes because it represent the smallest unit of focused time when using the pomodoro technique which I used for my focused work.
+
+After two weeks, I quickly realized that 25 minutes weren't enough to learn. My learning pace was really slow and because I wasn't advancing a lot, I was losing interest in learning altogether. So, I decided to try doubling that learning tax to 50 minutes per day.
+
+Increasing my learning tax to 50 minutes per day or 4 hours per week really made a difference. It fitted the recommendation of most of the online classes I wanted to follow. The tax allowed me to go through the advanced Android development training offered by Google and also read a list of recommended materials for engineering leadership. I was back again on the proactive learning train. And the best part about all of it is it didn't even affect my ability to deliver one-bit. I even realized that I was faster debugging things that didn't work as expected on the Android platform because I knew it better. I cannot tell exactly how much of an increase in productivity I saw but I felt it, I felt I was delivering my tasks faster following the classes I took.
+
+### The danger of wanting more
+
+
+
+50 minutes per day or 4 hours per week made a lot more sense. Yes, it was still less than what I used to spend on learning per week but I realized it was more than enough for me to maintain my learning targets. And I also realized that it didn't affect my capacity to deliver my tasks on time.
+
+Because, I use the pomodoro technique for my work, I decided to go with the smallest unit of focused time possible, a single pomodori per day i.e 25 minutes. For two weeks that followed, I spent 25 minutes everyday going through the advanced Android development training offered by Google. \
 To test the learning tax approach, I decided to first go with a 25 minutes per day learning tax. I used that time to go through the advanced Android development training developed by Google.
 
-After two weeks, I realized that 25 minutes was not sufficient. My learning pace was really small\
+After two weeks, I realized that 25 minutes was not enough. My learning pace was really slow
+
+
+
+\
 Despite my will to help, the mobile side of the project was still new to me. To be able to contribute, I needed to learn how everything worked and how mobile development was done at Mirego. For that, I used company time to learn as this was an integral part of my job content. In less than 2 months, I was already able to contribue to the project. The learning was fast, fun, exciting and was all done on company time.
 
 Although I had reached the point where I could use 100% percent of my time to deliver value to the client, I knew deep down that it was impossible to become a good mobile developer in 2 months. What I had become was a good mobile contributor for the project. I could deliver great value but I knew that I needed to learn more to become a better mobile developer. I knew that when faced with a slightly more difficult problem than what I have had to face so far, I would have struggled.
