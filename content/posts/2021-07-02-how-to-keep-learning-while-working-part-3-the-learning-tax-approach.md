@@ -51,27 +51,31 @@ This will depend on what you are learning, your employer and your work hours. Th
 
 In late 2019, there was a need for a mobile developer on our project as the one who did it before switched for another project. At that point, I had spent only two months as mobile developer and that was more than 2 years before. Nevertheless, I decided to make the switch from the web because it was an urgent need. there was an opening for a mobile development position in the project I was working on.
 
-Although I was filled with good intentions, the mobile development side of the project was new to me. I needed to get up to speed by learning how everything worked and how mobile development had evolved since the last time I did it. Because that was a part of the job, a required learning for me, I was able to use company time to learn as much as I could.
+Although I was filled with good intentions, the mobile development side of the project was new to me. I needed to get up to speed by learning how the project was built and how mobile development had evolved since the last time I did it. As that was a part of the job content at that moment, I was able to use company time to learn as much as I could.
 
 I started with an entire week of learning and then gradually started charging my clients for the value I was bringing. After a little more than two months, I reached the point where I knew everything I needed to know in order to do a decent job and deliver value for the project.
 
-But I also knew that I hadn't yet become a very good mobile developer. I knew most of what needed to be done for the project but I wouldn't call myself a real mobile developer. For that, I needed to keep learning.
+But I also knew that I hadn't yet become a very good mobile developer. I knew most of what needed to be done for the project but I still wouldn't call myself a real mobile developer. Some additional learnings had to be done to reach that point.
 
-This is was a perfect timing as it was at that moment that I also thought about the learning tax approach. So, I decided to test in this new challenge. I would use the learning tax approach to learn more about mobile development at work.
+This opportunity coincided with the moment I was looking for a new learning approach. So I decided to use it to test my new learning tax approach.
 
 ### First ride with the learning tax approach
 
-To test the learning tax approach, I needed to decide how much time out of my 40 hours per week I would dedicate to learning. I wanted to take an amount that would allow me to learn at a good pace without undermining my capacity to deliver on my projects. I didn't want my project teammates to feel the impact of the new unilaterally imposed learning tax.
+Using the learning tax approach meant I had to set aside some time out of my 40 hours work-week that I would dedicate to learning. That time would constitute what I call the learning tax that the company had to pay me to keep getting better at my job. Now, the important question was how much time to set aside ?
+
+Using some common sense, I knew that If I wanted this approach to work, I needed to set aside an amount that would allow me to learn consistently and at a good pace without undermining my capacity to deliver on my projects. The last thing I wanted was my teammates or the company to feel the impact of my new unilaterally imposed learning tax.
+
+So, for my first go at it, I decided to try 25 minutes per day of learning per day. Why 25 minutes ? Well, because 25 minutes is the smallest unit of focused time when using the pomodoro technique, a time management system I use to do focused work.
+
+Just two weeks in, I realized that 25 minutes per day of learning wasn't going to make it. My learning pace was really slow, I wasn't advancing a lot and because of that, I was losing interest in learning altogether.
 
 For my first try, I decided to go with 25 minutes per day for learning. I chose 25 minutes because it represent the smallest unit of focused time when using the pomodoro technique which I used for my focused work.
 
-After two weeks, I quickly realized that 25 minutes weren't enough to learn. My learning pace was really slow and because I wasn't advancing a lot, I was losing interest in learning altogether. So, I decided to try doubling that learning tax to 50 minutes per day.
+After two weeks, I quickly realized that 25 minutes weren't enough to learn. My learning pace was really slow and because I wasn't advancing a lot, I was losing interest in learning altogether. So, I decided to increase my learning tax to 50 minutes per day instead.
 
-Increasing my learning tax to 50 minutes per day or 4 hours per week really made a difference. It fitted the recommendation of most of the online classes I wanted to follow. The tax allowed me to go through the advanced Android development training offered by Google and also read a list of recommended materials for engineering leadership. I was back again on the proactive learning train. And the best part about all of it is it didn't even affect my ability to deliver one-bit. I even realized that I was faster debugging things that didn't work as expected on the Android platform because I knew it better. I cannot tell exactly how much of an increase in productivity I saw but I felt it, I felt I was delivering my tasks faster following the classes I took.
+That increase had an immediate impact. Spending 50 minutes per day or 4 hours per week on learning really made a difference for me. I was able to use that time to follow most of my coursera online classes and still stay on schedule. The tax also allowed me to go through the advanced Android development training offered by Google. Now, I was feeling a lot more proactive, a feeling I had lost for so long. But the best part about all of it was that it didn't affect my ability to deliver on my projects one-bit. I cannot say exactly how much of an increase in productivity I saw but I felt like I was now delivering my tasks faster following the new knowledge I was now getting consistently.
 
 ### The danger of wanting more
-
-
 
 50 minutes per day or 4 hours per week made a lot more sense. Yes, it was still less than what I used to spend on learning per week but I realized it was more than enough for me to maintain my learning targets. And I also realized that it didn't affect my capacity to deliver my tasks on time.
 
@@ -79,8 +83,6 @@ Because, I use the pomodoro technique for my work, I decided to go with the smal
 To test the learning tax approach, I decided to first go with a 25 minutes per day learning tax. I used that time to go through the advanced Android development training developed by Google.
 
 After two weeks, I realized that 25 minutes was not enough. My learning pace was really slow
-
-
 
 \
 Despite my will to help, the mobile side of the project was still new to me. To be able to contribute, I needed to learn how everything worked and how mobile development was done at Mirego. For that, I used company time to learn as this was an integral part of my job content. In less than 2 months, I was already able to contribue to the project. The learning was fast, fun, exciting and was all done on company time.
