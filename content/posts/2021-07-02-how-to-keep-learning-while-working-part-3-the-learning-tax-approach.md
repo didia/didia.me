@@ -61,11 +61,21 @@ This opportunity coincided with the moment I was looking for a new learning appr
 
 ### First ride with the learning tax approach
 
-Using the learning tax approach meant I had to set aside some time out of my 40 hours work-week that I would dedicate to learning. That time would constitute what I call the learning tax that the company had to pay me to keep getting better at my job. Now, the important question was how much time to set aside ?
+To start using this approach, I first needed to choose the learning tax that is how much time I would dedicate to learning per week. This time would be taken out of my 40 hours work-week. 
 
-Using some common sense, I knew that If I wanted this approach to work, I needed to set aside an amount that would allow me to learn consistently and at a good pace without undermining my capacity to deliver on my projects. The last thing I wanted was my teammates or the company to feel the impact of my new unilaterally imposed learning tax.
+Deciding how long I would spend on learning was no easy task. I knew that If I wanted this approach to work, I needed to choose an amount that would allow me not only to learn consistently and at a good pace but also to keep delivering my project's tasks. Neither my project nor my teammates should feel a negative impact of my new unilaterally imposed learning tax.
 
-So, for my first go at it, I decided to try 25 minutes per day of learning per day. Why 25 minutes ? Well, because 25 minutes is the smallest unit of focused time when using the pomodoro technique, a time management system I use to do focused work.
+To minimize impact on my team, I decided to go with 25 minutes of learning per day or roughly 2 hours per week. Why 25 minutes ? You may ask. Well, 25 minutes is the unit of focused time when using the pomodoro technique, a time management system I use for my focused work. So, choosing a single block of 25 minutes, also called a pomodoro, was choosing the minimum amount I could spend on learning.
+
+Two weeks later, I realized it was a bad choice. A single pomodoro was not going to make it for me. The learning pace was too slow. It would take me forever to finish the Android development training offered by Google, the first training I decided to spend the tax on. I needed to increase my time commitment.
+
+Instead of a pomodoro per day, I decided to try 3 pomodoro per day or a total of 8 hours and 20 minutes per week. This worked wonders. My learning pace increased, obviously. My interest in learning increased as well. It was like hitting the sweat spot. I could see the advancement. Spending 3 pomodoro per day made the learning continuous. I had enough time to finish most lessons. It was fun again. However, there was one big problem.
+
+After just one week of 3 pomodoro per day, I knew it wouldn't work. 
+
+
+
+So, for my first go at it, I decided to try 25 minutes of learning per day. Why 25 minutes ? Well, because 25 minutes is the smallest unit of focused time when using the pomodoro technique, a time management system I use to do focused work.
 
 Just two weeks in, I realized that 25 minutes per day of learning wasn't going to make it. My learning pace was really slow, I wasn't advancing a lot and because of that, I was losing interest in learning altogether.
 
