@@ -7,7 +7,7 @@ date: 2021-07-02T15:43:02.683Z
 description: While searching for an approach to keep learning while working, I
   got the idea of making my employer or clients pay me a learning tax to get
   better at serving them. In this article, I share what I discovered by adopting
-  this approach, the impact it had on projects I working on and the difficulties
+  this approach, the impact it had on projects I worked on and the difficulties
   I ran into while using it.
 category: How to keep learning while working
 tags:
@@ -49,21 +49,17 @@ This will depend on what you are learning, your employer and your work hours. Th
 
 ## How did I use the learning tax approach ?
 
-In late 2019, there was a need for a mobile developer on our project as the one who did it before switched for another project. At that point, I had spent only two months as mobile developer and that was more than 2 years before. Nevertheless, I decided to make the switch from the web because it was an urgent need. there was an opening for a mobile development position in the project I was working on.
+In late 2019, our project needed a new lead mobile developer as the previous one moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge as it was a really urgent need for our project.
 
-Although I was filled with good intentions, the mobile development side of the project was new to me. I needed to get up to speed by learning how the project was built and how mobile development had evolved since the last time I did it. As that was a part of the job content at that moment, I was able to use company time to learn as much as I could.
+This was a perfect opportunity for me to test my new tax learning approach. The mobile development side of the project was still new to me. I needed to get up to speed by learning about the inner working of the project. In addition to that, I needed to ramp up my knowledge of mobile programming to be an effective technical lead.
 
-I started with an entire week of learning and then gradually started charging my clients for the value I was bringing. After a little more than two months, I reached the point where I knew everything I needed to know in order to do a decent job and deliver value for the project.
+I was able to use company time to learn as much as I could about the project's inner working and technical details. That was part of the job content at that moment. But as I started getting used to the project, I now needed to do the actual work.
 
-But I also knew that I hadn't yet become a very good mobile developer. I knew most of what needed to be done for the project but I still wouldn't call myself a real mobile developer. Some additional learnings had to be done to reach that point.
+My all around knowledge of software development and the month or so I spent learning about the project set me up for success. I was already able to contribute significantly. But I was aware that I wasn't a good mobile developer just yet. To reach that point, I would need a lot of learning. And this was a perfect setting to test my learning tax approach to learning while still doing the job.
 
-This opportunity coincided with the moment I was looking for a new learning approach. So I decided to use it to test my new learning tax approach.
+### Setting up the learning tax approach
 
-### First ride with the learning tax approach
-
-To start using this approach, I first needed to choose the learning tax that is how much time I would dedicate to learning per week. This time would be taken out of my 40 hours work-week. 
-
-Deciding how long I would spend on learning was no easy task. I knew that If I wanted this approach to work, I needed to choose an amount that would allow me not only to learn consistently and at a good pace but also to keep delivering my project's tasks. Neither my project nor my teammates should feel a negative impact of my new unilaterally imposed learning tax.
+My first order of business to step the learning tax approach was to choose how much time I would charge as a learning tax to my employer. I had no idea or criteria to help me choose. But what I knew is I wanted to take an amount of time that wouldn't affect my ability to finish my project assignments on time. I knew that if my ability to deliver were affected, I would face a lot of resistance from both the my project manager and my client.
 
 To minimize impact on my team, I decided to go with 25 minutes of learning per day or roughly 2 hours per week. Why 25 minutes ? You may ask. Well, 25 minutes is the unit of focused time when using the pomodoro technique, a time management system I use for my focused work. So, choosing a single block of 25 minutes, also called a pomodoro, was choosing the minimum amount I could spend on learning.
 
@@ -72,8 +68,6 @@ Two weeks later, I realized it was a bad choice. A single pomodoro was not going
 Instead of a pomodoro per day, I decided to try 3 pomodoro per day or a total of 8 hours and 20 minutes per week. This worked wonders. My learning pace increased, obviously. My interest in learning increased as well. It was like hitting the sweat spot. I could see the advancement. Spending 3 pomodoro per day made the learning continuous. I had enough time to finish most lessons. It was fun again. However, there was one big problem.
 
 After just one week of 3 pomodoro per day, I knew it wouldn't work. 
-
-
 
 So, for my first go at it, I decided to try 25 minutes of learning per day. Why 25 minutes ? Well, because 25 minutes is the smallest unit of focused time when using the pomodoro technique, a time management system I use to do focused work.
 
