@@ -55,13 +55,20 @@ This was a perfect opportunity for me to test my new tax learning approach. The 
 
 I was able to use company time to learn as much as I could about the project's inner working and technical details. That was part of the job content at that moment. But as I started getting used to the project, I now needed to do the actual work.
 
-My all around knowledge of software development and the month or so I spent learning about the project set me up for success. I was already able to contribute significantly. But I was aware that I wasn't a good mobile developer just yet. To reach that point, I would need a lot of learning. And this was a perfect setting to test my learning tax approach to learning while still doing the job.
+My all around knowledge of software development and the month or so I spent learning about the project set me up for success. I was already able to contribute significantly. But I was aware that I wasn't a good mobile developer just yet. To reach that point, I still needed a lot of learning. And this was a perfect setting to test my new learning tax approach.
 
 ### Setting up the learning tax approach
 
+The learning tax approach requires one set aside a definite amount of hours per week that would be dedicated to learning. So, my first order of business was choosing that amount of time.
+
+Choosing an amount of time to charge as a learning tax to my employer wasn't an easy task. I had to make sure that the chosen amount would allow me to learn at a good pace without affecting my ability to deliver my project assignments on time.
+
+To minimize the impact on my team, I decided to start with a learning tax of 25 minutes per day. What that meant was, I would delicate roughly 2 hours per week (40 hours) on learning.\
 My first order of business to step the learning tax approach was to choose how much time I would charge as a learning tax to my employer. I had no idea or criteria to help me choose. But what I knew is I wanted to take an amount of time that wouldn't affect my ability to finish my project assignments on time. I knew that if my ability to deliver were affected, I would face a lot of resistance from both the my project manager and my client.
 
-To minimize impact on my team, I decided to go with 25 minutes of learning per day or roughly 2 hours per week. Why 25 minutes ? You may ask. Well, 25 minutes is the unit of focused time when using the pomodoro technique, a time management system I use for my focused work. So, choosing a single block of 25 minutes, also called a pomodoro, was choosing the minimum amount I could spend on learning.
+To minimize impact on my team, I decided to first start with a 2 hours per week learning tax. That represented a 5% tax on my weekly work hours. But after two weeks, it became evident that two weeks wouldn't make it. I was following a course on the online learning platform Coursera and 2 hours wasn't enough for a week's material, I needed more. So, I decided to increase the tax to 20% of my weekly work hours.
+
+A learning tax of 20% meant an equivalent of a day / week spent on learning.
 
 Two weeks later, I realized it was a bad choice. A single pomodoro was not going to make it for me. The learning pace was too slow. It would take me forever to finish the Android development training offered by Google, the first training I decided to spend the tax on. I needed to increase my time commitment.
 
