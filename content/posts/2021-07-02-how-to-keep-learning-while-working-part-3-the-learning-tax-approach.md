@@ -61,9 +61,15 @@ My all around knowledge of software development and the month or so I spent lear
 
 The learning tax approach requires one set aside a definite amount of hours per week that would be dedicated to learning. So, my first order of business was choosing that amount of time.
 
-Choosing an amount of time to charge as a learning tax to my employer wasn't an easy task. I had to make sure that the chosen amount would allow me to learn at a good pace without affecting my ability to deliver my project assignments on time.
+Choosing an amount of time to charge as a learning tax to my employer wasn't an easy task. I had to make sure that the amount chosen would allow me to learn at a good pace without affecting my ability to deliver my project assignments on time.
 
-To minimize the impact on my team, I decided to start with a learning tax of 25 minutes per day. What that meant was, I would delicate roughly 2 hours per week (40 hours) on learning.\
+To achieve that goal, I decided to go with the minimum amount time I could use for learning. Because I used the pomodoro technique for focus work, that amount was 25 minutes. So, I started by dedicating 25 minutes per day or roughly 2 hours per week. That was only 5% of my 40 hours work week which wasn't a lot.
+
+But after just two weeks, it became evident that the 5% tax wasn't going to make it. I couldn't keep up the pace of my online classes. Two hours per week weren't going to be enough . I needed to take a much larger tax if I wanted to make this learning tax approach work.
+
+At first, I thought 5% was good because it didn't represent a lot. But, I quickly realized that I was dearly mistaken.
+
+To minimize the impact on my team, I decided to start with a learning tax of 25 minutes per day. That meant that I would delicate roughly 2 hours per week (40 hours) on learning.\
 My first order of business to step the learning tax approach was to choose how much time I would charge as a learning tax to my employer. I had no idea or criteria to help me choose. But what I knew is I wanted to take an amount of time that wouldn't affect my ability to finish my project assignments on time. I knew that if my ability to deliver were affected, I would face a lot of resistance from both the my project manager and my client.
 
 To minimize impact on my team, I decided to first start with a 2 hours per week learning tax. That represented a 5% tax on my weekly work hours. But after two weeks, it became evident that two weeks wouldn't make it. I was following a course on the online learning platform Coursera and 2 hours wasn't enough for a week's material, I needed more. So, I decided to increase the tax to 20% of my weekly work hours.
