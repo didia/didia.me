@@ -65,7 +65,11 @@ Choosing an amount of time to charge as a learning tax to my employer wasn't an 
 
 To achieve that goal, I decided to go with the minimum amount time I could use for learning. Because I used the pomodoro technique for focus work, that amount was 25 minutes. So, I started by dedicating 25 minutes per day or roughly 2 hours per week. That was only 5% of my 40 hours work week which wasn't a lot.
 
-But after just two weeks, it became evident that the 5% tax wasn't going to make it. I couldn't keep up the pace of my online classes. Two hours per week weren't going to be enough . I needed to take a much larger tax if I wanted to make this learning tax approach work.
+But after just two weeks, it became evident that the 5% tax wasn't going to make it. I couldn't keep up the pace of my online classes. Two hours per week weren't going to be enough . I needed to take a much larger tax if I wanted to make this learning tax approach work. So, I decided to triple the amount of my learning tax to three 25 minutes block instead of one.
+
+The new 15% fared pretty well compared to the previous 5%. Now, I was learning at a very good pace.
+
+So I decided to go for three blocks of 25 minutes per day
 
 At first, I thought 5% was good because it didn't represent a lot. But, I quickly realized that I was dearly mistaken.
 
