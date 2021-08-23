@@ -65,36 +65,17 @@ Choosing an amount of time to charge as a learning tax to my employer wasn't an 
 
 To achieve that goal, I decided to go with the minimum amount time I could use for learning. Because I used the pomodoro technique for focus work, that amount was 25 minutes. So, I started by dedicating 25 minutes per day or roughly 2 hours per week. That was only 5% of my 40 hours work week which wasn't a lot.
 
-But after just two weeks, it became evident that the 5% tax wasn't going to make it. I couldn't keep up the pace of my online classes. Two hours per week weren't going to be enough . I needed to take a much larger tax if I wanted to make this learning tax approach work. So, I decided to triple the amount of my learning tax to three 25 minutes block instead of one.
+But after just two weeks, it became evident that the 5% tax wasn't going to make it. I couldn't keep up the pace of my online classes. Two hours per week weren't going to be enough . I needed to take a much larger tax if I wanted to make this learning tax approach work. So, I decided to double the learning tax to two 25 minutes block per day instead of one.
 
-The new 15% fared pretty well compared to the previous 5%. Now, I was learning at a very good pace.
+After trying it for two weeks, I came to the conclusion that this 10% learning tax was what I would stick with. It gave me 4 hours of learning per week without affecting how much work I was able to do in a week. I was happy with it and I liked my new found learning pace.
 
-So I decided to go for three blocks of 25 minutes per day
+### Did it work ?
 
-At first, I thought 5% was good because it didn't represent a lot. But, I quickly realized that I was dearly mistaken.
+I have been using the learning tax approach since early 2020. I still have some weeks where I am unable to use the full 4 hours per week of learning, especially when I work on tasks with a lot of pressure. I always tend to sacrifice my learning hours. But, I have made it a point to be more disciplined because I know that proactive learning is one of those things that are usually not urgent but still very important.
 
-To minimize the impact on my team, I decided to start with a learning tax of 25 minutes per day. That meant that I would delicate roughly 2 hours per week (40 hours) on learning.\
-My first order of business to step the learning tax approach was to choose how much time I would charge as a learning tax to my employer. I had no idea or criteria to help me choose. But what I knew is I wanted to take an amount of time that wouldn't affect my ability to finish my project assignments on time. I knew that if my ability to deliver were affected, I would face a lot of resistance from both the my project manager and my client.
+Using this approach has helped me get better and better at my job. I have learned to be a better mobile developer and technical lead. I have used these hours to learn more about what my colleagues who were not software developers did. This helped me developed better working relationship with them.
 
-To minimize impact on my team, I decided to first start with a 2 hours per week learning tax. That represented a 5% tax on my weekly work hours. But after two weeks, it became evident that two weeks wouldn't make it. I was following a course on the online learning platform Coursera and 2 hours wasn't enough for a week's material, I needed more. So, I decided to increase the tax to 20% of my weekly work hours.
 
-A learning tax of 20% meant an equivalent of a day / week spent on learning.
-
-Two weeks later, I realized it was a bad choice. A single pomodoro was not going to make it for me. The learning pace was too slow. It would take me forever to finish the Android development training offered by Google, the first training I decided to spend the tax on. I needed to increase my time commitment.
-
-Instead of a pomodoro per day, I decided to try 3 pomodoro per day or a total of 8 hours and 20 minutes per week. This worked wonders. My learning pace increased, obviously. My interest in learning increased as well. It was like hitting the sweat spot. I could see the advancement. Spending 3 pomodoro per day made the learning continuous. I had enough time to finish most lessons. It was fun again. However, there was one big problem.
-
-After just one week of 3 pomodoro per day, I knew it wouldn't work. 
-
-So, for my first go at it, I decided to try 25 minutes of learning per day. Why 25 minutes ? Well, because 25 minutes is the smallest unit of focused time when using the pomodoro technique, a time management system I use to do focused work.
-
-Just two weeks in, I realized that 25 minutes per day of learning wasn't going to make it. My learning pace was really slow, I wasn't advancing a lot and because of that, I was losing interest in learning altogether.
-
-For my first try, I decided to go with 25 minutes per day for learning. I chose 25 minutes because it represent the smallest unit of focused time when using the pomodoro technique which I used for my focused work.
-
-After two weeks, I quickly realized that 25 minutes weren't enough to learn. My learning pace was really slow and because I wasn't advancing a lot, I was losing interest in learning altogether. So, I decided to increase my learning tax to 50 minutes per day instead.
-
-That increase had an immediate impact. Spending 50 minutes per day or 4 hours per week on learning really made a difference for me. I was able to use that time to follow most of my coursera online classes and still stay on schedule. The tax also allowed me to go through the advanced Android development training offered by Google. Now, I was feeling a lot more proactive, a feeling I had lost for so long. But the best part about all of it was that it didn't affect my ability to deliver on my projects one-bit. I cannot say exactly how much of an increase in productivity I saw but I felt like I was now delivering my tasks faster following the new knowledge I was now getting consistently.
 
 ### The danger of wanting more
 
