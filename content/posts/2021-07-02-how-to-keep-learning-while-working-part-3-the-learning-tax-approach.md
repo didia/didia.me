@@ -49,17 +49,19 @@ This will depend on what you are learning, your employer and your work hours. Th
 
 ## How did I use the learning tax approach ?
 
-In late 2019, our project needed a new lead mobile developer as the previous one moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge as it was a really urgent need for our project.
+In late 2019, our project needed a new lead mobile developer as the previous one moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge as it was a really urgent need for our project. 
 
-This was a perfect opportunity for me to test my new tax learning approach. The mobile development side of the project was still new to me. I needed to get up to speed by learning about the inner working of the project. In addition to that, I needed to ramp up my knowledge of mobile programming to be an effective technical lead.
+Although my company gave me enough time to onboard and get used to the technicalities of the project, I knew that they wouldn't have waited for me to become a good enough mobile developer before starting to contribute. We had urgent needs that couldn't wait for me.
 
-I was able to use company time to learn as much as I could about the project's inner working and technical details. That was part of the job content at that moment. But as I started getting used to the project, I now needed to do the actual work.
+Fortunately, my all around knowledge of software development helped me get up to speed faster. I wasn't yet a good mobile developer but I was already contributing to the project after a month or so.
 
-My all around knowledge of software development and the month or so I spent learning about the project set me up for success. I was already able to contribute significantly. But I was aware that I wasn't a good mobile developer just yet. To reach that point, I still needed a lot of learning. And this was a perfect setting to test my new learning tax approach.
+But, I couldn't stop there. Being able to contribute was good but what I wanted was excellence. I needed to be not just a good developer but an excellent one. And to reach that level, I needed to keep learning while doing the job. This was the perfect opportunity to test my new learning tax approach.
 
 ### Setting up the learning tax approach
 
-The learning tax approach requires one set aside a definite amount of hours per week that would be dedicated to learning. So, my first order of business was choosing that amount of time.
+The learning tax approach involves using a percentage of company time for learning purposes. The amount of time is fixed to make it predictable and it should be used exclusively on learning subjects that may have benefit the company down the road.
+
+For me, the subject easily passed the criteria. I wanted to become an excellent mobile developer. This would definitely help the company or even the specific project I was working as I couldn't find solutions easier and faster thus saving them time and money. That part was evident. The only thing that remained was choosing the right percentage of company time to dedicate to learning.
 
 Choosing an amount of time to charge as a learning tax to my employer wasn't an easy task. I had to make sure that the amount chosen would allow me to learn at a good pace without affecting my ability to deliver my project assignments on time.
 
@@ -71,11 +73,9 @@ After trying it for two weeks, I came to the conclusion that this 10% learning t
 
 ### Did it work ?
 
-I have been using the learning tax approach since early 2020. I still have some weeks where I am unable to use the full 4 hours per week of learning, especially when I work on tasks with a lot of pressure. I always tend to sacrifice my learning hours. But, I have made it a point to be more disciplined because I know that proactive learning is one of those things that are usually not urgent but still very important.
+I have been using the learning tax approach since January 2020. I still have some weeks where I am unable to use the full 4 hours per week of learning, especially when I work on tasks with a lot of pressure. I always tend to sacrifice my learning hours. But, I have made it a point to be more disciplined because I know that proactive learning is one of those things that are usually not urgent but still very important.
 
 Using this approach has helped me get better and better at my job. I have learned to be a better mobile developer and technical lead. I have used these hours to learn more about what my colleagues who were not software developers did. This helped me developed better working relationship with them.
-
-
 
 ### The danger of wanting more
 
