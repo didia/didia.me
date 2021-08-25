@@ -69,40 +69,27 @@ To achieve that goal, I decided to go with the minimum amount time I could use f
 
 But after just two weeks, it became evident that the 5% tax wasn't going to make it. I couldn't keep up the pace of my online classes. Two hours per week weren't going to be enough . I needed to take a much larger tax if I wanted to make this learning tax approach work. So, I decided to double the learning tax to two 25 minutes block per day instead of one.
 
-After trying it for two weeks, I came to the conclusion that this 10% learning tax was what I would stick with. It gave me 4 hours of learning per week without affecting how much work I was able to do in a week. I was happy with it and I liked my new found learning pace.
+After trying it for two weeks, I came to the conclusion that this 10% learning tax was what I wanted. It gave me 4 hours of learning per week without affecting how much work I was able to do in a week.
 
-### Did it work ?
+### Does it work ?
 
-I have been using the learning tax approach since January 2020. I still have some weeks where I am unable to use the full 4 hours per week of learning, especially when I work on tasks with a lot of pressure. I always tend to sacrifice my learning hours. But, I have made it a point to be more disciplined because I know that proactive learning is one of those things that are usually not urgent but still very important.
+I have been using the learning tax approach since January 2020. Since then, it has helped me learn a lot about both engineering and management. I have used the tax to become a better mobile developer and hone my leadership skills.
 
-Using this approach has helped me get better and better at my job. I have learned to be a better mobile developer and technical lead. I have used these hours to learn more about what my colleagues who were not software developers did. This helped me developed better working relationship with them.
+Yes, I still have some difficulties to use the full 4 hours per week of learning, especially when I work on intensive tasks. But for the most part, I have been able to learn and grow more since adopting this strategy.
 
-### The danger of wanting more
-
-50 minutes per day or 4 hours per week made a lot more sense. Yes, it was still less than what I used to spend on learning per week but I realized it was more than enough for me to maintain my learning targets. And I also realized that it didn't affect my capacity to deliver my tasks on time.
-
-Because, I use the pomodoro technique for my work, I decided to go with the smallest unit of focused time possible, a single pomodori per day i.e 25 minutes. For two weeks that followed, I spent 25 minutes everyday going through the advanced Android development training offered by Google. \
-To test the learning tax approach, I decided to first go with a 25 minutes per day learning tax. I used that time to go through the advanced Android development training developed by Google.
-
-After two weeks, I realized that 25 minutes was not enough. My learning pace was really slow
-
+Using the learning tax approach doesn't seem to have affected my ability to be productive. In opposite, I think it has even increased my productivity as I have learned through the months how to be more effective and do more in less time.\
 \
-Despite my will to help, the mobile side of the project was still new to me. To be able to contribute, I needed to learn how everything worked and how mobile development was done at Mirego. For that, I used company time to learn as this was an integral part of my job content. In less than 2 months, I was already able to contribue to the project. The learning was fast, fun, exciting and was all done on company time.
+Even if I had to be questioned one day by my employer about the tax, I have made sure that whatever I choose to learn using this approach, I can demonstrate how it could help the company or the project I am working on down the road.
 
-Although I had reached the point where I could use 100% percent of my time to deliver value to the client, I knew deep down that it was impossible to become a good mobile developer in 2 months. What I had become was a good mobile contributor for the project. I could deliver great value but I knew that I needed to learn more to become a better mobile developer. I knew that when faced with a slightly more difficult problem than what I have had to face so far, I would have struggled.
+So far, I have used my learning tax in classes, articles, lessons about active listening, empathy, technical leadership, engineering management, Mobile app performance, etc. And I'm really satisfied with the growth I have gained through these classes.
 
-To keep learning to become a better mobile developer, I had two choices: Either, I cthe slow process of learning by exp
+### Next steps
 
- I was already contributing to the project. not only about the project but also about how mobile development was done at Mirego.Because this was all new to me, I needed a little bit of onboarding and learning before I could be able to contribute. As this was part of my job content,  \
-\
-I decided to start testing the learning tax approach in late 2019. It was the perfect timing for it because right around the same time, I also started doing mobile application development, something I hadn't really done a lot in the past. So, I needed to learn how mobile development how mobile development was done at Mirego and because this was an existing project, I also needed to learn how it was built in the first place. This was what was required for me to be able to work on the project. And because it was required and part of the job, I did it on company time without any problem.
+I intend to keep using the learning tax approach to keep getting better at whatever job I'm doing. Today, my child being a little bit grown up, I also manage to use 25 minutes of personal time each morning to learn things that may not have a direct impact on my job. The combination of this and the learning tax approach has allowed me to reach a level of learning I'm really satisfied with. Now, I feel like I'm learning something new everyday and I'm enjoying it. And I can see the repercussion of all this both in my professional and personal life.
 
-Indeed, this allowed me to start contributing to the project. But I knew deep down that if I wanted to be able to not just contribue but solve problem and bring the project to a better level, I needed to learn more about mobile development. I couldn't just be an average mobile developer, I needed to become a better one. And for that, I needed to keep learning, proactively!. 
+### Want to try the learning tax approach ?
 
-And that's when As it was an existing project, I needed to learn how the project was done in the first place and how mobile development was done at Mirego in order to start contributing. This was what I needed to Because this was required learning for me to even start working, It was easy to learn on company time because it was part of my job.
+If you are looking to learn proactively to get better at your job but find it difficult to learn on your personal time, I would suggest you to give this learning tax approach a try. It's really simple to set up and get going. You just need to chose two things:
 
-But, I  I also needed to learn the particularities of how mobile development was done at my company, Mirego. Around the same time, I was promoted to the role of lead developer at Mirego. So, I decided to use the approach to learn how to improve my engineering leadership abilities. become a better engineering leader. The time coincided with my nomination as a lead developer at Mirego. So, I wanted to learn more on how to be a good engineering leader.   My first order of business was choosing how much time I should be spending on learning at work.
-
-I used to spend 10 to 15 hours per week when I was learning on my own time. Obviously, I couldn't use the same amount at work because that would have impeded on my capacity to deliver. As I didn't any other base from which to decide what amount would be good for me, I decided to go with a learning tax of 10% of my weekly work hours which was 4 hours per week.
-
-Because I used the pomodoro technique for my focus work, I ended up settling for two blocks of 25 minutes per day with a 5 minutes break between each block. This gave a grand total of 4 hours and 35 minutes per week, a 11.5% learning tax.
+1. How much time you'll dedicate to learning: Make sure you some fare amount. I would suggest choosing an amount that allows you to have a good pace without affecting your capacity to deliver. If you are having a hard time finding that out, try 10%.
+2. What to learn: In order to make sure your employer doesn't see you taking time to learn in a wrong way, make sure to choose to learn something that have a direct impact on what you are doing now or will be doing in a near feature. And make sure what you will get from learning has the potential to bring a lot of value to your employer. This way, it will be easier for you to justify taking the time if you are asked to do it one day.
