@@ -21,15 +21,19 @@ This is the third article of the series **[How to keep learning while working](/
 
 Previous article ☞ **[How to keep learning while working, Part 2: What experienced people taught me about learning on the job](/how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job)**
 
-After learning what more experienced people around me were doing to keep getting better at their job while still spending quality with their friends and family, I realized that none of the tactics they shared with me really fitted what I was looking for. I was gutted and decided to stick to learning entirely on my own time as I used to do even if that meant I needed to make some sacrifices on my work-life balance.
+In late 2019, the project I was working on needed a new lead mobile developer as the previous one moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge as it was a really urgent need for our project. 
 
-Then one day, I got an unsuspected idea while filing my taxes. We give the government part of our hard earned money to allow it to make our life better by building infrastructures and services that would benefit us and potentially help us make even more money.
+Although my company gave me enough time to onboard and get used to the technicalities of the project, I knew that they wouldn't have waited for me to become a good enough mobile developer before starting to contribute. We had urgent needs that couldn't wait for me.
 
-As the government serves me, I serve my employer and its clients. What if my employer paid me a learning tax to better serve them just like I pay tax to the government for it to better serve me ? As an idea, this was really a stretch one. There is a big difference between my relation to the government and the one to my employer. But I liked the idea because it seemed to me like a better version of working on company time. So I decided to try it out.
+Fortunately, my all around knowledge of software development helped me get up to speed faster. I wasn't yet a good mobile developer but I was already contributing to the project after a month or so.
+
+But, I couldn't stop there. Being able to contribute was good but what I wanted was excellence. I needed to be not just a good developer but an excellent one. And to reach that level, I needed to keep learning while doing the job. This was the perfect opportunity to test my new learning tax approach I talked about at the end of the previous article.
 
 ## What is the learning tax approach ?
 
-The learning tax approach is a more restricted version of the learning on company time approach that we saw in the previous article. In essence, they both implies using some amount of your work hours to learn. But, in opposite to the learning on company time approach, the learning tax approach restricts the amount of time one can use for learning and limits the learning contents to only those subjects which can bring value to the company. 
+The learning tax approach is a more restricted version of using company time to learn. With this approach, instead of just taking any amount of time to learn anything, we make sure the time is capped per week and the learning subjects are only those which have the potential to bring value to the company in the near future.
+
+These restrictions aim to make sure this approach is a win-win situation for both the employee and the employer.
 
 ## Who is this approach for ?
 
@@ -49,13 +53,7 @@ This will depend on what you are learning, your employer and your work hours. Th
 
 ## How did I use the learning tax approach ?
 
-In late 2019, our project needed a new lead mobile developer as the previous one moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge as it was a really urgent need for our project. 
 
-Although my company gave me enough time to onboard and get used to the technicalities of the project, I knew that they wouldn't have waited for me to become a good enough mobile developer before starting to contribute. We had urgent needs that couldn't wait for me.
-
-Fortunately, my all around knowledge of software development helped me get up to speed faster. I wasn't yet a good mobile developer but I was already contributing to the project after a month or so.
-
-But, I couldn't stop there. Being able to contribute was good but what I wanted was excellence. I needed to be not just a good developer but an excellent one. And to reach that level, I needed to keep learning while doing the job. This was the perfect opportunity to test my new learning tax approach.
 
 ### Setting up the learning tax approach
 
