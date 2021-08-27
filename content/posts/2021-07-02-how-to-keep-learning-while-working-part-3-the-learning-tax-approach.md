@@ -31,9 +31,15 @@ But, I couldn't stop there. Being able to contribute was good but what I wanted 
 
 ## What is the learning tax approach ?
 
-The learning tax approach is a more restricted version of using company time to learn. With this approach, instead of just taking any amount of time to learn anything, we make sure the time is capped per week and the learning subjects are only those which have the potential to bring value to the company in the near future.
+Learning on company time is for me the best approach to getting better at one's job. The problem I had with that approach was that it could easily be abused or be seen as a theft by an employer. I have seen so many instances where someone on the team takes a lot of time on his own to learn something which wasn't even important for the project at hands. This would always draw frustration from the project manager and other team members because they considered it wasted time and budget. 
 
-These restrictions aim to make sure this approach is a win-win situation for both the employee and the employer.
+The learning tax approach aims to fix that by being a more restricted version of using company time to learn. Instead of just taking any amount of time to learn any subject, the employee should make sure that they only learn subjects that have a demonstrated potential to bring value to the company and they should also set a fixed amount of time per week that they would dedicate to learning.\
+\
+With these restrictions, the goal is to make sure that taking company time to learn is always a win-win for both the employee and the company.
+
+These restrictions aim to make sure that taking company time to learn is always a win-win for both the employer and company. The employee get time to learn whatever subject she wants as long as she can demonstrate how what she is learning can bring value to the employer down the road. This makes it clear to the employer that it's not lost time but an investment for the future. And the fixed amount of time per week makes the time spent is predictable for the employer.
+
+And making sure the amount of time is fixed per week makes everything predictable. 
 
 ## Who is this approach for ?
 
@@ -52,8 +58,6 @@ The learning tax approach requires that the subjects learned have a potential to
 This will depend on what you are learning, your employer and your work hours. The rule of thumb is it should be a reasonable amount that won't impede on your ability to deliver your assignments on time.
 
 ## How did I use the learning tax approach ?
-
-
 
 ### Setting up the learning tax approach
 
