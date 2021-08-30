@@ -21,17 +21,21 @@ This is the third article of the series **[How to keep learning while working](/
 
 Previous article ☞ **[How to keep learning while working, Part 2: What experienced people taught me about learning on the job](/how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job)**
 
-In late 2019, the project I was working on needed a new lead mobile developer as the previous one moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge as it was a really urgent need for our project. 
+In late 2019, the project I was working on needed a new lead mobile developer as the previous one moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge because it was a really urgent need for our project. 
 
-Although my company gave me enough time to onboard and get used to the technicalities of the project, I knew that they wouldn't have waited for me to become a good enough mobile developer before starting to contribute. We had urgent needs that couldn't wait for me.
+Although my employer at the time gave me plenty of time to onboard and get used to the technicalities of the project, I knew it wouldn't be enough to make me a good enough mobile developer. I needed to learn and practice more to get to that point.
 
 Fortunately, my all around knowledge of software development helped me get up to speed faster. I wasn't yet a good mobile developer but I was already contributing to the project after a month or so.
 
-But, I couldn't stop there. Being able to contribute was good but what I wanted was excellence. I needed to be not just a good developer but an excellent one. And to reach that level, I needed to keep learning while doing the job. This was the perfect opportunity to test my new learning tax approach I talked about at the end of the previous article.
+However, just contributing wasn't what I wanted. I pride myself in trying to be excellent in whatever I do. So, I needed to be not just a good contributor but an excellent one. And to become excellent, I needed to keep learning while doing the job. This was the perfect opportunity to test my new learning tax approach I talked about at the end of the previous article.
 
 ## What is the learning tax approach ?
 
-Learning on company time is for me the best approach to get better at one's job. The problem I had with that approach was that it could easily be abused or be seen as a theft by an employer. I have seen so many instances where someone on the team takes a lot of time on his own to learn something which wasn't even important for the project at hands. This would always draw frustration from the project manager and other team members because they viewed it as wasted time and budget. 
+In the previous article of this series, we show three main approaches that were used to learn while working: Learning by experience only, Learning on your own time or Learning on company time.
+
+As I said, I considered learning on company time the best approach for my personal situation. The only problem was that I felt like this approach could easily be abused or seen as theft by an employer.
+
+In fact,  I have seen so many instances where someone on the team takes a lot of time on his own to learn something which wasn't even important for the project at hands. This would always draw frustration from the project manager and other team members because they viewed it as wasted time and budget. 
 
 The learning tax approach aims to fix that by being a more restricted version of using company time to learn. Instead of just taking any amount of time to learn any subject, the employee should make sure that they only learn subjects that have a demonstrated potential to bring value to the company and they should also set a fixed amount of time per week that they would dedicate to learning.\
 \
