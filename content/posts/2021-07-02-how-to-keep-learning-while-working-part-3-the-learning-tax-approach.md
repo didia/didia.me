@@ -31,37 +31,17 @@ But, I couldn't stop there. Being able to contribute was good but what I wanted 
 
 ## What is the learning tax approach ?
 
-Learning on company time is for me the best approach to getting better at one's job. The problem I had with that approach was that it could easily be abused or be seen as a theft by an employer. I have seen so many instances where someone on the team takes a lot of time on his own to learn something which wasn't even important for the project at hands. This would always draw frustration from the project manager and other team members because they considered it wasted time and budget. 
+Learning on company time is for me the best approach to get better at one's job. The problem I had with that approach was that it could easily be abused or be seen as a theft by an employer. I have seen so many instances where someone on the team takes a lot of time on his own to learn something which wasn't even important for the project at hands. This would always draw frustration from the project manager and other team members because they viewed it as wasted time and budget. 
 
 The learning tax approach aims to fix that by being a more restricted version of using company time to learn. Instead of just taking any amount of time to learn any subject, the employee should make sure that they only learn subjects that have a demonstrated potential to bring value to the company and they should also set a fixed amount of time per week that they would dedicate to learning.\
 \
 With these restrictions, the goal is to make sure that taking company time to learn is always a win-win for both the employee and the company.
 
-These restrictions aim to make sure that taking company time to learn is always a win-win for both the employer and company. The employee get time to learn whatever subject she wants as long as she can demonstrate how what she is learning can bring value to the employer down the road. This makes it clear to the employer that it's not lost time but an investment for the future. And the fixed amount of time per week makes the time spent is predictable for the employer.
+These restrictions aim to make sure that taking company time to learn is always a win-win for both the employee and the employer. The employee get time to learn whatever she chooses as long as she can demonstrate how what she is learning can bring value to the employer down the road. This helps convince the employer that it's not wasted time but an investment for the future. And the fixed amount of time per week makes sure the time spent is predictable for the employer. 
 
-And making sure the amount of time is fixed per week makes everything predictable. 
+## Using the learning tax approach ?
 
-## Who is this approach for ?
-
-The learning tax approach works well for people who are looking to learn proactively but find it difficult to learn on their personal time and their job contents rarely give them opportunities for proactive learning.
-
-## How does it work ?
-
-To implement the learning tax approach, you need to careful choose what you are going to learn and how much time you will spend on it.
-
-### Choosing what to learn
-
-The learning tax approach requires that the subjects learned have a potential to bring value to the company down the road. So when choosing what to learn, it is important to select only those subjects whose value can be demonstrated to the employer. This helps make taking time to learn a clear win-win situation for both the employer and the employee.
-
-### Choosing how much time to spend on learning
-
-This will depend on what you are learning, your employer and your work hours. The rule of thumb is it should be a reasonable amount that won't impede on your ability to deliver your assignments on time.
-
-## How did I use the learning tax approach ?
-
-### Setting up the learning tax approach
-
-The learning tax approach involves using a percentage of company time for learning purposes. The amount of time is fixed to make it predictable and it should be used exclusively on learning subjects that may have benefit the company down the road.
+The learning tax approach involves using a percentage of company time for learning purposes. The amount of time is fixed to make it predictable and it should be used exclusively on learning subjects that may benefit the company down the road.
 
 For me, the subject easily passed the criteria. I wanted to become an excellent mobile developer. This would definitely help the company or even the specific project I was working as I couldn't find solutions easier and faster thus saving them time and money. That part was evident. The only thing that remained was choosing the right percentage of company time to dedicate to learning.
 
@@ -73,7 +53,7 @@ But after just two weeks, it became evident that the 5% tax wasn't going to make
 
 After trying it for two weeks, I came to the conclusion that this 10% learning tax was what I wanted. It gave me 4 hours of learning per week without affecting how much work I was able to do in a week.
 
-### Does it work ?
+## Does the learning tax approach work ?
 
 I have been using the learning tax approach since January 2020. Since then, it has helped me learn a lot about both engineering and management. I have used the tax to become a better mobile developer and hone my leadership skills.
 
@@ -85,11 +65,9 @@ Even if I had to be questioned one day by my employer about the tax, I have made
 
 So far, I have used my learning tax in classes, articles, lessons about active listening, empathy, technical leadership, engineering management, Mobile app performance, etc. And I'm really satisfied with the growth I have gained through these classes.
 
-### Next steps
-
 I intend to keep using the learning tax approach to keep getting better at whatever job I'm doing. Today, my child being a little bit grown up, I also manage to use 25 minutes of personal time each morning to learn things that may not have a direct impact on my job. The combination of this and the learning tax approach has allowed me to reach a level of learning I'm really satisfied with. Now, I feel like I'm learning something new everyday and I'm enjoying it. And I can see the repercussion of all this both in my professional and personal life.
 
-### Want to try the learning tax approach ?
+## Want to try the learning tax approach ?
 
 If you are looking to learn proactively to get better at your job but find it difficult to learn on your personal time, I would suggest you to give this learning tax approach a try. It's really simple to set up and get going. You just need to chose two things:
 
