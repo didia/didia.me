@@ -21,9 +21,9 @@ This is the third article of the series **[How to keep learning while working](/
 
 Previous article ☞ **[How to keep learning while working, Part 2: What experienced people taught me about learning on the job](/how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job)**
 
-In late 2019, the project I was working on needed a new lead mobile developer as the previous one moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge because it was a really urgent need for our project. 
+In late 2019, the project I was working on needed a new lead mobile developer as the previous lead moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge because it was an urgent need for our project. 
 
-Although my employer at the time gave me plenty of time to onboard and get used to the technicalities of the project, I knew it wouldn't be enough to make me a good enough mobile developer. I needed to learn and practice more to get to that point.
+Although my employer at the time gave me plenty of time to onboard and get used to the technicalities of the project, I knew it wouldn't be enough to make me an excellent mobile developer. I needed to learn and practice more to get to that point.
 
 Fortunately, my all around knowledge of software development helped me get up to speed faster. I wasn't yet a good mobile developer but I was already contributing to the project after a month or so.
 
@@ -31,19 +31,19 @@ However, just contributing wasn't what I wanted. I pride myself in trying to be 
 
 ## What is the learning tax approach ?
 
-In the previous article of this series, we show three main approaches that were used to learn while working: Learning by experience only, Learning on your own time or Learning on company time.
+In the previous article of this series, we showed three main approaches to learn while working: Learning by experience only, Learning on personal time and Learning on company time.
 
-As I said, I considered learning on company time the best approach for my personal situation. The only problem was that I felt like this approach could easily be abused or seen as theft by an employer.
+For me, learning on company time was the ideal approach given my personal situation. I wanted to spend as much time as I could with my family and spend time working on my side project while continuing to learn and grow in my career. The only problem was that I felt like using company time to learn instead of delivering value wasn't fair to my employer. 
 
-In fact,  I have seen so many instances where someone on the team takes a lot of time on his own to learn something which wasn't even important for the project at hands. This would always draw frustration from the project manager and other team members because they viewed it as wasted time and budget. 
+In fact,  I have seen so many instances where someone on the team took a lot of time on his own to learn something that wasn't required for the project at hands and ended up being unable to deliver on their tasks. This would always draw frustration from the project manager and other team members because it was usually perceived as wasted time and budget.
 
-The learning tax approach aims to fix that by being a more restricted version of using company time to learn. Instead of just taking any amount of time to learn any subject, the employee should make sure that they only learn subjects that have a demonstrated potential to bring value to the company and they should also set a fixed amount of time per week that they would dedicate to learning.\
-\
-With these restrictions, the goal is to make sure that taking company time to learn is always a win-win for both the employee and the company.
+With the learning tax approach, I wanted to make learning on company time fairer for my employer and also eliminate or reduce the perceived waste of time and budget from the project manager and other team members.
 
-These restrictions aim to make sure that taking company time to learn is always a win-win for both the employee and the employer. The employee get time to learn whatever she chooses as long as she can demonstrate how what she is learning can bring value to the employer down the road. This helps convince the employer that it's not wasted time but an investment for the future. And the fixed amount of time per week makes sure the time spent is predictable for the employer. 
+The learning tax approach is a more restricted version of using company time to learn. Instead of just taking any amount of time to learn any subject, employees should make sure that they can demonstrate clearly how whatever they choose to learn at any time have a potential to bring value to the their current project or to the company at large. They should also ensure that the amount of time they dedicate to learning is predictable from week to week and doesn't affect their capacity to deliver their tasks.
 
-## Using the learning tax approach ?
+Using these restrictions when using company time to learn aim to make sure it's always a win-win for both the employees and the employer. Employees win because they don't have to sacrifice personal time to keep learning any more. And the employer wins because they can be sure that what employees are learning will likely bring them value in the near future.
+
+## Using the learning tax approach
 
 The learning tax approach involves using a percentage of company time for learning purposes. The amount of time is fixed to make it predictable and it should be used exclusively on learning subjects that may benefit the company down the road.
 
