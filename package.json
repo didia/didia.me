@@ -53,7 +53,7 @@
     "lodash": "^4.17.21",
     "lodash.assign": "^4.2.0",
     "moment": "^2.29.1",
-    "netlify-cms-app": "^2.15.17",
+    "netlify-cms-app": "^2.15.40",
     "node-sass": "^4.14.1",
     "normalize-scss": "^7.0.1",
     "prismjs": "^1.23.0",
