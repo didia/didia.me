@@ -73,7 +73,7 @@
     "babel-core": "^7.0.0-0",
     "babel-eslint": "^10.0.3",
     "babel-jest": "^27.0.2",
-    "browserslist": "^4.16.6",
+    "browserslist": "^4.16.8",
     "concurrently": "^6.2.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.15.0",
