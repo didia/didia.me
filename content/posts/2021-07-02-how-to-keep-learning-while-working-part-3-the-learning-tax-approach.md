@@ -41,21 +41,21 @@ With the learning tax approach, I wanted to make learning on company time fairer
 
 The learning tax approach is a more restricted version of using company time to learn. Instead of just taking any amount of time to learn any subject, employees should make sure that they can demonstrate clearly how whatever they choose to learn at any time have a potential to bring value to the their current project or to the company at large. They should also ensure that the amount of time they dedicate to learning is predictable from week to week and doesn't affect their capacity to deliver their tasks.
 
-Using these restrictions when using company time to learn aim to make sure it's always a win-win for both the employees and the employer. Employees win because they don't have to sacrifice personal time to keep learning any more. And the employer wins because they can be sure that what employees are learning will likely bring them value in the near future.
+Using these restrictions when using company time to learn aim to make sure it's always a win-win for both the employees and the employer. Employees win because they don't have to sacrifice personal time to keep learning. And the employer wins because they can be sure that what employees are learning will likely bring them value in the near future.
 
 ## Using the learning tax approach
 
-The learning tax approach involves using a percentage of company time for learning purposes. The amount of time is fixed to make it predictable and it should be used exclusively on learning subjects that may benefit the company down the road.
+To use the learning tax approach, I needed to start by choosing the learning tax i.e how much time I would set aside for learning purposes. Choosing the right amount of time as a learning tax was key to the approach and it wasn't an easy task. I had to make sure the tax chosen was enough to learn at a good pace and at the same time, it didn't affect my ability to deliver my project assignments on time. 
 
-For me, the subject easily passed the criteria. I wanted to become an excellent mobile developer. This would definitely help the company or even the specific project I was working as I couldn't find solutions easier and faster thus saving them time and money. That part was evident. The only thing that remained was choosing the right percentage of company time to dedicate to learning.
+I didn't have any data to help me decide how much time was the best option for me. So, I decided to go with the minimum block of time I could afford to use and that was a block of 25 minutes per day. If you are wondering why 25 minutes, it's because I use the pomodoro technique for my focused work which divide time in multiple 25 minutes blocks.
 
-Choosing an amount of time to charge as a learning tax to my employer wasn't an easy task. I had to make sure that the amount chosen would allow me to learn at a good pace without affecting my ability to deliver my project assignments on time.
+Twenty-five minutes per day meant my learning tax was only 5% of my weekly work hours. It wasn't a huge commitment. I was happy because the impact on my work was minimal! I was still delivering my tasks on time and at the same rate I used to before taking the 5% learning tax which was quite surprising for me.
 
-To achieve that goal, I decided to go with the minimum amount time I could use for learning. Because I used the pomodoro technique for focus work, that amount was 25 minutes. So, I started by dedicating 25 minutes per day or roughly 2 hours per week. That was only 5% of my 40 hours work week which wasn't a lot.
+Unfortunately, as time passed, I started to realize that 25 minutes wouldn't be enough to maintain a good learning pace. It didn't allow me keep up the pace with most of my online classes as I was always late on weekly assignments.
 
-But after just two weeks, it became evident that the 5% tax wasn't going to make it. I couldn't keep up the pace of my online classes. Two hours per week weren't going to be enough . I needed to take a much larger tax if I wanted to make this learning tax approach work. So, I decided to double the learning tax to two 25 minutes block per day instead of one.
+After analyzing all the lessons I had taken up to that point, I realized that doubling my learning tax would probably be the better option. However, I was afraid of the impact spending a half day on learning could have on my capacity to deliver on my project tasks. Nevertheless, I decided to try it anyway.
 
-After trying it for two weeks, I came to the conclusion that this 10% learning tax was what I wanted. It gave me 4 hours of learning per week without affecting how much work I was able to do in a week.
+After just two weeks of increasing my learning tax to 50 minutes per day, it was evident that I had found my balance. It was a perfect mix. My colleagues could barely detect the change. I was still delivering on my promises and I had enough time to follow my online classes. For me, a learning tax of 10% happened to be my sweet spot.
 
 ## Does the learning tax approach work ?
 
