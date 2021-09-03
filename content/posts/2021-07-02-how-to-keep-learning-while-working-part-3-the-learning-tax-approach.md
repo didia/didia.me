@@ -59,21 +59,22 @@ After just two weeks of increasing my learning tax to 50 minutes per day, it was
 
 ## Does the learning tax approach work ?
 
-I have been using the learning tax approach since January 2020. Since then, it has helped me learn a lot about both engineering and management. I have used the tax to become a better mobile developer and hone my leadership skills.
+I started using the learning tax approach in January 2020. Since then, it has helped me learn a lot about both engineering and management without having a negative impact on my capacity to deliver on my project tasks. I have seen not only a great increase in my productivity as a software developer but also a sound improvement on my leadership skills.
 
-Yes, I still have some difficulties to use the full 4 hours per week of learning, especially when I work on intensive tasks. But for the most part, I have been able to learn and grow more since adopting this strategy.
+Yes, there are some weeks where work is so intense that I choose not to use my full learning tax. But those weeks are the exception rather than the rule. 
 
-Using the learning tax approach doesn't seem to have affected my ability to be productive. In opposite, I think it has even increased my productivity as I have learned through the months how to be more effective and do more in less time.\
-\
-Even if I had to be questioned one day by my employer about the tax, I have made sure that whatever I choose to learn using this approach, I can demonstrate how it could help the company or the project I am working on down the road.
+I don't know if this strategy could work for everybody but for me it has been a game changer. I don't feel guilty to spend company time on learning anymore because I'm always ready to show how what I am learning can bring value to the projects I'm working on. And after using this approach for almost two years, I have a full history to show how this strategy has helped me achieve great results.
 
-So far, I have used my learning tax in classes, articles, lessons about active listening, empathy, technical leadership, engineering management, Mobile app performance, etc. And I'm really satisfied with the growth I have gained through these classes.
-
-I intend to keep using the learning tax approach to keep getting better at whatever job I'm doing. Today, my child being a little bit grown up, I also manage to use 25 minutes of personal time each morning to learn things that may not have a direct impact on my job. The combination of this and the learning tax approach has allowed me to reach a level of learning I'm really satisfied with. Now, I feel like I'm learning something new everyday and I'm enjoying it. And I can see the repercussion of all this both in my professional and personal life.
+My leadership skills improvement has paved the way for my hiring as Chief Technological Officer at my new company. Today, as the most senior technical leader, learning is now part of my job content. I don't really need the learning tax anymore like I used to. But I intend to keep using it because I want to maintain the discipline this approach has brought to the way I choose what to learn and how much time to spend on learning. 
 
 ## Want to try the learning tax approach ?
 
-If you are looking to learn proactively to get better at your job but find it difficult to learn on your personal time, I would suggest you to give this learning tax approach a try. It's really simple to set up and get going. You just need to chose two things:
+If you are also struggling to find time to get better at your job like I used to, I would suggest give this learning tax approach a try. It's really simple to set up and get going. You just need to do three things:
 
-1. How much time you'll dedicate to learning: Make sure you some fare amount. I would suggest choosing an amount that allows you to have a good pace without affecting your capacity to deliver. If you are having a hard time finding that out, try 10%.
-2. What to learn: In order to make sure your employer doesn't see you taking time to learn in a wrong way, make sure to choose to learn something that have a direct impact on what you are doing now or will be doing in a near feature. And make sure what you will get from learning has the potential to bring a lot of value to your employer. This way, it will be easier for you to justify taking the time if you are asked to do it one day.
+1. **Choose how much time you'll dedicate to learning**: Make sure you some fare amount. I would suggest choosing an amount that allows you to have a good pace without affecting your capacity to deliver. If you are having a hard time finding that out, try 10%.
+2. **Choose what you are going to learn**: In order to make sure this approach is fair to your employer, make sure to choose to learn only those subjects that have a potential to bring value to projects you are currently working on. This will make it easy for you to justify taking the time if your employer asks you to justify doing it.
+3. **Repeat:** Don't stop learning. There are a lot of things that can be learned. Once you are done learning a subject, choose another one and keep going. Our government almost never gives us a tax break, while should you ?
+
+
+
+I hope this approach will bring you as much success as it has brought me. I have learned a lot and I'm happy that this approach keeps me learning. If you decide to use this approach, I want to hear about how you are doing so don't hesitate to send me direct twitter message. I will be very happy to talk to you about this.
