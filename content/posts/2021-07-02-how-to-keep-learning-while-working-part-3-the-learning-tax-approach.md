@@ -6,9 +6,8 @@ draft: true
 date: 2021-07-02T15:43:02.683Z
 description: While searching for an approach to keep learning while working, I
   got the idea of making my employer or clients pay me a learning tax to get
-  better at serving them. In this article, I share what I discovered by adopting
-  this approach, the impact it had on projects I worked on and the difficulties
-  I ran into while using it.
+  better at serving them. In this article, I share how I did it and what impacts
+  this learning approach had on my productivity.
 category: How to keep learning while working
 tags:
   - Personal development
