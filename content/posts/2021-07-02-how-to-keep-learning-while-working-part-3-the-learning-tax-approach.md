@@ -5,9 +5,9 @@ slug: how-to-keep-learning-while-working/the-learning-tax-approach
 draft: true
 date: 2021-07-02T15:43:02.683Z
 description: While searching for an approach to keep learning while working, I
-  got the idea of making my employer or clients pay me a learning tax to get
-  better at serving them. In this article, I share how I did it and what impacts
-  this learning approach had on my productivity.
+  got the idea of charging my employer a learning tax to get better at serving
+  them. In this article, I share how this approach helped me to keep learning on
+  the job.
 category: How to keep learning while working
 tags:
   - Personal development
@@ -20,11 +20,9 @@ This is the third article of the series **[How to keep learning while working](/
 
 Previous article ☞ **[How to keep learning while working, Part 2: What experienced people taught me about learning on the job](/how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job)**
 
-In late 2019, the project I was working on needed a new lead mobile developer as the previous lead moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years before. Nevertheless, I decided to take on the challenge because it was an urgent need for our project. 
+In late 2019, the project I was working on needed a new lead mobile developer as the previous one moved on to another project. At that point, the only experience I had as a mobile developer was a two months stint two years prior to that. Nevertheless, I decided to take on the challenge because it was an urgent need for our project.
 
-Although my employer at the time gave me plenty of time to onboard and get used to the technicalities of the project, I knew it wouldn't be enough to make me an excellent mobile developer. I needed to learn and practice more to get to that point.
-
-Fortunately, my all around knowledge of software development helped me get up to speed faster. I wasn't yet a good mobile developer but I was already contributing to the project after a month or so.
+My employer at the time gave me plenty of time to onboard and get used to the technicalities of the project and thanks to my all-around knowledge of software development, I was able to quickly get up to speed and start contributing to the project only a month or so after joining.
 
 However, just contributing wasn't what I wanted. I pride myself in trying to be excellent in whatever I do. So, I needed to be not just a good contributor but an excellent one. And to become excellent, I needed to keep learning while doing the job. This was the perfect opportunity to test my new learning tax approach I talked about at the end of the previous article.
 
@@ -73,7 +71,5 @@ If you are also struggling to find time to get better at your job like I used to
 1. **Choose how much time you'll dedicate to learning**: Make sure you some fare amount. I would suggest choosing an amount that allows you to have a good pace without affecting your capacity to deliver. If you are having a hard time finding that out, try 10%.
 2. **Choose what you are going to learn**: In order to make sure this approach is fair to your employer, make sure to choose to learn only those subjects that have a potential to bring value to projects you are currently working on. This will make it easy for you to justify taking the time if your employer asks you to justify doing it.
 3. **Repeat:** Don't stop learning. There are a lot of things that can be learned. Once you are done learning a subject, choose another one and keep going. Our government almost never gives us a tax break, while should you ?
-
-
 
 I hope this approach will bring you as much success as it has brought me. I have learned a lot and I'm happy that this approach keeps me learning. If you decide to use this approach, I want to hear about how you are doing so don't hesitate to send me direct twitter message. I will be very happy to talk to you about this.
