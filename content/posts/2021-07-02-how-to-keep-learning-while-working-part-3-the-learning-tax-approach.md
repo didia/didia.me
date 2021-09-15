@@ -28,7 +28,7 @@ However, just contributing wasn't what I wanted. I pride myself in trying to be 
 
 ## What is the learning tax approach ?
 
-In the previous article of this series, we showed three main approaches to learn while working: Learning by experience only, Learning on personal time and Learning on company time.
+In the previous article of this series, we showed three main approaches to learn while working: *Learning by experience only*, *Learning on personal time* and *Learning on company time*.
 
 For me, learning on company time was the ideal approach given my personal situation. I wanted to spend as much time as I could with my family and spend time working on my side project while continuing to learn and grow in my career. The only problem was that I felt like using company time to learn instead of delivering value wasn't fair to my employer. 
 
