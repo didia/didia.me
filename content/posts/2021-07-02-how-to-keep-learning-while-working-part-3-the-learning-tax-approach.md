@@ -2,7 +2,7 @@
 template: post
 title: "How to keep learning while working, Part 3: The learning tax approach"
 slug: how-to-keep-learning-while-working/the-learning-tax-approach
-draft: true
+draft: false
 date: 2021-07-02T15:43:02.683Z
 description: While searching for an approach to keep learning while working, I
   got the idea of charging my employer a learning tax to get better at serving
@@ -15,6 +15,7 @@ tags:
   - engineering management
   - learning
   - learning tax approach
+thumbnail: /media/wes-hicks-4-eetnac1s4-unsplash.jpg
 ---
 This is the third article of the series **[How to keep learning while working](/category/how-to-keep-learning-while-working/)** in which I share how I learned to find the time, energy and focus necessary to learn new things while maintaining a good work-life balance.
 
@@ -38,7 +39,7 @@ With the learning tax approach, I wanted to make learning on company time fairer
 
 The learning tax approach is a more restricted version of using company time to learn. Instead of just taking any amount of time to learn any subject, employees should make sure that they can demonstrate clearly how whatever they choose to learn at any time have a potential to bring value to the their current project or to the company at large. They should also ensure that the amount of time they dedicate to learning is predictable from week to week and doesn't affect their capacity to deliver their tasks.
 
-Using these restrictions when using company time to learn aim to make sure it's always a win-win for both the employees and the employer. Employees win because they don't have to sacrifice personal time to keep learning. And the employer wins because they can be sure that what employees are learning will likely bring them value in the near future.
+Using these restrictions when using company time to learn aims to make sure it's always a win-win for both the employees and the employer. Employees win because they don't have to sacrifice personal time to keep learning. And the employer wins because they can be sure that what employees are learning will likely bring them value in the near future.
 
 ## Using the learning tax approach
 
@@ -50,7 +51,7 @@ Twenty-five minutes per day meant my learning tax was only 5% of my weekly work 
 
 Unfortunately, as time passed, I started to realize that 25 minutes wouldn't be enough to maintain a good learning pace. It didn't allow me keep up the pace with most of my online classes as I was always late on weekly assignments.
 
-After analyzing all the lessons I had taken up to that point, I realized that doubling my learning tax would probably be the better option. However, I was afraid of the impact spending a half day on learning could have on my capacity to deliver on my project tasks. Nevertheless, I decided to try it anyway.
+After analyzing all the classes I had taken up to that point, I realized that doubling my learning tax would probably be the better option. However, I was afraid of the impact spending a half day on learning could have on my capacity to deliver on my project tasks. Nevertheless, I decided to try it anyway.
 
 After just two weeks of increasing my learning tax to 50 minutes per day, it was evident that I had found my balance. It was a perfect mix. My colleagues could barely detect the change. I was still delivering on my promises and I had enough time to follow my online classes. For me, a learning tax of 10% happened to be my sweet spot.
 
