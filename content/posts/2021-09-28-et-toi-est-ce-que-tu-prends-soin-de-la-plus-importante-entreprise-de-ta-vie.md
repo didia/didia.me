@@ -14,7 +14,7 @@ En ce qui me concerne, j'en ai fait le constant récemment en faisant une analys
 
 En tant qu'étudiant, mes études étaient l'entreprise au centre de ma vie. Une fois sur le marché d'emploi, toute mon énergie étaient orientée à la réussite de ma carrière professionnelle et ce, jusqu'à ce que j'entreprenne de fonder une famille et que je découvre que je désirais maintenant tout donner à ma famille.
 
-Chacune de ces entreprises me demandaient presque toujours des sacrifices énormes pour atteindre les objectifs que je me fixais. Je ne peux pas compter le nombre de fois que j'ai dû sacrifier mes relations amicales, activités sociales, mon sommeil, ma santé physique et mentale afin de mettre toutes les chances de mon coté pour réussir un examen ou finir un projet au travail.
+Chacune de ces entreprises me demandaient presque toujours des sacrifices énormes pour atteindre les objectifs que je me fixais. Je ne peux pas compter le nombre de fois que j'ai dû sacrifier mes relations amicales, activités sociales, mon sommeil, ma santé physique et mentale, etc. afin de mettre toutes les chances de mon coté pour réussir un examen ou finir un projet au travail.
 
 
 
