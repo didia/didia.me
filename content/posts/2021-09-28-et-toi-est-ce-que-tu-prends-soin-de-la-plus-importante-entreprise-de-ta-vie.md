@@ -14,11 +14,21 @@ En ce qui me concerne, j'en ai fait le constant récemment en faisant une analys
 
 En tant qu'étudiant, mes études étaient l'entreprise au coeur de ma vie. Une fois sur le marché d'emploi, toute mon énergie fut orientée à la réussite de ma carrière professionnelle et ce, jusqu'à ce que j'entrepris de fonder une famille et que je découvris que je désirais désormais tout donner à ma famille.
 
-Chacune de ces entreprises me demandaient presque toujours des sacrifices énormes pour atteindre les objectifs que je me fixais. Je ne peux pas compter le nombre de fois que j'ai dû sacrifier mes relations amicales, activités sociales, mon sommeil, ma santé physique et mentale, etc. afin de mettre toutes les chances de mon coté pour réussir un examen ou finaliser un projet au travail.
+Chacune de ces entreprises me demandaient presque toujours des sacrifices énormes pour atteindre les objectifs que je me fixais. Je ne peux pas compter le nombre de fois que j'ai dû mettre de côté mes relations amicales, activités sociales, mon sommeil, ma santé physique et mentale, etc. afin de mettre toutes les chances de mon coté pour réussir un examen ou finaliser un projet au travail.
 
-Cependant, en faisant l'analyse retrospective de ma vie, j'ai fini par réaliser que tous ces sacrifices qui étaient pourtant destinés à me rendre meilleur dans mes entreprises finirent toujours par avoir un impact négatif sur ces dernières.
+Cependant, mon analyse retrospective des dernières années de ma vie m'a permis de réaliser que ces mêmes sacrifices qui me permettaient de réussir ce que j'entreprenais à court terme étaient aussi ceux qui transformaient mes victoires en défaites à long terme.
 
-Par exemple, à ma première année à l'Université, je mis de coté ma discipline personnelle en terme d'alimentation et mes activités physiques pour maximiser le temps que je consacrais à mes cours (Et fuir l'hivers). Cela a causé une détorioration non seulement de ma santé physique avec une augmentation dangeureuse de mon poids mais aussi de ma santé mentale car j'étais désormais beaucoup plus stressé qu'avant cela. Bien que mes résultats de la première année étaient excellents, le stress engendré par mon gain de poids et mon manque d'activité physique ont fini par me rendre moins performant à ma deuxième année.
+En effet, prenons un exemple d'un cycle qui se répétait souvent au travail. Lorsque je faisais face à un projet difficile qui demandait un investissement important en terme de temps, j'allais souvent chercher ce temps dans mon sommeil, le temps passé avec ma famille ou mes temps passés au gym. Au lieu de dormir 6h par jour, je pouvais me limiter à 4h par jour. Cela me donnait 2h de plus pour travailler. Ajouté à cela l'heure que je passais au gym et les deux heures de temps de qualité qualité que je passe souvent en famille après le boulet, j'étais capable d'aller chercher 4h de plus par jour à consacrer au projet.
+
+
+
+tCe sont ces sacrifices qui me permettaient de faire la différence et de réussir ce que j'entreprenais. Cependant, avec mon analyse retrospective de ces dernières années, je réalise maintenant que ces réussites n'étaient que temporaires. Ces sacrifices avaient une portée bien plus grande que je ne l'imaginais. Et bien souvent, ils 
+
+En effet, en sacrifiant plusieurs aspects de ma vie 
+
+Cependant, en faisant mon analyse retrospective de ma vie, j'ai réalisé que tous ces sacrifices qui étaient destinés à me rendre meilleur dans mes entreprises finissaient toujours par avoir un impact négatif sur ces dernières.
+
+Par exemple, à ma première année à l'Université, j'ai mis de coté ma discipline personnelle en terme d'alimentation et mes activités physiques pour maximiser le temps que je consacrais à mes cours (Et fuir l'hivers). Cela a causé une détérioration non seulement de ma santé physique avec une augmentation dangereuse de mon poids mais aussi de ma santé mentale car j'étais désormais beaucoup plus stressé qu'avant cela. Bien que mes résultats de la première année étaient excellents, le stress engendré par mon gain de poids et mon manque d'activité physique ont fini par me rendre moins performant à ma deuxième année.
 
 La même chose s'est produit lorsque je suis arrivée sur le marché du travail.
 
