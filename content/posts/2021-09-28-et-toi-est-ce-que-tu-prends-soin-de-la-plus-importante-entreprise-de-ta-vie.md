@@ -18,11 +18,9 @@ Chacune de ces entreprises me demandaient presque toujours des sacrifices énorm
 
 Cependant, mon analyse retrospective des dernières années de ma vie m'a permis de réaliser que la quasi totalité des victoires que j'obtenais grâce à ces sacrifices finissaient toujours par se transformer en défaites à long terme. 
 
-Ainsi, en sacrifiant par exemple mon sommeil pour être en mesure de livre un projet donné au travail, je finissais par me retrouver en manque de sommeil à la fin du projet. Ce qui affectait ma productivité sur d'autres projets que j'avais à faire. Pour combler cette baisse de productivité, je sacrifiais encore plus de temps de sommeil ou pire le temps consacré à ma famille.
+Ainsi, en sacrifiant par exemple mon sommeil pour être en mesure de livrer un projet donné au travail, je finissais par me retrouver en manque de sommeil à la fin du projet. Ce qui affectait ma productivité sur d'autres projets que j'avais à faire. Pour combler cette baisse de productivité, je sacrifiais encore plus de temps de sommeil ou pire le temps consacré à ma famille.
 
 Au final, je me retrouvais souvent coincé dans un cercle vicieux des sacrifices dont les effets néfastes sur moi, mon entourage et mes entreprises croissaient constamment avec le temps qui passait.
-
-
 
 Un cercle vicieux dans lequel je me suis souvent retrouvé au travail pourrait mieux illustrer mon propos. En effet, à chaque fois que je faisais face à un projet difficile au travail qui demandait un investissement important en temps, je sacrifiais presque toujours mes activités personnelles. C'était soit mon sommeil qui devrait donner du temps, soit mes activités sportives ou encore le temps de qualité que je passais avec ma famille. Par exemple, au lieu de dormir 6h par jour, je choisissais de me limiter à 4h pour ainsi gagner 2h que je pouvais utiliser pour travail. En laissant tomber l'entrainement, je pouvais gagner une autre heure et demie à consacrer à mon projet. Et sacrifier mon temps de famille me permettait d'aller chercher environ 4h de plus. C'était toujours ainsi, une routine bien rodée.
 
