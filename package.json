@@ -52,7 +52,7 @@
     "invariant": "^2.2.4",
     "lodash": "^4.17.21",
     "lodash.assign": "^4.2.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "netlify-cms-app": "^2.15.67",
     "node-sass": "^4.14.1",
     "normalize-scss": "^7.0.1",
