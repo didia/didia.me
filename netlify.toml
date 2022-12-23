@@ -3,4 +3,4 @@
   command = "npm run build"
   ignore = "git log -1 --pretty=%B | grep dependabot"
 [build.environment]
-  NODE_VERSION = "12"
+  NODE_VERSION = "18.12.1"
