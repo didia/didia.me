@@ -1,6 +1,6 @@
 ---
 template: post
-title: Aujourd'hui j'ai 30 ans et j'ai une nouvelle à annoncer!
+title: Aujourd'hui c'est mon anniversaire et j'ai une bonne nouvelle à annoncer.
 draft: true
 date: 2022-12-23T11:39:48.380Z
 description: Aujourd'hui, j'ai officiellement 30 ans! Cette année, c'est aussi
