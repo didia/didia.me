@@ -1,6 +1,7 @@
 ---
 template: post
 title: Aujourd'hui c'est mon anniversaire et j'ai une bonne nouvelle à annoncer.
+slug: 2022-12-23-anniversaire-et-academie-elite
 draft: true
 date: 2022-12-23T11:39:48.380Z
 description: Aujourd'hui, j'ai officiellement 30 ans! Cette année, c'est aussi
