@@ -77,7 +77,7 @@
     "concurrently": "^7.6.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.15.0",
-    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jest": "^26.1.1",
     "eslint-plugin-mirego": "1.0.0",
     "eslint-plugin-prettier": "^3.4.1",
