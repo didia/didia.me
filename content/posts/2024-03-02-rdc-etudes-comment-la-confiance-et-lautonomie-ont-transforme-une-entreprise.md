@@ -1,7 +1,7 @@
 ---
 template: post
 title: "RDC Études: Comment la confiance et l'autonomie ont transformé une entreprise"
-draft: true
+draft: false
 date: 2024-02-13T11:19:11.690Z
 description: "De la crise à la célébration : en janvier 2023, RDC Études
   affrontait l'une des périodes les plus tumultueuses de son histoire. Un an
