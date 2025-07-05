@@ -1,0 +1,21 @@
+---
+export interface Props {
+  copyright: string;
+}
+
+const { copyright } = Astro.props;
+---
+
+<div class="copyright">
+  {copyright}
+</div>
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .copyright {
+    color: lighten($color-gray, 18%);
+    font-size: $typographic-small-font-size;
+  }
+</style>

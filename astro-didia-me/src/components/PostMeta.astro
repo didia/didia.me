@@ -1,0 +1,47 @@
+---
+import moment from 'moment';
+import 'moment/locale/fr';
+
+export interface Props {
+  date: Date;
+  category?: string;
+}
+
+const { date, category } = Astro.props;
+moment.locale('fr');
+
+const categorySlug = category ? category.toLowerCase().replace(/\s+/g, '-') : '';
+---
+
+<div class="meta">
+  <p class="meta__date">Publié le {moment(date).format('D MMMM YYYY')}</p>
+  {category && (
+    <p class="meta__category">
+      dans <a href={`/category/${categorySlug}/`} class="meta__category-link">{category}</a>
+    </p>
+  )}
+</div>
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .meta {
+    @include margin-bottom(1);
+    &__date {
+      font-style: italic;
+    }
+    &__category {
+      &-link {
+        font-weight: 600;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  @include breakpoint-sm {
+    .meta {
+      @include margin-bottom(1);
+    }
+  }
+</style>

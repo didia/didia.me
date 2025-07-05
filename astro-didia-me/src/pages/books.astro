@@ -1,0 +1,36 @@
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import Page from '../components/Page.astro';
+import Feed from '../components/Feed.astro';
+import { siteConfig } from '../config';
+
+// Get all books
+const allBooks = await getCollection('books', ({ data }) => {
+  return data.draft !== true;
+});
+
+// Sort books by reading start date
+const sortedBooks = allBooks.sort(
+  (a, b) => (b.data.readingStart?.valueOf() || 0) - (a.data.readingStart?.valueOf() || 0)
+);
+
+// Map books to the format expected by Feed component (reuse Feed for books)
+const books = sortedBooks.map(book => ({
+  id: book.id,
+  slug: `books/${book.slug}`,
+  data: {
+    title: book.data.title,
+    date: book.data.readingStart || new Date(),
+    category: book.data.category,
+    description: book.data.description
+  }
+}));
+
+<Layout
+  title="Livres"
+  description="Liste des livres lus et commentés"
+>
+  <Page title="Livres">
+    <Feed posts={books} />
+  </Page>
+</Layout>

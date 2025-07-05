@@ -1,0 +1,28 @@
+import { getCollection } from 'astro:content';
+import Post from '../../layouts/Post.astro';
+
+export async function getStaticPaths() {
+  const books = await getCollection('books', ({ data }) => {
+    return data.draft !== true;
+  });
+  
+  return books.map((book) => ({
+    params: { slug: book.slug },
+    props: book,
+  }));
+}
+
+const book = Astro.props;
+const { Content } = await book.render();
+
+<Post {...book.data}>
+  <p><strong>Auteur:</strong> {book.data.author}</p>
+  {book.data.amazonLink && (
+    <p>
+      <a href={book.data.amazonLink} target="_blank" rel="noopener">
+        Voir sur Amazon/Audible
+      </a>
+    </p>
+  )}
+  <Content />
+</Post>

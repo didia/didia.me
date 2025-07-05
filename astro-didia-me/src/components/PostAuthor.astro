@@ -1,0 +1,46 @@
+---
+export interface Props {
+  author: {
+    name: string;
+    bio: string;
+    photo: string;
+    contacts: {
+      twitter?: string;
+      [key: string]: string | undefined;
+    };
+  };
+}
+
+const { author } = Astro.props;
+---
+
+<div class="author">
+  <p class="author__bio">
+    {author.bio}
+  </p>
+  <a
+    class="author__bio-twitter"
+    href={`https://www.twitter.com/${author.contacts.twitter}`}
+    rel="noopener"
+    target="_blank"
+  >
+    <strong>{author.name}</strong> sur Twitter
+  </a>
+</div>
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .author {
+    @include margin-top(1);
+    @include margin-bottom(2);
+    @include line-height(1);
+    &__bio {
+      &-twitter {
+        display: block;
+        text-decoration: underline;
+      }
+    }
+  }
+</style>

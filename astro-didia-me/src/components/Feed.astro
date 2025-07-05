@@ -1,0 +1,120 @@
+---
+import moment from 'moment';
+import 'moment/locale/fr';
+
+export interface Props {
+  posts: Array<{
+    id: string;
+    slug: string;
+    data: {
+      title: string;
+      date: Date;
+      category?: string;
+      description?: string;
+    };
+  }>;
+}
+
+const { posts } = Astro.props;
+moment.locale('fr');
+---
+
+<div class="feed">
+  {posts.map((post) => (
+    <div class="feed__item">
+      <div class="feed__item-meta">
+        <time class="feed__item-meta-time" datetime={moment(post.data.date).format('YYYY-MM-DD')}>
+          {moment(post.data.date).format('D MMMM YYYY')}
+        </time>
+        {post.data.category && (
+          <>
+            <span class="feed__item-meta-divider" />
+            <span class="feed__item-meta-category">
+              <a href={`/category/${post.data.category.toLowerCase().replace(/\s+/g, '-')}/`} class="feed__item-meta-category-link">
+                {post.data.category}
+              </a>
+            </span>
+          </>
+        )}
+      </div>
+      <h2 class="feed__item-title">
+        <a class="feed__item-title-link" href={`/${post.slug}/`}>
+          {post.data.title}
+        </a>
+      </h2>
+      <p class="feed__item-description">{post.data.description}</p>
+      <a class="feed__item-readmore" href={`/${post.slug}/`}>
+        Lire
+      </a>
+    </div>
+  ))}
+</div>
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .feed {
+    &__item {
+      @include margin-bottom(1.25);
+      &:last-child {
+        @include margin-bottom(.5);
+      }
+      &-title {
+        font-size: $typographic-base-font-size * 1.6875;
+        @include line-height(1.5);
+        @include margin-top(0);
+        @include margin-bottom(.5);
+        &-link {
+          color: $color-base;
+          &:hover,
+          &:focus {
+            color: $color-base;
+            border-bottom: 1px solid $color-base;
+          }
+        }
+      }
+      &-description {
+        font-size: $typographic-base-font-size;
+        @include line-height(1);
+        @include margin-bottom(.75);
+      }
+      &-meta {
+        @include margin-bottom(.5);
+        &-time {
+          font-size: $typographic-small-font-size;
+          color: $color-base;
+          font-weight: 600;
+          text-transform: uppercase;
+        }
+        &-divider {
+          margin: 0 5px;
+          &::after {
+            content: '–';
+          }
+        }
+        &-category {
+          &-link {
+            font-size: $typographic-small-font-size;
+            color: $color-secondary;
+            font-weight: 600;
+            text-transform: uppercase;
+            &:hover,
+            &:focus {
+              color: $color-primary;
+            }
+          }
+        }
+      }
+      &-readmore {
+        font-size: $typographic-base-font-size;
+        color: $color-primary;
+        &:hover,
+        &:focus {
+          color: $color-primary;
+          border-bottom: 1px solid $color-primary;
+        }
+      }
+    }
+  }
+</style>

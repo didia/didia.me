@@ -1,0 +1,102 @@
+---
+export interface Props {
+  contacts: {
+    email?: string;
+    linkedin?: string;
+    twitter?: string;
+    github?: string;
+    rss?: string;
+    [key: string]: string | undefined;
+  };
+}
+
+const { contacts } = Astro.props;
+
+function getContactHref(name: string, contact: string): string {
+  switch (name) {
+    case 'twitter':
+      return `https://www.twitter.com/${contact}`;
+    case 'github':
+      return `https://github.com/${contact}`;
+    case 'email':
+      return `mailto:${contact}`;
+    case 'linkedin':
+      return `https://www.linkedin.com/in/${contact}`;
+    case 'rss':
+      return contact;
+    default:
+      return `https://${name}.com/${contact}`;
+  }
+}
+
+function getIcon(name: string): string {
+  // Font Awesome icon classes
+  const icons: { [key: string]: string } = {
+    twitter: 'fab fa-twitter',
+    github: 'fab fa-github',
+    email: 'far fa-envelope',
+    linkedin: 'fab fa-linkedin',
+    rss: 'fas fa-rss'
+  };
+  return icons[name] || '';
+}
+---
+
+<div class="contacts">
+  <ul class="contacts__list">
+    {Object.keys(contacts).filter(name => contacts[name]).map((name) => (
+      <li class="contacts__list-item">
+        <a
+          class="contacts__list-item-link"
+          href={getContactHref(name, contacts[name]!)}
+          rel="noopener"
+          target="_blank"
+        >
+          <i class={getIcon(name)}></i>
+        </a>
+      </li>
+    ))}
+  </ul>
+</div>
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .contacts {
+    @include margin-bottom(1);
+    &__list {
+      display: flex;
+      flex-flow: row wrap;
+      flex-grow: 0;
+      flex-shrink: 0;
+      list-style: none;
+      padding: 0;
+      margin: -3px;
+      width: 140px;
+      &-item {
+        padding: 0;
+        margin: 4px;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        height: $button-height;
+        width: $button-height;
+        line-height: $button-height;
+        border-radius: 50%;
+        text-align: center;
+        border: 1px solid $color-gray-bg;
+        &-link {
+          border: 0;
+          display: flex;
+          color: $color-base;
+          &:hover,
+          &:focus {
+            color: $color-primary;
+          }
+        }
+      }
+    }
+  }
+</style>
