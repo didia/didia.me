@@ -1,0 +1,15 @@
+{
+  "name": "Les pensées de Didia Aristote",
+  "short_name": "Les pensées de Didia Aristote",
+  "start_url": "/",
+  "background_color": "#FFF",
+  "theme_color": "#F7A046",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/photo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

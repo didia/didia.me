@@ -1,9 +1,10 @@
 node_modules/
-.cache/
-public/
+.next/
+out/
 npm-debug.log
 .eslintcache
-.gatsby-context.js
 .idea
-gatsby-starter-lumen.iml
 yarn-error.log
+.env
+.env.local
+next-env.d.ts
