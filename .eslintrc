@@ -1,47 +1,4 @@
 {
-  "env": {
-    "browser": true,
-    "node": true,
-    "es6": true,
-    "jest/globals": true
-  },
-
-  "plugins": [
-    "mirego",
-    "prettier",
-    "react",
-    "jest",
-    "jsx-a11y"
-  ],
-  "rules": {
-    "generator-star-spacing": [
-      "error",
-      {
-        "before": false,
-        "after": false
-      }
-    ],
-    "dot-notation": "off",
-    "react/prop-types": "off",
-    "indent": "off",
-    "operator-linebreak": [
-      0,
-      "after"
-    ],
-    "prettier/prettier": ["error", {
-      "singleQuote": true,
-      "printWidth": 120,
-      "bracketSpacing": false
-    }]
-  },
-  "extends": [
-    "plugin:mirego/recommended",
-    "plugin:react/recommended",
-    "prettier"
-  ],
-  "globals": {
-    "Promise": true,
-    "graphql": true,
-    "process": true
-  }
+  "root": true,
+  "extends": "next/core-web-vitals"
 }

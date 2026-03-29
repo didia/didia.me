@@ -1,11 +1,21 @@
 /**
  * Generic
  */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html {
   font-size: $typographic-root-font-size;
+  -moz-tab-size: 4;
+  tab-size: 4;
 }
 
 body {
+  margin: 0;
   font-family: $typographic-font-family;
   color: $typographic-base-font-color;
   line-height: $typographic-base-line-height;

@@ -1,0 +1,33 @@
+import type { Metadata } from 'next';
+import Link from 'next/link';
+import siteConfig from '@/lib/config';
+import { getPosts, getAllCategories } from '@/lib/content';
+import Sidebar from '@/src/components/Sidebar/Sidebar';
+import Page from '@/src/components/Page/Page';
+import styles from '@/src/components/Layout/Layout.module.scss';
+
+export const metadata: Metadata = {
+  title: `Categories - ${siteConfig.title}`,
+};
+
+export default async function CategoriesPage() {
+  const posts = await getPosts();
+  const categories = getAllCategories(posts);
+
+  return (
+    <div className={styles['layout']}>
+      <Sidebar />
+      <Page title="Categories">
+        <ul>
+          {categories.map((category) => (
+            <li key={category.name}>
+              <Link href={category.slug}>
+                {category.name} ({category.count})
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </Page>
+    </div>
+  );
+}
