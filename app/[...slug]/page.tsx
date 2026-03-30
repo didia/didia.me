@@ -3,9 +3,9 @@ import { notFound } from 'next/navigation';
 import siteConfig from '@/lib/config';
 import { getPosts, getPages } from '@/lib/content';
 import Post from '@/src/components/Post/Post';
-import Sidebar from '@/src/components/Sidebar/Sidebar';
+import Navbar from '@/src/components/Navbar/Navbar';
 import Page from '@/src/components/Page/Page';
-import styles from '@/src/components/Layout/Layout.module.scss';
+import Footer from '@/src/components/Footer/Footer';
 
 interface Props {
   params: Promise<{ slug: string[] }>;
@@ -45,12 +45,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (post) {
     return {
       title: `${post.frontmatter.title} - ${siteConfig.title}`,
-      description: post.frontmatter.description || siteConfig.subtitle,
+      description: post.frontmatter.description || siteConfig.description,
       openGraph: {
         title: post.frontmatter.title,
         description: post.frontmatter.description,
         type: 'article',
-        authors: ['Aristote Diasonama'],
+        authors: ['Aristote Didia'],
         images: post.frontmatter.thumbnail
           ? [{ url: post.frontmatter.thumbnail }]
           : [{ url: siteConfig.image, width: Number(siteConfig.imageWidth), height: Number(siteConfig.imageHeight) }],
@@ -79,18 +79,29 @@ export default async function CatchAllPage({ params }: Props) {
 
   const post = posts.find((p) => p.slug === path || p.slug === `/${slug.join('/')}` || p.slug.replace(/\/$/,'') === `/${slug.join('/')}`);
   if (post) {
-    return <Post post={post} />;
+    return (
+      <>
+        <Navbar />
+        <main>
+          <Post post={post} />
+        </main>
+        <Footer />
+      </>
+    );
   }
 
   const page = pages.find((p) => p.slug === path || p.slug === `/${slug.join('/')}`);
   if (page) {
     return (
-      <div className={styles['layout']}>
-        <Sidebar />
-        <Page title={page.frontmatter.title}>
-          <div dangerouslySetInnerHTML={{ __html: page.html }} />
-        </Page>
-      </div>
+      <>
+        <Navbar />
+        <main>
+          <Page title={page.frontmatter.title}>
+            <div dangerouslySetInnerHTML={{ __html: page.html }} />
+          </Page>
+        </main>
+        <Footer />
+      </>
     );
   }
 

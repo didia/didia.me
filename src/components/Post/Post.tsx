@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import { ContentItem, PostFrontmatter } from '@/lib/content';
 import Author from './Author/Author';
 import Comments from './Comments/Comments';
@@ -17,10 +16,6 @@ const Post = ({ post }: PostProps) => {
 
   return (
     <div className={styles['post']}>
-      <Link className={styles['post__home-button']} href="/">
-        All Articles
-      </Link>
-
       <div className={styles['post__content']}>
         <Content body={post.html} title={title} />
       </div>

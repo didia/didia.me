@@ -1,11 +1,11 @@
 import type { Metadata } from 'next';
 import siteConfig from '@/lib/config';
 import { getBooks, paginate } from '@/lib/content';
-import Sidebar from '@/src/components/Sidebar/Sidebar';
+import Navbar from '@/src/components/Navbar/Navbar';
+import Footer from '@/src/components/Footer/Footer';
 import Page from '@/src/components/Page/Page';
 import BookFeed from '@/src/components/BookFeed/BookFeed';
 import Pagination from '@/src/components/Pagination/Pagination';
-import styles from '@/src/components/Layout/Layout.module.scss';
 
 export const metadata: Metadata = {
   title: 'Livres lus par Didia Aristote',
@@ -17,17 +17,20 @@ export default async function BooksPage() {
   const { items, hasNextPage, hasPrevPage } = paginate(books, 0, siteConfig.postsPerPage);
 
   return (
-    <div className={styles['layout']}>
-      <Sidebar />
-      <Page>
-        <BookFeed books={items} />
-        <Pagination
-          prevPagePath="/books/"
-          nextPagePath="/books/page/1/"
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
-      </Page>
-    </div>
+    <>
+      <Navbar />
+      <main>
+        <Page>
+          <BookFeed books={items} />
+          <Pagination
+            prevPagePath="/books/"
+            nextPagePath="/books/page/1/"
+            hasPrevPage={hasPrevPage}
+            hasNextPage={hasNextPage}
+          />
+        </Page>
+      </main>
+      <Footer />
+    </>
   );
 }

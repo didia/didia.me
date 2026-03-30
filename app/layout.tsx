@@ -1,15 +1,22 @@
 import type { Metadata } from 'next';
+import { Inter } from 'next/font/google';
 import { GoogleAnalytics } from '@next/third-parties/google';
 import siteConfig from '@/lib/config';
 import '@/src/assets/scss/init.scss';
 
+const inter = Inter({
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-inter',
+});
+
 export const metadata: Metadata = {
   title: siteConfig.title,
-  description: siteConfig.subtitle,
+  description: siteConfig.description,
   metadataBase: new URL(siteConfig.url),
   openGraph: {
     title: siteConfig.title,
-    description: siteConfig.subtitle,
+    description: siteConfig.description,
     url: siteConfig.url,
     siteName: siteConfig.title,
     images: [
@@ -33,7 +40,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="fr">
+    <html lang="fr" className={inter.variable}>
       <body>
         {children}
         <GoogleAnalytics gaId={siteConfig.googleAnalyticsId} />

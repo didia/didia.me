@@ -1,27 +1,27 @@
-import siteConfig from '@/lib/config';
-import { getPosts, paginate } from '@/lib/content';
-import Sidebar from '@/src/components/Sidebar/Sidebar';
-import Page from '@/src/components/Page/Page';
-import Feed from '@/src/components/Feed/Feed';
-import Pagination from '@/src/components/Pagination/Pagination';
-import styles from '@/src/components/Layout/Layout.module.scss';
+import { getPosts } from '@/lib/content';
+import Navbar from '@/src/components/Navbar/Navbar';
+import Hero from '@/src/components/Hero/Hero';
+import SocialProof from '@/src/components/SocialProof/SocialProof';
+import Framework from '@/src/components/Framework/Framework';
+import Services from '@/src/components/Services/Services';
+import RecentPosts from '@/src/components/RecentPosts/RecentPosts';
+import Footer from '@/src/components/Footer/Footer';
 
 export default async function HomePage() {
   const posts = await getPosts();
-  const { items, hasNextPage, hasPrevPage } = paginate(posts, 0, siteConfig.postsPerPage);
+  const recentPosts = posts.slice(0, 3);
 
   return (
-    <div className={styles['layout']}>
-      <Sidebar isIndex />
-      <Page>
-        <Feed posts={items} />
-        <Pagination
-          prevPagePath="/"
-          nextPagePath="/page/1/"
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
-      </Page>
-    </div>
+    <>
+      <Navbar />
+      <main>
+        <Hero />
+        <SocialProof />
+        <Framework />
+        <Services />
+        <RecentPosts posts={recentPosts} />
+      </main>
+      <Footer />
+    </>
   );
 }

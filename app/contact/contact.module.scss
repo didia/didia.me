@@ -1,0 +1,134 @@
+@import '../../src/assets/scss/variables';
+@import '../../src/assets/scss/mixins';
+
+.contact {
+  padding: 60px 20px;
+
+  &__inner {
+    max-width: 780px;
+    margin: 0 auto;
+  }
+
+  &__title {
+    font-size: 36px;
+    font-weight: 700;
+    color: $color-base;
+    margin: 0 0 16px;
+    letter-spacing: -0.02em;
+  }
+
+  &__subtitle {
+    font-size: 18px;
+    line-height: 1.7;
+    color: $color-gray;
+    margin: 0 0 48px;
+    max-width: 600px;
+  }
+
+  &__options {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+    margin-bottom: 48px;
+  }
+
+  &__option {
+    background: $color-gray-bg;
+    border: 1px solid $color-gray-border;
+    border-radius: 12px;
+    padding: 32px 28px;
+
+    &-icon {
+      font-size: 32px;
+      display: block;
+      margin-bottom: 12px;
+    }
+
+    h2 {
+      font-size: 20px;
+      font-weight: 700;
+      color: $color-base;
+      margin: 0 0 8px;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 1.6;
+      color: $color-gray;
+      margin: 0 0 20px;
+    }
+  }
+
+  &__cta {
+    display: inline-flex;
+    align-items: center;
+    padding: 12px 24px;
+    background: $color-primary;
+    color: $color-white;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: background 0.2s ease;
+
+    &:hover,
+    &:focus {
+      background: darken($color-primary, 8%);
+      color: $color-white;
+    }
+  }
+
+  &__details {
+    border-top: 1px solid $color-gray-border;
+    padding-top: 40px;
+
+    h3 {
+      font-size: 20px;
+      font-weight: 700;
+      color: $color-base;
+      margin: 0 0 20px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      padding: 12px 0;
+      font-size: 15px;
+      line-height: 1.6;
+      color: $color-gray;
+      border-bottom: 1px solid $color-gray-border;
+      margin: 0;
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      strong {
+        color: $color-base;
+      }
+    }
+  }
+}
+
+@include breakpoint-sm {
+  .contact {
+    padding: 80px 20px;
+
+    &__title {
+      font-size: 42px;
+    }
+
+    &__options {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+}
+
+@include breakpoint-md {
+  .contact {
+    padding: 100px 40px;
+  }
+}

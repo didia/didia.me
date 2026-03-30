@@ -1,0 +1,118 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.navbar {
+  border-bottom: 1px solid $color-gray-border;
+  background: $color-white;
+
+  &__inner {
+    max-width: $layout-width;
+    margin: 0 auto;
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  &__brand {
+    font-size: 18px;
+    font-weight: 700;
+    color: $color-base;
+    letter-spacing: -0.01em;
+
+    &:hover,
+    &:focus {
+      color: $color-base;
+    }
+  }
+
+  &__toggle {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+
+    &-bar {
+      display: block;
+      width: 20px;
+      height: 2px;
+      background: $color-base;
+      border-radius: 1px;
+    }
+  }
+
+  &__menu {
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 12px 0 0;
+    width: 100%;
+    flex-direction: column;
+    gap: 0;
+
+    &--open {
+      display: flex;
+    }
+
+    &-item {
+      padding: 0;
+      margin: 0;
+    }
+
+    &-link {
+      display: block;
+      padding: 10px 0;
+      font-size: 15px;
+      font-weight: 500;
+      color: $color-gray;
+      transition: color 0.2s ease;
+
+      &:hover,
+      &:focus {
+        color: $color-primary;
+      }
+
+      &--active {
+        color: $color-base;
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+@include breakpoint-sm {
+  .navbar {
+    &__inner {
+      flex-wrap: nowrap;
+    }
+
+    &__toggle {
+      display: none;
+    }
+
+    &__menu {
+      display: flex;
+      flex-direction: row;
+      gap: 32px;
+      width: auto;
+      padding: 0;
+      align-items: center;
+
+      &--open {
+        display: flex;
+      }
+    }
+  }
+}
+
+@include breakpoint-md {
+  .navbar {
+    &__inner {
+      padding: 16px 40px;
+    }
+  }
+}

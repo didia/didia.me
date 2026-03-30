@@ -1,0 +1,89 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.proof {
+  padding: 60px 20px;
+  border-bottom: 1px solid $color-gray-border;
+
+  &__inner {
+    max-width: $layout-width;
+    margin: 0 auto;
+  }
+
+  &__metrics {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+    text-align: center;
+    margin-bottom: 48px;
+  }
+
+  &__metric {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+
+    &-value {
+      font-size: 40px;
+      font-weight: 800;
+      color: $color-primary;
+      letter-spacing: -0.02em;
+      line-height: 1;
+    }
+
+    &-label {
+      font-size: 14px;
+      font-weight: 500;
+      color: $color-gray;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  }
+
+  &__testimonial {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    font-style: normal;
+
+    &-quote {
+      font-size: 18px;
+      line-height: 1.7;
+      color: $color-base;
+      margin: 0 0 16px;
+      font-style: italic;
+    }
+
+    &-author {
+      font-size: 14px;
+      font-weight: 600;
+      color: $color-gray;
+      font-style: normal;
+    }
+  }
+}
+
+@include breakpoint-sm {
+  .proof {
+    padding: 80px 20px;
+
+    &__metrics {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    &__metric-value {
+      font-size: 48px;
+    }
+
+    &__testimonial-quote {
+      font-size: 20px;
+    }
+  }
+}
+
+@include breakpoint-md {
+  .proof {
+    padding: 100px 40px;
+  }
+}

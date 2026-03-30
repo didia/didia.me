@@ -1,14 +1,14 @@
-import FollowButtons from '../../FollowButtons/FollowButtons';
-
 const CallToAction = () => (
   <div>
     <p>
       <em>
-        <strong>PS:</strong> Si vous avez apprecié ce que vous avez lu, je vous invite à me suivre sur Twitter pour être
-        au courant des prochains articles que je publierai.
+        <strong>PS:</strong> Si vous avez aimé cet article, connectez-vous avec moi sur{' '}
+        <a href="https://www.linkedin.com/in/diasonama" target="_blank" rel="noopener noreferrer">
+          LinkedIn
+        </a>{' '}
+        pour rester au courant de mes prochaines publications.
       </em>
     </p>
-    <FollowButtons />
   </div>
 );
 

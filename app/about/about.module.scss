@@ -1,0 +1,233 @@
+@import '../../src/assets/scss/variables';
+@import '../../src/assets/scss/mixins';
+
+.about {
+  &__hero {
+    padding: 60px 20px;
+    text-align: center;
+    border-bottom: 1px solid $color-gray-border;
+
+    &-inner {
+      max-width: 680px;
+      margin: 0 auto;
+    }
+
+    &-photo {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 24px;
+      border: 4px solid $color-gray-bg;
+    }
+
+    &-title {
+      font-size: 32px;
+      font-weight: 700;
+      color: $color-base;
+      line-height: 1.25;
+      margin: 0 0 16px;
+      letter-spacing: -0.02em;
+    }
+
+    &-subtitle {
+      font-size: 18px;
+      line-height: 1.7;
+      color: $color-gray;
+      margin: 0;
+    }
+  }
+
+  &__section {
+    padding: 60px 20px;
+
+    &--alt {
+      background: $color-gray-bg;
+    }
+
+    &-inner {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    &-title {
+      font-size: 26px;
+      font-weight: 700;
+      color: $color-base;
+      margin: 0 0 12px;
+      letter-spacing: -0.01em;
+    }
+
+    &-subtitle {
+      font-size: 16px;
+      color: $color-gray;
+      margin: 0 0 32px;
+    }
+  }
+
+  &__prose {
+    p {
+      font-size: 17px;
+      line-height: 1.75;
+      color: $color-base;
+      margin: 0 0 20px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  &__ventures {
+    display: grid;
+    gap: 20px;
+  }
+
+  &__venture {
+    background: $color-white;
+    border: 1px solid $color-gray-border;
+    border-radius: 12px;
+    padding: 28px 24px;
+    transition: box-shadow 0.2s ease;
+
+    &:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    }
+
+    h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: $color-base;
+      margin: 0 0 8px;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 1.6;
+      color: $color-gray;
+      margin: 0 0 12px;
+    }
+
+    a {
+      font-size: 14px;
+      font-weight: 600;
+      color: $color-primary;
+
+      &:hover {
+        color: darken($color-primary, 10%);
+      }
+    }
+  }
+
+  &__values {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  &__value {
+    h3 {
+      font-size: 17px;
+      font-weight: 700;
+      color: $color-base;
+      margin: 0 0 6px;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 1.6;
+      color: $color-gray;
+      margin: 0;
+    }
+  }
+
+  &__cta {
+    padding: 60px 20px;
+    text-align: center;
+    border-top: 1px solid $color-gray-border;
+
+    h2 {
+      font-size: 28px;
+      font-weight: 700;
+      color: $color-base;
+      margin: 0 0 12px;
+    }
+
+    p {
+      font-size: 17px;
+      line-height: 1.6;
+      color: $color-gray;
+      margin: 0 0 28px;
+      max-width: 520px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    &-button {
+      display: inline-flex;
+      align-items: center;
+      padding: 14px 32px;
+      background: $color-primary;
+      color: $color-white;
+      border-radius: 8px;
+      font-size: 16px;
+      font-weight: 600;
+      transition: background 0.2s ease;
+
+      &:hover,
+      &:focus {
+        background: darken($color-primary, 8%);
+        color: $color-white;
+      }
+    }
+  }
+}
+
+@include breakpoint-sm {
+  .about {
+    &__hero {
+      padding: 80px 20px;
+
+      &-title {
+        font-size: 38px;
+      }
+    }
+
+    &__section {
+      padding: 80px 20px;
+    }
+
+    &__values {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    &__cta {
+      padding: 80px 20px;
+    }
+  }
+}
+
+@include breakpoint-md {
+  .about {
+    &__hero {
+      padding: 100px 40px;
+
+      &-title {
+        font-size: 42px;
+      }
+
+      &-photo {
+        width: 160px;
+        height: 160px;
+      }
+    }
+
+    &__section {
+      padding: 100px 40px;
+    }
+
+    &__cta {
+      padding: 100px 40px;
+    }
+  }
+}

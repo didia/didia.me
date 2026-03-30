@@ -1,11 +1,11 @@
 import type { Metadata } from 'next';
 import siteConfig from '@/lib/config';
 import { getPosts, getAllTags, getPostsByTag, paginate } from '@/lib/content';
-import Sidebar from '@/src/components/Sidebar/Sidebar';
+import Navbar from '@/src/components/Navbar/Navbar';
+import Footer from '@/src/components/Footer/Footer';
 import Page from '@/src/components/Page/Page';
 import Feed from '@/src/components/Feed/Feed';
 import Pagination from '@/src/components/Pagination/Pagination';
-import styles from '@/src/components/Layout/Layout.module.scss';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -38,17 +38,20 @@ export default async function TagPage({ params }: Props) {
   const { items, hasNextPage, hasPrevPage } = paginate(tagPosts, 0, siteConfig.postsPerPage);
 
   return (
-    <div className={styles['layout']}>
-      <Sidebar />
-      <Page title={tag?.name || slug}>
-        <Feed posts={items} />
-        <Pagination
-          prevPagePath={`/tag/${slug}/`}
-          nextPagePath={`/tag/${slug}/page/1/`}
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
-      </Page>
-    </div>
+    <>
+      <Navbar />
+      <main>
+        <Page title={tag?.name || slug}>
+          <Feed posts={items} />
+          <Pagination
+            prevPagePath={`/tag/${slug}/`}
+            nextPagePath={`/tag/${slug}/page/1/`}
+            hasPrevPage={hasPrevPage}
+            hasNextPage={hasNextPage}
+          />
+        </Page>
+      </main>
+      <Footer />
+    </>
   );
 }

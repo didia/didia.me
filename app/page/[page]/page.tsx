@@ -1,11 +1,11 @@
 import type { Metadata } from 'next';
 import siteConfig from '@/lib/config';
 import { getPosts, paginate } from '@/lib/content';
-import Sidebar from '@/src/components/Sidebar/Sidebar';
+import Navbar from '@/src/components/Navbar/Navbar';
 import Page from '@/src/components/Page/Page';
 import Feed from '@/src/components/Feed/Feed';
 import Pagination from '@/src/components/Pagination/Pagination';
-import styles from '@/src/components/Layout/Layout.module.scss';
+import Footer from '@/src/components/Footer/Footer';
 
 interface Props {
   params: Promise<{ page: string }>;
@@ -22,7 +22,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { page } = await params;
   return {
-    title: `Posts - Page ${Number(page) + 1} - ${siteConfig.title}`,
+    title: `Blog - Page ${Number(page) + 1} - ${siteConfig.title}`,
   };
 }
 
@@ -33,17 +33,20 @@ export default async function PaginatedHomePage({ params }: Props) {
   const { items, hasNextPage, hasPrevPage } = paginate(posts, pageNum, siteConfig.postsPerPage);
 
   return (
-    <div className={styles['layout']}>
-      <Sidebar />
-      <Page>
-        <Feed posts={items} />
-        <Pagination
-          prevPagePath={pageNum <= 1 ? '/' : `/page/${pageNum - 1}/`}
-          nextPagePath={`/page/${pageNum + 1}/`}
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
-      </Page>
-    </div>
+    <>
+      <Navbar />
+      <main>
+        <Page title="Blog">
+          <Feed posts={items} />
+          <Pagination
+            prevPagePath={pageNum <= 1 ? '/blog/' : `/page/${pageNum - 1}/`}
+            nextPagePath={`/page/${pageNum + 1}/`}
+            hasPrevPage={hasPrevPage}
+            hasNextPage={hasNextPage}
+          />
+        </Page>
+      </main>
+      <Footer />
+    </>
   );
 }

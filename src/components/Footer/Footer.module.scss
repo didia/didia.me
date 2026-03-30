@@ -1,0 +1,89 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.footer {
+  padding: 48px 20px 32px;
+  border-top: 1px solid $color-gray-border;
+
+  &__inner {
+    max-width: $layout-width;
+    margin: 0 auto;
+  }
+
+  &__columns {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 32px;
+    margin-bottom: 40px;
+  }
+
+  &__brand {
+    max-width: 320px;
+  }
+
+  &__name {
+    font-size: 18px;
+    font-weight: 700;
+    color: $color-base;
+    margin: 0 0 6px;
+  }
+
+  &__tagline {
+    font-size: 14px;
+    line-height: 1.5;
+    color: $color-gray;
+    margin: 0;
+  }
+
+  &__nav {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    &-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: $color-base;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin: 0 0 4px;
+    }
+
+    a {
+      font-size: 14px;
+      color: $color-gray;
+      transition: color 0.2s ease;
+
+      &:hover {
+        color: $color-primary;
+      }
+    }
+  }
+
+  &__bottom {
+    border-top: 1px solid $color-gray-border;
+    padding-top: 20px;
+  }
+
+  &__copyright {
+    font-size: 13px;
+    color: $color-gray-light;
+    margin: 0;
+  }
+}
+
+@include breakpoint-sm {
+  .footer {
+    padding: 60px 20px 32px;
+
+    &__columns {
+      grid-template-columns: 2fr 1fr 1fr;
+    }
+  }
+}
+
+@include breakpoint-md {
+  .footer {
+    padding: 60px 40px 32px;
+  }
+}

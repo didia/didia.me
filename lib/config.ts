@@ -3,33 +3,43 @@ const siteConfig = {
   imageWidth: '800',
   imageHeight: '310',
   url: 'https://www.didia.me',
-  title: 'Les pensées de Didia Aristote',
+  title: 'Aristote Didia',
   subtitle:
-    'I talk about software, education and sometimes politics. Mostly in french. | Je parle des logiciels, éducation et de fois la politique. De fois en anglais.',
+    'Fractional CTO | ROI-Driven AI | Technology Cost Optimization',
+  description:
+    'Fractional CTO specialising in ROI-driven AI and technology cost optimisation. I help growing companies align technology investments with business outcomes and deliver measurable value.',
   copyright: '© All rights reserved.',
   disqusShortname: 'didia',
   postsPerPage: 4,
   googleAnalyticsId: 'G-386353207',
   menu: [
     {
-      label: 'Accueil',
+      label: 'Home',
       path: '/',
     },
     {
-      label: 'Prendre Plaisir à Perdre du Poids',
-      path: '/category/prendre-plaisir-a-perdre-du-poids/',
+      label: 'Services',
+      path: '/#services',
     },
     {
-      label: 'RDC Etudes',
-      path: 'https://www.rdcetudes.com',
+      label: 'About',
+      path: '/about/',
+    },
+    {
+      label: 'Blog',
+      path: '/blog/',
+    },
+    {
+      label: 'Contact',
+      path: '/contact/',
     },
   ],
   author: {
-    name: 'Didia Aristote',
+    name: 'Aristote Didia',
     photo: '/photo.jpg',
-    bio: 'Husband, Father, Son, Brother. I make software for a living. Education and politics are some of my other areas of interests. I am currently Chief Technology Officer at Rhetorik and a co-founder and strategy director at RDC Etudes!',
+    bio: 'Fractional CTO specialising in ROI-driven AI and technology cost optimisation. I help growing companies align technology investments with business outcomes and deliver measurable value.',
     contacts: {
-      email: 'aristotediasonama@yahoo.fr',
+      email: 'aristote@didia.me',
       linkedin: 'diasonama',
       twitter: 'didia_aristote',
       github: 'didia',

@@ -1,0 +1,114 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.services {
+  padding: 60px 20px;
+
+  &__inner {
+    max-width: $layout-width;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  &__label {
+    font-size: $typographic-small-font-size;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: $color-primary;
+    margin: 0 0 12px;
+  }
+
+  &__title {
+    font-size: 28px;
+    font-weight: 700;
+    color: $color-base;
+    margin: 0 0 12px;
+    letter-spacing: -0.01em;
+  }
+
+  &__subtitle {
+    font-size: 16px;
+    color: $color-gray;
+    margin: 0 0 48px;
+    max-width: 560px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  &__card {
+    background: $color-white;
+    border: 1px solid $color-gray-border;
+    border-radius: 12px;
+    padding: 28px 24px;
+    text-align: left;
+    transition: box-shadow 0.2s ease;
+
+    &:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    }
+
+    &-icon {
+      font-size: 28px;
+      display: block;
+      margin-bottom: 12px;
+    }
+
+    &-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: $color-base;
+      margin: 0 0 8px;
+    }
+
+    &-description {
+      font-size: 15px;
+      line-height: 1.6;
+      color: $color-gray;
+      margin: 0;
+    }
+  }
+}
+
+@include breakpoint-sm {
+  .services {
+    padding: 80px 20px;
+
+    &__title {
+      font-size: 32px;
+    }
+
+    &__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    // Center the last card when odd number
+    &__card:last-child:nth-child(odd) {
+      grid-column: 1 / -1;
+      max-width: 50%;
+      justify-self: center;
+    }
+  }
+}
+
+@include breakpoint-md {
+  .services {
+    padding: 100px 40px;
+
+    &__grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    &__card:last-child:nth-child(odd) {
+      max-width: 100%;
+      grid-column: auto;
+      justify-self: auto;
+    }
+  }
+}
