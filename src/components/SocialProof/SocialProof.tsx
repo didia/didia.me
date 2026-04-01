@@ -33,12 +33,8 @@ const SocialProof = () => (
         ))}
       </div>
       <blockquote className={styles['proof__testimonial']}>
-        <p className={styles['proof__testimonial-quote']}>
-          &ldquo;{testimonial.quote}&rdquo;
-        </p>
-        <cite className={styles['proof__testimonial-author']}>
-          &mdash; {testimonial.author}
-        </cite>
+        <p className={styles['proof__testimonial-quote']}>&ldquo;{testimonial.quote}&rdquo;</p>
+        <cite className={styles['proof__testimonial-author']}>&mdash; {testimonial.author}</cite>
       </blockquote>
     </div>
   </section>

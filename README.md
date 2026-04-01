@@ -1,4 +1,5 @@
 ## Quick Start
+
 This is the code for my personal blog at https://www.didia.me
 
 #### Start Developing
@@ -27,13 +28,16 @@ Open the `blog` directory in your code editor of choice and edit `src/templates/
 After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. Next, you’ll need to set up Netlify’s Identity service to authorize users to log in to the CMS.
 
 #### Access Locally
+
 ```
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
 $ cd [REPO_NAME]
 $ npm install
 $ npm run develop
 ```
+
 To test the CMS locally, you'll need run a production build of the site:
+
 ```
 $ npm run build
 $ npm run serve

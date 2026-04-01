@@ -12,9 +12,10 @@ category: News
 tags:
   - news
 ---
+
 _Dear friend,_
 
-Welcome to my new blog! Or should I say welcome back to the new existence of my blog 😝. 
+Welcome to my new blog! Or should I say welcome back to the new existence of my blog 😝.
 
 In fact, I first created a blog back in 2014 but I was not able to keep it up-to-date. So I just stopped writing altogether.
 Fast forward to 2019, I felt the urge to start sharing my experiences with others again after giving a talk on _Learning how to learn_ at Laval University.
@@ -26,7 +27,7 @@ By sharing my experiences and thoughts, I hope to collect as much feedback as I 
 
 ### So what will I be blogging about?
 
-Well for a start, I will be blogging about my experiences working as a Software Developer. 
+Well for a start, I will be blogging about my experiences working as a Software Developer.
 It will be a sort of journal of my software journey, from new technologies I am learning to my process of building products.
 
 Then I will talk about Education and specially my startup RDC Etudes whose goal is to help congolese students gain access to a better education.

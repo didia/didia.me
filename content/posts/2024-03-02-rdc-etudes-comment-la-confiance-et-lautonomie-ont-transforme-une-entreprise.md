@@ -12,6 +12,7 @@ description: "De la crise à la célébration : en janvier 2023, RDC Études
 category: Innover en RD Congo
 thumbnail: /media/rdcetudes.jpg
 ---
+
 Au début de l'année 2023, alors que de nombreuses entreprises cherchaient à saisir l'opportunité de se relancer avec l'élan qu'apporte souvent une nouvelle année, RDC Études, elle, faisait face à un coup dur : la démission de son directeur général au Canada. Cette démission marquait l'apogée de longues dissensions internes concernant la mission et la vision de RDC Études entre les associés basés à l'étranger et ceux de Kinshasa, en République Démocratique du Congo.
 
 Jusqu'en mars 2023, RDC Études adoptait une structure assez atypique. Bien que l'essentiel de nos opérations se déroulait dans notre bureau de Kinshasa, la direction générale était systématiquement attribuée à des personnes résidant à l'étranger, plus précisément au Canada. Cette structure avait été mise en place pour éviter les mésaventures que nous avions entendues de la part de nos proches ayant investi dans le pays.

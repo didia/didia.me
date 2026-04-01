@@ -41,7 +41,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = slugToPath(slug);
   const [posts, pages] = await Promise.all([getPosts(), getPages()]);
 
-  const post = posts.find((p) => p.slug === path || p.slug === `/${slug.join('/')}` || p.slug.replace(/\/$/,'') === `/${slug.join('/')}`);
+  const post = posts.find(
+    (p) => p.slug === path || p.slug === `/${slug.join('/')}` || p.slug.replace(/\/$/, '') === `/${slug.join('/')}`,
+  );
   if (post) {
     return {
       title: `${post.frontmatter.title} - ${siteConfig.title}`,
@@ -77,7 +79,9 @@ export default async function CatchAllPage({ params }: Props) {
   const path = slugToPath(slug);
   const [posts, pages] = await Promise.all([getPosts(), getPages()]);
 
-  const post = posts.find((p) => p.slug === path || p.slug === `/${slug.join('/')}` || p.slug.replace(/\/$/,'') === `/${slug.join('/')}`);
+  const post = posts.find(
+    (p) => p.slug === path || p.slug === `/${slug.join('/')}` || p.slug.replace(/\/$/, '') === `/${slug.join('/')}`,
+  );
   if (post) {
     return (
       <>

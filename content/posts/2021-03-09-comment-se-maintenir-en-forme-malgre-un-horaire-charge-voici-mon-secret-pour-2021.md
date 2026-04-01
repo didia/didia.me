@@ -17,6 +17,7 @@ tags:
   - Santé
 thumbnail: /media/mon_poids_du_2021-01-01_au_2021-12-31-2.png
 ---
+
 Après avoir perdu du poids en 2019 et 2020, mon objectif principal au début de l'année 2021 était bien évidemment de me maintenir en forme. Je savais que cela n'allait pas être facile. Je venais tout juste de passer les 3 derniers mois de l'année précédente à me battre contre le phénomène Yo-Yo qui menaçait maintenant de renvoyer mon poids au-dessus de 200 livres (90 kg) pour la première fois depuis plus d'un an. Il fallait donc trouver une solution pour empêcher que cela ne se reproduise.
 
 Heureusement pour moi, ma solution ne se trouvait pas si loin. En effet, en mettant en place le _**Programme 4P**_ qui m'avait permis de perdre du poids, j'avais réalisé que ce même programme pouvait aussi me permettre de me maintenir en forme.
@@ -30,7 +31,7 @@ C'est ainsi qu'au début de l'année 2021, j'ai utilisé le **_Programme 4P_** p
 
 Le deuxième P du **Programme 4P**, le principe de perte de poids définitive, stipule que si l'on veut conserver sa perte de poids à long terme, il faut adopter une technique de contrôle de calorie (TRC) et des activités physiques que nous sommes prêts à conserver même après l'atteinte de notre objectif de perte de poids.
 
-C'est exactement ce que j'avais fait durant ma période de perte de poids. Je m'étais assuré d'opter pour des activités que j'allais avoir du plaisir à continuer de pratiquer même après ma période de perte de mois. Ainsi, quand j'ai terminé mon programme de poids en septembre 2021, j'ai continué à pratiquer le jeûne intermittent qui était ma TRC ainsi que la course et le circuit 4P qui étaient mes activités physiques pour dépenser plus de calories. Cependant, je n'avais pas anticipé comment le fait de ne plus avoir des objectifs clairs à atteindre comme ce fut le cas pour la perte de poids m'affecterait. 
+C'est exactement ce que j'avais fait durant ma période de perte de poids. Je m'étais assuré d'opter pour des activités que j'allais avoir du plaisir à continuer de pratiquer même après ma période de perte de mois. Ainsi, quand j'ai terminé mon programme de poids en septembre 2021, j'ai continué à pratiquer le jeûne intermittent qui était ma TRC ainsi que la course et le circuit 4P qui étaient mes activités physiques pour dépenser plus de calories. Cependant, je n'avais pas anticipé comment le fait de ne plus avoir des objectifs clairs à atteindre comme ce fut le cas pour la perte de poids m'affecterait.
 
 En effet, quelques semaines après la fin de mon programme de perte de poids, j'avais perdu la discipline que j'avais dans la pratique de mes activités physiques. L'absence d'objectifs clairs à atteindre avait entrainé un relâchement évident de ma part, ce qui me mena tout droit vers une reprise progressive du poids perdu. Ainsi en trois mois, de septembre à janvier 2021, mon poids qui avait atteint 186 lb (84.3 kg) à son plus bas était remonté à 195 lb (88.6 kg).
 
@@ -44,9 +45,9 @@ Au-delà de ces deux activités principales, il y'avait aussi d'autres activité
 
 Voici donc les objectifs que je m'étais donnés pour chacune de ces activités physiques en 2021:
 
-* Course: Atteindre un total de **1 000 km**
-* Marche, danse et toute autre activité: Atteindre un total de **3 650 000 pas**
-* Circuit 4P: Être en mesure de faire **100 pompes (push-ups)** de suite sans interruption.
+- Course: Atteindre un total de **1 000 km**
+- Marche, danse et toute autre activité: Atteindre un total de **3 650 000 pas**
+- Circuit 4P: Être en mesure de faire **100 pompes (push-ups)** de suite sans interruption.
 
 Une fois les objectifs choisis, il ne me restait plus qu'à trouver du temps et de la discipline pour les intégrer dans mon calendrier déjà très chargé pour 2021.
 
@@ -58,13 +59,13 @@ Bien que cela pourrait paraître intense, une heure par jour ne représente que 
 
 Pour moi, la discipline dans la poursuite de mes objectifs santé devait se concrétiser en me fixant des objectifs clairs d'activités physiques à réaliser pour chaque journée de la semaine. C'est ainsi que j'avais mis au point un calendrier qui se présentait comme suit:
 
-* Lundi: Course de 10 km
-* Mardi: Circuit 4P
-* Mercredi: Marche / danse avec mon fils.
-* Jeudi: Course de 10 km
-* Vendredi: Circuit 4P
-* Samedi: Marche / danse avec mon fils
-* Dimanche: Marche / danse avec mon fils
+- Lundi: Course de 10 km
+- Mardi: Circuit 4P
+- Mercredi: Marche / danse avec mon fils.
+- Jeudi: Course de 10 km
+- Vendredi: Circuit 4P
+- Samedi: Marche / danse avec mon fils
+- Dimanche: Marche / danse avec mon fils
 
 Ainsi donc, les journées des courses, soit lundi et jeudi, me permettent d'avancer mon objectif de course. Les journées du Circuit 4P sont des journées pendant lesquelles je tente d'augmenter de 1 le nombre de pompes que je suis capable de faire sans interruption. Les autres journées, je le passe soit à marcher ou à danser avec ma famille et ça me permet d'avancer mon objectif de nombre de pas.
 
@@ -74,13 +75,13 @@ Pour atteindre chacun de ces objectifs à la fin de l'année, je dois m'assurer 
 
 Après trois mois de 2021, je suis quand même fier d'être sur le bon chemin pour accomplir ces objectifs. En date du 13 mars 2021, j'en suis à :
 
-* **207.32 km** sur 1 000 km de course
-* **764 546 pas** sur 3 650 000 pas
-* **47 pompes** sans interruption sur 100. (J'ai commencé l'année à 20)
+- **207.32 km** sur 1 000 km de course
+- **764 546 pas** sur 3 650 000 pas
+- **47 pompes** sans interruption sur 100. (J'ai commencé l'année à 20)
 
 Travailler chaque jour sur ces trois objectifs m'a permis de maintenir mon poids en 2021 comme vous pouvez l'observer en consultant l'image ci-dessous. En 70 jours de 2021, mon poids est resté presque constant avec une perte de seulement 1.8 lb (0.8 kg).
 
-![Graphique montrant la courbe de poids](/media/mon_poids_du_2021-01-01_au_2021-12-31-2.png "Mon poids en date du 13 mars 2021")
+![Graphique montrant la courbe de poids](/media/mon_poids_du_2021-01-01_au_2021-12-31-2.png 'Mon poids en date du 13 mars 2021')
 
 ## Conclusion
 

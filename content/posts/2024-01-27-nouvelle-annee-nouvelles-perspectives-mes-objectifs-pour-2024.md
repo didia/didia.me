@@ -1,6 +1,6 @@
 ---
 template: post
-title: "Nouvelle Année, Nouvelles Perspectives: Mes objectifs pour 2024"
+title: 'Nouvelle Année, Nouvelles Perspectives: Mes objectifs pour 2024'
 draft: true
 date: 2024-01-04T11:13:57.157Z
 description: Depuis quatre ans maintenant, je commence chaque année avec un ou
@@ -12,9 +12,10 @@ tags:
   - entrepreneuriat;Vie
 thumbnail: /media/objectifs-2024.png
 ---
+
 L'année dernière, mon défi était d'utiliser l'apprentissage de l'informatique pour inculquer aux jeunes de la RD Congo les valeurs de Proactivité, Autonomie, Créativité, Travail et Excellence (PACTE) avec l'académie des élites. Mes associés et moi avons collaboré avec des écoles, parents, coachs et apprenants tout au long de l'année pour concrétiser notre vision. Bien que nous n'ayons pas encore atteint l'adéquation produit-marché recherchée, nous sommes satisfaits des progrès réalisés en 2023. Forts de ces apprentissages, nous allons redoubler d'efforts en 2024 pour finalement atteindre notre marché, convaincus que plus il y a de citoyens possédant un haut niveau de PACTE, plus notre société a de chances de s'épanouir.
 
-![Elite en training au Collège Moderne le Figuier](/media/elite_training.jpeg "Elite en training au Collège Moderne le Figuier")
+![Elite en training au Collège Moderne le Figuier](/media/elite_training.jpeg 'Elite en training au Collège Moderne le Figuier')
 
 Pour 2024, j'ai décidé de pleinement embrasser mon appartenance à deux pays : la RD Congo, mon pays d'origine, et le Canada, ma terre d'accueil. C'est pourquoi j'ai deux objectifs pour chacun de ces pays :
 
@@ -30,7 +31,7 @@ Nous sommes essentiellement des extracteurs de matières premières, vendues à 
 
 Cependant, lors de mon séjour à Kinshasa entre novembre et décembre, j'ai réalisé qu'il ne manque pas de producteurs dans notre pays. Il y a des entrepreneurs qui fabriquent des produits de qualité, mais pour les 13 producteurs avec lesquels j'ai discuté, le constat est le même : le marché est dominé par des produits étrangers, souvent moins chers, de meilleure qualité ou plus populaires. Ils manquent d'accès au marché.
 
-![Image d'un sac de riz Lazima](/media/lazima.jpeg "Lazima, riz parfumé made in 243.")
+![Image d'un sac de riz Lazima](/media/lazima.jpeg 'Lazima, riz parfumé made in 243.')
 
 Je crois en la libre entreprise, mais soyons réalistes, nos entrepreneurs ne peuvent pas concurrencer à armes égales avec les multinationales chinoises et indiennes. Ils manquent de moyens. Des décisions politiques fortes sont nécessaires pour les soutenir. Mais imposer des tarifs exagérés sur des produits essentiels à une population pauvre serait également suicidaire.
 

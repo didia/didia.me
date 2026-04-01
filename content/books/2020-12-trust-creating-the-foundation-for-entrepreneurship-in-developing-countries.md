@@ -19,4 +19,3 @@ tags:
   - Entrepreneurship
 thumbnail: /media/trust.jpg
 ---
-

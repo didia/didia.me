@@ -12,6 +12,7 @@ tags:
   - Software Engineering
 thumbnail: /media/find-buggy-commit-faster.jpg
 ---
+
 _Dear friend,_
 
 A couple of months ago, I gave a presentation at [work](https://life.mirego.com/en) about using binary search as a debugging algorithm. Today I want to share the same thing with you, specially on how to use binary search to find a commit that introduced a bug in your code.
@@ -32,7 +33,7 @@ Now I know what you are thinking: doing this manually is still tedious. And you 
 
 ## This is how to use them
 
-For this demo,  I will use _git_ but the _bisect_ command works pretty much the same way in both _git_ and _mercurial_. 
+For this demo, I will use _git_ but the _bisect_ command works pretty much the same way in both _git_ and _mercurial_.
 
 So for the context, I have this project with 1,107 commits in it. We just found out that an important feature does not work anymore in production (currently _v1.10.5_ ) but its code looks good. \
 I realize we did not have automated tests for that feature (big fail). So before starting anything, I start by writing a test script for the feature. When I run it on the latest commit it does fail.
@@ -51,7 +52,7 @@ First we kneed to tell git that we are going to start bisecting the code.
 $ git bisect start
 ```
 
-Now we need to give the algorithm both a known good commit and a known bad commit. For the bad commit, it’s easy just pick the latest commit. For the good commit, usually you can pick the latest working commit you know was working. In our case we know that our latest working version was _v1.0.0_(commit _3f29f2c_). 
+Now we need to give the algorithm both a known good commit and a known bad commit. For the bad commit, it’s easy just pick the latest commit. For the good commit, usually you can pick the latest working commit you know was working. In our case we know that our latest working version was _v1.0.0_(commit _3f29f2c_).
 
 ```bash
 $ git bisect bad HEAD
@@ -130,7 +131,7 @@ Date: Wed Jun 27 08:59:19 2018 -0400
 Victory 🥂, after only 7 steps we have found our guilty commit amongst 201 potential commits. And as you can see, the error was made after modifying beanstalk deployment policy which we could not have guessed as it is not in our application code but in our infrastructure code.\
 This commit is 118 commits away from our latest commit and 83 commits away from our known working commit i.e if we ran a linear algorithm and checked one commit by one we would have had to check at least 83 commits‼️ That is to say the git bisect would have been at least 11 times faster than the linear algorithm.
 
-Dear friend, I hope this post has added a great tool to your already rich toolbox and now you can indeed find buggy commit faster than The Flash ⚡. 
+Dear friend, I hope this post has added a great tool to your already rich toolbox and now you can indeed find buggy commit faster than The Flash ⚡.
 
 If you have something you want to add about this post or just share an opinion, drop me a line in the comments section, I will be happy to read it. And if you learnt something new today, don’t forget to share this post as it may help someone else too.
 

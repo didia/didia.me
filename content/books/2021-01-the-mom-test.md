@@ -19,6 +19,7 @@ tags:
   - ''
 thumbnail: /media/the-mom-test.jpg
 ---
+
 À chaque fois qu'on a une idée de business, notre premier reflexe est souvent de valider l'idée en parlant à nos proches ou futurs clients. Nous cherchons à ce qu'ils nous disent si c'est une bonne ou mauvaise idée.
 
 Dans ce livre, Rob Fitzpatrick démontre que cette approche n'est pas la bonne. En effet, en allant directement demander ce qu'ils pensent de notre idée, nos interlocuteurs auront souvent tendance à être moins sincère avec nous pour ne pas blesser notre égo.

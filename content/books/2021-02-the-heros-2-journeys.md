@@ -19,7 +19,8 @@ tags:
   - Christopher Vogler
 thumbnail: /media/the-heros-two-journeys.jpg
 ---
-I learned about this book while reading one of Russel Brunson's expert secrets books. He said that  this workshop of Michael Hauge and Christopher Vogler taught him how to tell not just good but great stories. After listening to this book, I can clearly see why.
+
+I learned about this book while reading one of Russel Brunson's expert secrets books. He said that this workshop of Michael Hauge and Christopher Vogler taught him how to tell not just good but great stories. After listening to this book, I can clearly see why.
 
 In this book, the authors talk about what makes a story interesting to listeners or viewers: the presence of the outer journey and inner journey of the hero.
 
@@ -27,6 +28,6 @@ They say that almost every movies in Hollywood has a hero who follows an outer j
 
 But in parallel to the outer journey, a hero should always have a more private, inner journey of transformation. This one is only revealed to him at the end of the movie. It is not readily visible to listeners or viewers.
 
-Although the outer journey is important to get people to follow the story, it is the inner journey that makes a story great. The inner journey is always more important than the outer journey in that it reveals what really mattered to the hero. It reveals the hero's true motives, his true characters. 
+Although the outer journey is important to get people to follow the story, it is the inner journey that makes a story great. The inner journey is always more important than the outer journey in that it reveals what really mattered to the hero. It reveals the hero's true motives, his true characters.
 
 After listening to this book, I feel like I have gained great knowledge on how to tell stories. When I watch an Hollywood movie now, I always recognized the structure talked about in this book. This will help become great at telling stories about myself, my business ventures and my products.

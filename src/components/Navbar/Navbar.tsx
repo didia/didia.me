@@ -32,12 +32,7 @@ const Navbar = () => {
           {menu.map((item) => (
             <li key={item.path} className={styles['navbar__menu-item']}>
               {isAbsoluteUrl(item.path) ? (
-                <a
-                  href={item.path}
-                  className={styles['navbar__menu-link']}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <a href={item.path} className={styles['navbar__menu-link']} target="_blank" rel="noopener noreferrer">
                   {item.label}
                 </a>
               ) : (

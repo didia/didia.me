@@ -18,6 +18,7 @@ tags:
   - Luc Lépine
 thumbnail: /media/leo-major.jpg
 ---
+
 L'histoire de Léo Major a été très inspirante. Sa résilience et sa détermination ont été captivantes tout le long du livre. Le manque de reconnaissance dont il a été victime à son retour au Canada est quand-même étonnant.
 
 Toutefois, ce que je retiens de l'histoire de Léo, c'est que quand on se donne à quelque chose avec détermination, avec tact, on finit toujours par avoir des bons résultats.

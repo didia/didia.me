@@ -16,4 +16,3 @@ tags:
   - David Schwartz
 thumbnail: /media/the-magic-of-thinking-big.jpg
 ---
-

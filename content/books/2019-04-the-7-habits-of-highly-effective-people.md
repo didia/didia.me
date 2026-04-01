@@ -13,4 +13,3 @@ tags:
   - Productivité
 thumbnail: /media/7-habits.jpg
 ---
-

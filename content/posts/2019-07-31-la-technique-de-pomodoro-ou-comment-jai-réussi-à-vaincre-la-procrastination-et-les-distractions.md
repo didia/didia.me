@@ -11,11 +11,12 @@ description: >-
   distractions sans jamais réussir à accomplir ce que je désirais accomplir.
   Cela a pris fin quand j’ai découvert la technique Pomodoro; Une technique de
   gestion de temps super-efficace qui m’a permis d’atteindre le niveau de
-  productivité auquel j’aspirais. 
+  productivité auquel j’aspirais.
 category: Productivité
 tags:
   - pomodoro;productivité;procrastination;distractions
 ---
+
 Cher ami,
 
 Si tu es comme moi, il t’arrive de fois que tu te mettes sur la table pour accomplir un petit travail ou lire sur un sujet, juste pour te retrouver entrain de commenter une photo d’un ami sur Facebook, regarder des épisodes des Friends sur Youtube ou encore espionner du monde sur Snapchat. Si tu es dans ce cas, la technique de Pomodoro dont je vais parler dans les prochaines lignes de cet article pourra t'être utile.
@@ -25,22 +26,22 @@ Cela arrive même au travail. Avec toutes les messageries instantanées que nous
 
 ## Pourquoi est-il si facile de tomber dans la distraction ?
 
-Généralement, les activités ou les déclencheurs qui interrompent nos tâches ont tendance à être très plaisants et demander moins d’effort de notre part. Par exemple, regarder une épisode marrante de Friends sur Youtube demande moins d’effort et offre une satisfaction instantanée. Ce qui n’est pas le cas de faire le ménage. C’est pour cette raison que mon cerveau a naturellement tendance à privilégier le fait de regarder Friends que de faire le ménage. De même lire ou répondre à un message Whatsapp, Slack ou une notification Snapchat est plus plaisant que ce rapport là que tu devrais produire au travail ou pour ton travail d’école. 
+Généralement, les activités ou les déclencheurs qui interrompent nos tâches ont tendance à être très plaisants et demander moins d’effort de notre part. Par exemple, regarder une épisode marrante de Friends sur Youtube demande moins d’effort et offre une satisfaction instantanée. Ce qui n’est pas le cas de faire le ménage. C’est pour cette raison que mon cerveau a naturellement tendance à privilégier le fait de regarder Friends que de faire le ménage. De même lire ou répondre à un message Whatsapp, Slack ou une notification Snapchat est plus plaisant que ce rapport là que tu devrais produire au travail ou pour ton travail d’école.
 
 ## Pourrais-t-on juste éliminer toutes ces distractions ?
 
 Quand je m’étais rendu compte que Facebook prenait bien trop mon temps, j’avais décidé de quitter Facebook pour éliminer cette distraction. Non seulement j’ai fini par me rendre compte que pour moi qui vit à l’étranger, Facebook est important pour rester en contact avec la famille; J’ai aussi réalisé que j’avais fini par remplacer Facebook par Twitter. J’ai fini par supprimer l’application Twitter de mon téléphone et peu de temps après, le site web sportif BleacherReport prenait la place laissé vacante par Twitter. Il y’avait toujours quelque chose qui venait remplacer ce que j’enlevais. Pourquoi ?\
-La réalité est que nous avons besoin des distractions pour relaxer. Un peu de distractions est important pour garder notre cerveau frais. Le problème c’est plus quand on reste dans la distraction. La tendance qu’a notre cerveau de vouloir faire des tâches plus plaisantes est totalement normal. Le combattre en éliminant toutes distractions est juste irréaliste. 
+La réalité est que nous avons besoin des distractions pour relaxer. Un peu de distractions est important pour garder notre cerveau frais. Le problème c’est plus quand on reste dans la distraction. La tendance qu’a notre cerveau de vouloir faire des tâches plus plaisantes est totalement normal. Le combattre en éliminant toutes distractions est juste irréaliste.
 
 C’est ainsi que j’avais décidé d’abandonner jusqu’à ce que je lise le livre A mind for Numbers de Barbara Oakley et que je découvre la technique du Pomodoro.
 
 ## En quoi consiste la technique du Pomodoro ?
 
 La technique du Pomodoro est une méthode de gestion de temps inventé par Francesco Cirillo dans la fin des années 80. Le but est de diviser le travail en intervalles de 25 minutes appelées pomodoro, séparées par des petites pauses, généralement de 5 minutes. Après 4 intervalles de travail, la pause qui s’en suit est quant à elle plus longue, généralement de 25 minutes. \
-Les temps de pause peuvent être utilisés pour consulter les emails ou sms ainsi que naviguer un peu sur le Web si possible. 
+Les temps de pause peuvent être utilisés pour consulter les emails ou sms ainsi que naviguer un peu sur le Web si possible.
 
 **Pourquoi ça marche ?**\
-Cette technique fonctionne bien car nous n’éliminons pas nécessairement les distractions et les interruptions mais nous les controllons. Nous sommes moins disposés à ouvrir la notification Snapchat qui vient d’arriver tout de suite car nous savons que nous aurons un petit 5 minutes pour le faire bientôt. 
+Cette technique fonctionne bien car nous n’éliminons pas nécessairement les distractions et les interruptions mais nous les controllons. Nous sommes moins disposés à ouvrir la notification Snapchat qui vient d’arriver tout de suite car nous savons que nous aurons un petit 5 minutes pour le faire bientôt.
 
 L’autre avantage de cette technique est que le travail devient plus amusant car nous obtenons une satisfaction à chaque fois que nous complétons une séance de Pomodoro. Cette satisfaction nous garde motivé à faire plus des séances encore.
 

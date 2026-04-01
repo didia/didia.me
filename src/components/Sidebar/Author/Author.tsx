@@ -13,13 +13,7 @@ interface AuthorProps {
 const Author = ({ author, isIndex }: AuthorProps) => (
   <div className={styles['author']}>
     <Link href="/">
-      <img
-        src={author.photo}
-        className={styles['author__photo']}
-        width="75"
-        height="75"
-        alt={author.name}
-      />
+      <img src={author.photo} className={styles['author__photo']} width="75" height="75" alt={author.name} />
     </Link>
 
     {isIndex ? (

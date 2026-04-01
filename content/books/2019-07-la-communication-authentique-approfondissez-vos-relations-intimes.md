@@ -13,4 +13,3 @@ tags:
   - Psychologie
 thumbnail: /media/img_5229.jpg
 ---
-

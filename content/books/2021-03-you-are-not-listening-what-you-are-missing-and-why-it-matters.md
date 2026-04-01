@@ -18,6 +18,7 @@ tags:
   - Kate Murphy
 thumbnail: /media/you-are-not-listening.jpg
 ---
-The author begins this book by a painful observation that in our world today, the ability to listen to anyone has been replaced by the capability to shut down everyone, particularly those with whom we don't agree. 
+
+The author begins this book by a painful observation that in our world today, the ability to listen to anyone has been replaced by the capability to shut down everyone, particularly those with whom we don't agree.
 
 As a result, people are increasingly feeling lonely because they are not listening to others and nobody is listening to them.

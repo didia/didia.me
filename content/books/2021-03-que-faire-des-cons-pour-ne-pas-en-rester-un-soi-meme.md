@@ -17,4 +17,3 @@ tags:
   - Développement personnel
 thumbnail: /media/que-faire-des-cons.jpg
 ---
-

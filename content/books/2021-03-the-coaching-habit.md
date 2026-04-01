@@ -16,4 +16,3 @@ tags:
   - Michael Bungay Stanier
 thumbnail: /media/coaching-habit.jpg
 ---
-

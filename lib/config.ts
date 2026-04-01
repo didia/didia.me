@@ -4,8 +4,7 @@ const siteConfig = {
   imageHeight: '310',
   url: 'https://www.didia.me',
   title: 'Aristote Didia',
-  subtitle:
-    'Fractional CTO | ROI-Driven AI | Technology Cost Optimization',
+  subtitle: 'Fractional CTO | ROI-Driven AI | Technology Cost Optimization',
   description:
     'Fractional CTO specialising in ROI-driven AI and technology cost optimisation. I help growing companies align technology investments with business outcomes and deliver measurable value.',
   copyright: '© All rights reserved.',

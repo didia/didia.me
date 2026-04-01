@@ -16,4 +16,3 @@ tags:
   - Apprentissage
 thumbnail: /media/mindshift.png
 ---
-

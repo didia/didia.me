@@ -1,6 +1,6 @@
 ---
 template: post
-title: "Dr Marie-Claire Diwampovesa : Un Héritage de Courage et de Résilience"
+title: 'Dr Marie-Claire Diwampovesa : Un Héritage de Courage et de Résilience'
 draft: false
 date: 2024-03-02T11:25:03.648Z
 description: >-
@@ -15,6 +15,7 @@ description: >-
 category: Gratitude Tour 2024
 thumbnail: /media/img_3090.jpg
 ---
+
 En ouvrant le bal de ce "Gratitude Tour 2024", il m'apparaît essentiel de rendre hommage à celle qui a façonné l'essence même du professionnel que je suis aujourd'hui : ma mère, Dr Marie-Claire Diwampovesa.
 
 Dès ma tendre enfance, j'ai eu le privilège d'être aux premières loges d'une représentation de bravoure et de persévérance, incarnée par la carrière de ma mère. En 1997, en pleine effervescence d'une guerre déchirant son pays et avec un bébé d'à peine un an, elle fait le choix audacieux de quitter provisoirement son foyer pour parfaire ses connaissances en santé publique à l'Université de Kinshasa. Cette décision, prise dans un contexte d'adversité, lui ouvrira les portes de l'Organisation Mondiale de la Santé en 2000, changeant à jamais le cours de sa vie et, par extension, de la nôtre.

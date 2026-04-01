@@ -20,6 +20,7 @@ tags:
   - Justin Mares
 thumbnail: /media/traction-gabriel-weinberg.jpg
 ---
+
 By reading this book, I discovered 19 acquisition channels I can use to acquire new customers for my current and future business ventures. Prior to reading this book, I relied almost entirely on social media marketing. But this book did a good job of calling me out on the biaises I didn't know I had against all the other channels. From now on, I will try to consciously explore acquisition channels I am not familiar with.
 
 For that, the framework bullseyes, presented in this book will be a good help. Bullseye is a three-step framework that help you figure out which channel and then witch strategy within the chosen channel will work your business at the moment.

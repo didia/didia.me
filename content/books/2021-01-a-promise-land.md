@@ -17,4 +17,3 @@ tags:
   - autobiographie
 thumbnail: /media/a-promised-land.jpeg
 ---
-

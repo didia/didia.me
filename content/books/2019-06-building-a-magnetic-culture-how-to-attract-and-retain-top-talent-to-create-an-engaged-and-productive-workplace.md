@@ -16,4 +16,3 @@ tags:
   - Carrière
 thumbnail: /media/magnetic-culture.jpg
 ---
-

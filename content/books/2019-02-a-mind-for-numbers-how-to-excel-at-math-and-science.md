@@ -14,4 +14,3 @@ tags:
   - Apprentissage;Procrastination
 thumbnail: /media/a-mind-for-numbers.jpg
 ---
-

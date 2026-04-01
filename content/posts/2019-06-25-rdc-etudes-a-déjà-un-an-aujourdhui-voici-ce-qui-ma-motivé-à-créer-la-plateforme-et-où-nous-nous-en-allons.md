@@ -14,6 +14,7 @@ tags:
   - Education
   - RDC Etudes
 ---
+
 Cher ami(e),
 
 En juillet 2010, je voyais déjà un bel avenir devant moi. Les résultats des examens d’état, examens nationaux qui mènent à l’obtention du diplôme d’études secondaires, venaient juste d'être annoncé. J’étais lauréat de la République avec 90% cette année là. C’était l’année du cinquantenaire de l’indépendance de notre pays et tout laissait croire que j’obtiendrai une bourse d’études du président de la République pour aller dans l’une de plus grandes universités au monde, je revais d’Harvard ou du MIT. Hélas rien ne s’est vraiment passé comme prévu pour moi…

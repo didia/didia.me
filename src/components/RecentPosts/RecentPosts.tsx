@@ -26,16 +26,12 @@ const RecentPosts = ({ posts }: RecentPostsProps) => (
               <time dateTime={format(new Date(post.frontmatter.date), 'yyyy-MM-dd')}>
                 {format(new Date(post.frontmatter.date), 'MMMM yyyy')}
               </time>
-              <span className={styles['recent__post-category']}>
-                {post.frontmatter.category}
-              </span>
+              <span className={styles['recent__post-category']}>{post.frontmatter.category}</span>
             </div>
             <h3 className={styles['recent__post-title']}>
               <Link href={post.slug}>{post.frontmatter.title}</Link>
             </h3>
-            <p className={styles['recent__post-description']}>
-              {post.frontmatter.description}
-            </p>
+            <p className={styles['recent__post-description']}>{post.frontmatter.description}</p>
           </article>
         ))}
       </div>

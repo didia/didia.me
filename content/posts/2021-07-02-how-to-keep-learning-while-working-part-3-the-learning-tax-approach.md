@@ -1,6 +1,6 @@
 ---
 template: post
-title: "How to keep learning while working, Part 3: The learning tax approach"
+title: 'How to keep learning while working, Part 3: The learning tax approach'
 slug: how-to-keep-learning-while-working/the-learning-tax-approach
 draft: false
 date: 2021-07-02T15:43:02.683Z
@@ -17,6 +17,7 @@ tags:
   - learning tax approach
 thumbnail: /media/wes-hicks-4-eetnac1s4-unsplash.jpg
 ---
+
 This is the third article of the series **[How to keep learning while working](/category/how-to-keep-learning-while-working/)** in which I share how I learned to find the time, energy and focus necessary to learn new things while maintaining a good work-life balance.
 
 Previous article ☞ **[How to keep learning while working, Part 2: What experienced people taught me about learning on the job](/how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job)**
@@ -29,11 +30,11 @@ However, just contributing wasn't what I wanted. I pride myself in trying to be 
 
 ## What is the learning tax approach ?
 
-In the previous article of this series, we showed three main approaches to learn while working: *Learning by experience only*, *Learning on personal time* and *Learning on company time*.
+In the previous article of this series, we showed three main approaches to learn while working: _Learning by experience only_, _Learning on personal time_ and _Learning on company time_.
 
-For me, learning on company time was the ideal approach given my personal situation. I wanted to spend as much time as I could with my family and spend time working on my side project while continuing to learn and grow in my career. The only problem was that I felt like using company time to learn instead of delivering value wasn't fair to my employer. 
+For me, learning on company time was the ideal approach given my personal situation. I wanted to spend as much time as I could with my family and spend time working on my side project while continuing to learn and grow in my career. The only problem was that I felt like using company time to learn instead of delivering value wasn't fair to my employer.
 
-In fact,  I have seen so many instances where someone on the team took a lot of time on his own to learn something that wasn't required for the project at hands and ended up being unable to deliver on their tasks. This would always draw frustration from the project manager and other team members because it was usually perceived as wasted time and budget.
+In fact, I have seen so many instances where someone on the team took a lot of time on his own to learn something that wasn't required for the project at hands and ended up being unable to deliver on their tasks. This would always draw frustration from the project manager and other team members because it was usually perceived as wasted time and budget.
 
 With the learning tax approach, I wanted to make learning on company time fairer for my employer and also eliminate or reduce the perceived waste of time and budget from the project manager and other team members.
 
@@ -43,7 +44,7 @@ Using these restrictions when using company time to learn aims to make sure it's
 
 ## Using the learning tax approach
 
-To use the learning tax approach, I needed to start by choosing the learning tax i.e how much time I would set aside for learning purposes. Choosing the right amount of time as a learning tax was key to the approach and it wasn't an easy task. I had to make sure the tax chosen was enough to learn at a good pace and at the same time, it didn't affect my ability to deliver my project assignments on time. 
+To use the learning tax approach, I needed to start by choosing the learning tax i.e how much time I would set aside for learning purposes. Choosing the right amount of time as a learning tax was key to the approach and it wasn't an easy task. I had to make sure the tax chosen was enough to learn at a good pace and at the same time, it didn't affect my ability to deliver my project assignments on time.
 
 I didn't have any data to help me decide how much time was the best option for me. So, I decided to go with the minimum block of time I could afford to use and that was a block of 25 minutes per day. If you are wondering why 25 minutes, it's because I use the pomodoro technique for my focused work which divide time in multiple 25 minutes blocks.
 
@@ -59,11 +60,11 @@ After just two weeks of increasing my learning tax to 50 minutes per day, it was
 
 I started using the learning tax approach in January 2020. Since then, it has helped me learn a lot about both engineering and management without having a negative impact on my capacity to deliver on my project tasks. I have seen not only a great increase in my productivity as a software developer but also a sound improvement on my leadership skills.
 
-Yes, there are some weeks where work is so intense that I choose not to use my full learning tax. But those weeks are the exception rather than the rule. 
+Yes, there are some weeks where work is so intense that I choose not to use my full learning tax. But those weeks are the exception rather than the rule.
 
 I don't know if this strategy could work for everybody but for me it has been a game changer. I don't feel guilty to spend company time on learning anymore because I'm always ready to show how what I am learning can bring value to the projects I'm working on. And after using this approach for almost two years, I have a full history to show how this strategy has helped me achieve great results.
 
-My leadership skills improvement has paved the way for my hiring as Chief Technological Officer at my new company. Today, as the most senior technical leader, learning is now part of my job content. I don't really need the learning tax anymore like I used to. But I intend to keep using it because I want to maintain the discipline this approach has brought to the way I choose what to learn and how much time to spend on learning. 
+My leadership skills improvement has paved the way for my hiring as Chief Technological Officer at my new company. Today, as the most senior technical leader, learning is now part of my job content. I don't really need the learning tax anymore like I used to. But I intend to keep using it because I want to maintain the discipline this approach has brought to the way I choose what to learn and how much time to spend on learning.
 
 ## Want to try the learning tax approach ?
 

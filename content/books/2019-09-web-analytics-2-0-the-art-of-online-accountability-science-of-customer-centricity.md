@@ -18,4 +18,3 @@ tags:
 thumbnail: /media/img_5238.jpg
 amazonLink: https://www.amazon.ca/gp/product/0470529393/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=0470529393&linkCode=as2&tag=didia08-20&linkId=01c001c5eb523abe682e8280723c61b2
 ---
-

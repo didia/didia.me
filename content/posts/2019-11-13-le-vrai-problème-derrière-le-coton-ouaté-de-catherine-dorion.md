@@ -15,6 +15,7 @@ tags:
   - Québec
 thumbnail: /media/catherine-dorion.jpg
 ---
+
 Cher ami(e),
 
 Depuis l’halloween, le coton Ouaté de la députée Catherine Dorion a été le sujet le plus en vue de la politique québécoise après l’humiliante debacle du projet de changement au PEQ du ministre de l’immigration Simon Jolin-Barrette. D’une part, nous avons des personnes qui pensent que madame Dorion devrait s’habiller comme elle le veut au parlement et d’autre part, nous avons ceux qui défendent mordicus le décorum de l’Assemblée nationale qui exige le port d’une tenue de ville. Les prochaines lignes contiendront une petite reflexion qui me pousseront à m’aligner d’un coté ou de l’autre de ces deux opinions divergentes.
@@ -23,7 +24,7 @@ Depuis l’halloween, le coton Ouaté de la députée Catherine Dorion a été l
 
 En effet, les défenseurs et défenderesses de la député de Taschereau avancent qu’elle devrait pouvoir s’habiller comme elle veut. Ce n’est pas aux députés, majoritairement hommes disent-ils, de controller l’habillement de Catherine Dorion.
 
-![Une femme débout en coton ouaté à coté de trois hommes et une autre femme en tenue de ville.](/media/catherine-dorion.jpg "Catherine Dorion à l’assemblée nationale")
+![Une femme débout en coton ouaté à coté de trois hommes et une autre femme en tenue de ville.](/media/catherine-dorion.jpg 'Catherine Dorion à l’assemblée nationale')
 
 Bien que la raison donnée par cette frange de la population me semble on ne peut plus boiteuse, j’abonde un tout petit dans ce sens.\
 \
@@ -36,7 +37,7 @@ Cette tendance de récupération et d’exagération du problème est de plus en
 
 En effet, les détracteurs et détractrices de la député de Taschereau s’insurgent contre le fait qu’elle ne respecte pas le décorum de l’Assemblée Nationale. Et dans ce cas aussi, je les rejoins dans ce sens.
 
-![Une femme assise sur un bureau au salon rouge de l’assemblée nationale du Québec](/media/catherine-dorion-députee.jpg "Catherine Dorion lors de sa photo d’Halloween")
+![Une femme assise sur un bureau au salon rouge de l’assemblée nationale du Québec](/media/catherine-dorion-députee.jpg 'Catherine Dorion lors de sa photo d’Halloween')
 
 En aucun ici, il ne s’agit de controller le corps des femmes ou des choix vestimentaires des femmes. On parle bien ici d’une députée et de l’habillement en chambre(de députées, pas la sienne). Personne ne veut controller comment Madame Dorion s’habille en dehors des murs de l’Assemblée Nationale. Donc ramener ce problème à un problème de contrôle de corps des femmes revient tout simplement à faire du sensationnelle ou à être complètement ignorant. Ce même contrôle s’appliquerai à n’importe quel député, quelque soit son genre puisque ça fait partie même du décorum de l’Assemblée Nationale. \
 C’est vrai que les députés devraient plutôt se concentrer à faire avancer des projets des lois réels plutôt que se concentrer sur le coton Ouaté de madame Dorion. Toutefois, ces derniers sont dans leur droit de le faire car c’est un règlement de l’assemblée et ça devrait s’appliquer à tout le monde sans discrimination du genre, de race ou d’orientation sexuelle.
@@ -55,6 +56,6 @@ Ne pas être d’accord avec les règlements est tout à fait correct. Plutôt q
 
 Pour finir, j’aimerai avoir votre avis. Si un jour je devenais député, est-ce que ma tenue suivante serait considérée comme tenue de ville ? 😂😛
 
-![Un homme en tenue traditionnelle africaine avec des lunettes](/media/img_4898.jpg "Aristote Diasonama en tenue traditionnelle africaine avec des lunettes")
+![Un homme en tenue traditionnelle africaine avec des lunettes](/media/img_4898.jpg 'Aristote Diasonama en tenue traditionnelle africaine avec des lunettes')
 
 À la prochaine ✌🏾

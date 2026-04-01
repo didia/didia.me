@@ -26,9 +26,7 @@ const Framework = () => (
     <div className={styles['framework__inner']}>
       <p className={styles['framework__label']}>How I Work</p>
       <h2 className={styles['framework__title']}>The ROI-Driven Technology Framework</h2>
-      <p className={styles['framework__subtitle']}>
-        A repeatable three-step approach that anchors every engagement.
-      </p>
+      <p className={styles['framework__subtitle']}>A repeatable three-step approach that anchors every engagement.</p>
       <div className={styles['framework__steps']}>
         {steps.map((step) => (
           <div className={styles['framework__step']} key={step.number}>

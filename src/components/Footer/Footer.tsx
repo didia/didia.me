@@ -12,9 +12,7 @@ const Footer = () => {
         <div className={styles['footer__columns']}>
           <div className={styles['footer__brand']}>
             <p className={styles['footer__name']}>{author.name}</p>
-            <p className={styles['footer__tagline']}>
-              Fractional CTO for ROI-Driven AI and Cost Optimisation
-            </p>
+            <p className={styles['footer__tagline']}>Fractional CTO for ROI-Driven AI and Cost Optimisation</p>
           </div>
           <div className={styles['footer__nav']}>
             <p className={styles['footer__nav-title']}>Navigation</p>
@@ -27,8 +25,12 @@ const Footer = () => {
           <div className={styles['footer__nav']}>
             <p className={styles['footer__nav-title']}>Connect</p>
             <a href={getContactHref('email', author.contacts.email)}>Email</a>
-            <a href={getContactHref('linkedin', author.contacts.linkedin)} target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a href="https://www.rdcetudes.com" target="_blank" rel="noopener noreferrer">RDC Etudes</a>
+            <a href={getContactHref('linkedin', author.contacts.linkedin)} target="_blank" rel="noopener noreferrer">
+              LinkedIn
+            </a>
+            <a href="https://www.rdcetudes.com" target="_blank" rel="noopener noreferrer">
+              RDC Etudes
+            </a>
           </div>
         </div>
         <div className={styles['footer__bottom']}>

@@ -17,11 +17,12 @@ tags:
   - Immigration
 thumbnail: /media/110930_quebec.jpg
 ---
+
 _Cher ami(e),_
 
 Si tu habites Québec comme moi, tu as probablement entendu parlé du [projet de loi n° 9](http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-9-42-1.html) du gouvernement du Québec qui porte sur la modification de la loi sur l’immigration. Selon le gouvernement, ce projet de loi vise à accroître la prospérité socio-économique du Québec et à répondre adéquatement aux besoins du marché du travail par une intégration réussie des personnes immigrantes. Mais en voulant répondre à tout le monde, je pense que les mesures introduites risquent fortement de décourager les personnes brillantes à immigrer au Québec.
 
-![Quelques immigrants à la fête de la St-Jean.](/media/110930_quebec.jpg "Quelques immigrants à la fête de la St-Jean. mclean.ca")
+![Quelques immigrants à la fête de la St-Jean.](/media/110930_quebec.jpg 'Quelques immigrants à la fête de la St-Jean. mclean.ca')
 
 En effet, d’une part, plusieurs entreprises de Québec sont en manque criant d’employés. Certaines en région, où les immigrants ne s’installent pas souvent, sont même entrain de fermer leurs portes. Elles ont donc grandement besoin d’immigrants pour occuper leurs emplois ouverts.\
 \
@@ -29,7 +30,7 @@ D’autre part, la majeure partie de la population a l’impression que Québec 
 
 Voyant une opportunité en or, la Coalition Avenir Québec a donc décidé de surfer sur cette vague pendant la campagne électorale; Ce qui, avouons-le, lui a quand même très bien réussi. Aujourd’hui la CAQ fait suite à ses promesses de campagne et propose donc le nouveau projet de loi n° 9 à l’Assemblée Nationale.
 
-![Simon Jolin-Barrette, ministre de l’immigration.](/media/simonjolinbarrette.jpg "Simon Jolin-Barrette, ministre de l’immigration.")
+![Simon Jolin-Barrette, ministre de l’immigration.](/media/simonjolinbarrette.jpg 'Simon Jolin-Barrette, ministre de l’immigration.')
 
 \
 Pour répondre aux besoins des employeurs, le gouvernement a donc décidé d’introduire plusieurs mesures dont:
@@ -40,7 +41,7 @@ Pour répondre aux besoins des employeurs, le gouvernement a donc décidé d’i
 Et pour répondre aux inquiétudes de la population:
 
 1. **Le ministre peut mettre en place des programmes visant l’apprentissage des valeurs québécoises(ndlr, les tests de valeurs) ainsi que de la connaissance du français**. (Modification 6, 14)
-2. **Imposer des conditions aux employeurs concernant le recrutement des résidents permanents **(Modification 8, 10) 
+2. **Imposer des conditions aux employeurs concernant le recrutement des résidents permanents **(Modification 8, 10)
 
 Très cher ami, je comprends qu’à ce point tu te demandes en quoi ces mesures, qui à première vue semblent positives pour la belle province, la rendra cependant moins attirante aux immigrants ?
 
@@ -48,7 +49,7 @@ En effet, j’aimerai t’amener à entrer dans la peau d’un immigrant. Géné
 
 Alors il est quand même juste de se demander pourquoi un immigrant, leader dans son domaine, accepterait des conditions aussi limitantes alors qu’il est possible avec son expertise d'être accepté sans condition ailleurs au Canada? Qui accepterait de venir au Québec où il ne pourrait même plus choisir où s’installer, où il devra être soumis à des tests, que cela soit des valeurs ou de français, alors qu’il a la possibilité de pouvoir immigrer en Ontario où il n’est soumis à rien de tout ça?\
 \
-Ainsi je pense sincèrement  qu’avec ce projet de loi, le Québec pourra toujours attirer des immigrants mais ce sera en majorité ceux qui n’ont vraiment pas d’autres choix. Ceux qui sont leaders dans leurs domaines respectifs et qui sont recherchés par d’autres cieux choisiront certainement une province qui présente moins d’obstacles pour ne pas dire un autre pays.
+Ainsi je pense sincèrement qu’avec ce projet de loi, le Québec pourra toujours attirer des immigrants mais ce sera en majorité ceux qui n’ont vraiment pas d’autres choix. Ceux qui sont leaders dans leurs domaines respectifs et qui sont recherchés par d’autres cieux choisiront certainement une province qui présente moins d’obstacles pour ne pas dire un autre pays.
 
 Et que dire de la décision d’imposer des conditions aux employeurs concernant le recrutement des résidents permanents!! Le gouvernement oublie déjà que les entreprises engagent déjà difficilement les personnes n’ayant pas d’expérience au Canada; En rajouter des conditions rendra tout ceci encore plus difficile. Je plains les nouveaux immigrés.
 

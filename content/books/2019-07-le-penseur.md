@@ -14,4 +14,3 @@ tags:
   - Poèmes;Littérature congolaise
 thumbnail: /media/le-penseur.jpeg
 ---
-

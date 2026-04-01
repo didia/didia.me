@@ -15,10 +15,9 @@ const Hero = () => {
             <span className={styles['hero__title-accent']}>measurable ROI</span>.
           </h1>
           <p className={styles['hero__description']}>
-            I work with growing companies to reduce technology costs and turn AI initiatives
-            into measurable business outcomes. By aligning technology strategy with financial
-            priorities, I help leadership teams simplify architecture, eliminate waste, and
-            focus investments on initiatives that deliver real value.
+            I work with growing companies to reduce technology costs and turn AI initiatives into measurable business
+            outcomes. By aligning technology strategy with financial priorities, I help leadership teams simplify
+            architecture, eliminate waste, and focus investments on initiatives that deliver real value.
           </p>
           <div className={styles['hero__actions']}>
             <Link href="/contact/" className={styles['hero__cta']}>
@@ -30,13 +29,7 @@ const Hero = () => {
           </div>
         </div>
         <div className={styles['hero__photo']}>
-          <img
-            src={author.photo}
-            alt={author.name}
-            className={styles['hero__photo-img']}
-            width="280"
-            height="280"
-          />
+          <img src={author.photo} alt={author.name} className={styles['hero__photo-img']} width="280" height="280" />
         </div>
       </div>
     </section>

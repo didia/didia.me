@@ -131,9 +131,7 @@ export async function getBooks(): Promise<ContentItem<BookFrontmatter>[]> {
     books.push({ frontmatter, html, slug, categorySlug, tagSlugs });
   }
 
-  books.sort(
-    (a, b) => new Date(b.frontmatter.readingStart).getTime() - new Date(a.frontmatter.readingStart).getTime()
-  );
+  books.sort((a, b) => new Date(b.frontmatter.readingStart).getTime() - new Date(a.frontmatter.readingStart).getTime());
   return books;
 }
 
@@ -183,7 +181,7 @@ export function getAllTags(posts: ContentItem<PostFrontmatter>[]): { name: strin
 }
 
 export function getAllCategories(
-  posts: ContentItem<PostFrontmatter>[]
+  posts: ContentItem<PostFrontmatter>[],
 ): { name: string; count: number; slug: string }[] {
   const catMap = new Map<string, number>();
 
@@ -206,7 +204,7 @@ export function getPostsByTag(posts: ContentItem<PostFrontmatter>[], tag: string
 
 export function getPostsByCategory(
   posts: ContentItem<PostFrontmatter>[],
-  category: string
+  category: string,
 ): ContentItem<PostFrontmatter>[] {
   return posts.filter((p) => kebabCase(p.frontmatter.category) === category);
 }

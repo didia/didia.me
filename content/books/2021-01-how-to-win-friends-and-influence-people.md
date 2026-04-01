@@ -16,6 +16,7 @@ tags:
   - personal development
 thumbnail: /media/how-to-win-friends.jpg
 ---
+
 After reading this book, I realized that sometimes we only think about ourselves and not others. We rarely think about how our actions influence others. We want people to do what we want without understanding their fears and desires.
 
 I am normally someone who likes to argue a lot, always trying to win an argument. But this book made me realize that nobody really wins an argument. It's really difficult to change other people opinions by telling them they are wrong, by judging them.

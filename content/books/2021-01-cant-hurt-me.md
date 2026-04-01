@@ -16,6 +16,7 @@ tags:
   - Développement personnel
 thumbnail: /media/cant-hurt-me.jpg
 ---
+
 After reading this book, I did not have any more reason to feel weak again. What the author went through in his live to become what he became showed me that you can achieve whatever you want as long as you don't let your mind and body trick you into thinking you are incapable.
 
 This book allowed me to challenge myself physically. I started running in the winter for the first time. Every time, I would feel like I cannot do something or I am incapable of doing something, I remind myself of David Goggins and realize with training and hard work, I can achieve anything.

@@ -14,4 +14,3 @@ tags:
   - productivité
 thumbnail: /media/getting-things-done.jpg
 ---
-

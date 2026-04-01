@@ -17,13 +17,14 @@ tags:
   - Mark Manson
 thumbnail: /media/the-subtle-art-of-not-giving-fuck.jpg
 ---
+
 I must admit, when I saw the title of this book, I was immediately turned off. How could someone possibly think it is a good thing to not give a fuck about others ?
 
 For a kid who grew up in Africa, in a christian family in addition, I could not accept it. I have been taught to care about others, to give a fuck about my faith, to give a fuck about my actions, to give a fuck!
 
 But, I decided to read the book anyway because many friends recommended it to me. And after reading the first two chapters only, I must say, I realized it wasn't entirely what I thought it to be. This book definitely surprised me in a positive way.
 
-In this book, the author advances that what make people unhappy is not the fact that bad things happen to them or others, it is the fact that we constantly worry about those bad things. What affects us the most is that constant worry about things that we have no control over. We end up in a cycle of worrying. 
+In this book, the author advances that what make people unhappy is not the fact that bad things happen to them or others, it is the fact that we constantly worry about those bad things. What affects us the most is that constant worry about things that we have no control over. We end up in a cycle of worrying.
 
 The author calls this cycle the **Feedback Loop from Hell**. We worry about something then we worry about the fact that we are worried about that thing. We get angry at ourselves for that then we worry about the fact that we got angry. It goes on and on and on.
 
