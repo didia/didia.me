@@ -7,10 +7,10 @@ const Author = () => {
 
   return (
     <div className={styles['author']}>
-      <p className={styles['author__bio']}>
+      <div className={styles['author__bio']}>
         {author.bio}
         <Contacts contacts={author.contacts} />
-      </p>
+      </div>
     </div>
   );
 };
