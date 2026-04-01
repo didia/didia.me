@@ -100,17 +100,16 @@ export default function AboutPage() {
                   </a>
                 </div>
                 <div className={styles['about__venture']}>
-                  <h3>243 Technologies / Trid Innovations</h3>
+                  <h3>Trid Innovations</h3>
                   <p>
-                    Building a technology bridge between Canada and francophone Africa. Through the Centre Technologique
-                    Inter Francophonie, we help Canadian and Québec companies execute projects through talented
+                    Building a technology bridge between Canada and francophone Africa. Through a partnership with Congo based 243 Technologies, we help Canadian and Québec companies execute projects through talented
                     francophone developers — lowering costs here, building experience there.
                   </p>
                 </div>
                 <div className={styles['about__venture']}>
                   <h3>Africa Heroes — Songololo Project</h3>
                   <p>
-                    A community-driven commercial venture in Kinshasa combining transportation, entertainment, and
+                    A community-driven commercial venture in DR Congo combining transportation, entertainment, and
                     retail to create local employment and economic activity.
                   </p>
                 </div>
