@@ -14,7 +14,7 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
-    "@shikijs/rehype": "^3.4.2",
+    "@shikijs/rehype": "^4.0.2",
     "autoprefixer": "^10.4.27",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
