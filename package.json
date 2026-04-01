@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@next/third-parties": "^15.3.2",
-    "@types/node": "^22.15.17",
+    "@types/node": "^25.5.0",
     "@types/react": "^19.1.4",
     "@types/react-dom": "^19.1.5",
     "eslint": "^9.27.0",
