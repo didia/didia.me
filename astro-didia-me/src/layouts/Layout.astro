@@ -1,0 +1,44 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Sidebar from '../components/Sidebar.astro';
+import { siteConfig } from '../config';
+
+export interface Props {
+  title?: string;
+  description?: string;
+  metaImage?: {
+    src: string;
+    width: string;
+    height: string;
+  };
+  siteUrl?: string;
+}
+
+const { 
+  title = siteConfig.title, 
+  description = siteConfig.subtitle,
+  metaImage,
+  siteUrl = siteConfig.url
+} = Astro.props;
+---
+
+<html lang="fr">
+  <head>
+    <BaseHead title={title} description={description} image={metaImage?.src} />
+  </head>
+  <body>
+    <div class="layout">
+      <Sidebar />
+      <slot />
+    </div>
+  </body>
+</html>
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .layout {
+    lost-center: $layout-width;
+  }
+</style>

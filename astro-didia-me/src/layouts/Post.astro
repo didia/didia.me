@@ -1,0 +1,87 @@
+---
+import Layout from './Layout.astro';
+import PostContent from '../components/PostContent.astro';
+import PostMeta from '../components/PostMeta.astro';
+import PostTags from '../components/PostTags.astro';
+import PostAuthor from '../components/PostAuthor.astro';
+import Comments from '../components/Comments.astro';
+import { siteConfig } from '../config';
+
+export interface Props {
+  title: string;
+  description?: string;
+  date: Date;
+  category?: string;
+  tags?: string[];
+  thumbnail?: string;
+}
+
+const { title, description, date, category, tags, thumbnail } = Astro.props;
+const metaImage = thumbnail ? { src: thumbnail, width: '1200', height: '630' } : undefined;
+---
+
+<Layout
+  title={title}
+  description={description || siteConfig.subtitle}
+  metaImage={metaImage}
+>
+  <div class="post">
+    <div class="post__inner">
+      <PostContent>
+        <h1 class="post__title">{title}</h1>
+        <PostMeta date={date} category={category} />
+        <slot />
+      </PostContent>
+      {tags && tags.length > 0 && (
+        <div class="post__footer">
+          <PostTags tags={tags} />
+          <PostAuthor author={siteConfig.author} />
+        </div>
+      )}
+    </div>
+    <div class="post__comments">
+      <Comments 
+        shortname={siteConfig.disqusShortname}
+        identifier={Astro.url.pathname}
+        title={title}
+        url={Astro.url.href}
+      />
+    </div>
+  </div>
+</Layout>
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .post {
+    &__inner {
+      @include padding(1, 1, 0);
+    }
+    &__title {
+      font-size: $typographic-base-font-size * 2;
+      @include line-height(1.125);
+      @include margin-top(0);
+      @include margin-bottom(0);
+    }
+    &__footer {
+      @include margin(1, 0, 1, 0);
+    }
+    &__comments {
+      @include margin(1, 0, 0, 0);
+    }
+  }
+
+  @include breakpoint-md {
+    .post {
+      &__inner {
+        padding: 0;
+      }
+      &__title {
+        font-size: $typographic-base-font-size * 3;
+        @include line-height(2.25);
+        @include margin-bottom(1.25);
+      }
+    }
+  }
+</style>

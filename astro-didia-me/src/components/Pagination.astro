@@ -1,0 +1,86 @@
+---
+import classNames from 'classnames';
+
+export interface Props {
+  currentPage: number;
+  totalPages: number;
+  basePath: string;
+}
+
+const { currentPage, totalPages, basePath } = Astro.props;
+
+const hasPrevPage = currentPage > 1;
+const hasNextPage = currentPage < totalPages;
+
+const prevPagePath = currentPage <= 2 ? basePath : `${basePath}page/${currentPage - 1}/`;
+const nextPagePath = `${basePath}page/${currentPage + 1}/`;
+
+const prevClassName = classNames({
+  'pagination__prev-link': true,
+  'pagination__prev-link--disable': !hasPrevPage,
+});
+
+const nextClassName = classNames({
+  'pagination__next-link': true,
+  'pagination__next-link--disable': !hasNextPage,
+});
+---
+
+{(hasPrevPage || hasNextPage) && (
+  <div class="pagination">
+    <div class="pagination__prev">
+      <a rel="prev" href={hasPrevPage ? prevPagePath : '#'} class={prevClassName}>
+        ← PRÉCÉDENT
+      </a>
+    </div>
+    <div class="pagination__next">
+      <a rel="next" href={hasNextPage ? nextPagePath : '#'} class={nextClassName}>
+        SUIVANT →
+      </a>
+    </div>
+  </div>
+)}
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .pagination {
+    @include margin-top(2);
+    display: flex;
+    &__prev {
+      width: 50%;
+      text-align: left;
+      &-link {
+        color: $color-secondary;
+        font-size: 26px;
+        font-weight: bold;
+        &:hover,
+        &:focus {
+          color: $color-primary;
+        }
+        &--disable {
+          pointer-events: none;
+          color: lighten($color-gray, 20%);
+        }
+      }
+    }
+    &__next {
+      width: 50%;
+      text-align: right;
+      &-link {
+        color: $color-secondary;
+        font-size: 26px;
+        font-weight: bold;
+        &:hover,
+        &:focus {
+          color: $color-primary;
+        }
+        &--disable {
+          pointer-events: none;
+          color: lighten($color-gray, 20%);
+        }
+      }
+    }
+  }
+</style>

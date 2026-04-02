@@ -1,0 +1,37 @@
+---
+export interface Props {
+  shortname: string;
+  identifier: string;
+  title: string;
+  url: string;
+}
+
+const { shortname, identifier, title, url } = Astro.props;
+---
+
+<div class="comments">
+  <div id="disqus_thread"></div>
+</div>
+
+<script define:vars={{ shortname, identifier, title, url }}>
+  var disqus_config = function () {
+    this.page.url = url;
+    this.page.identifier = identifier;
+  };
+  
+  (function() {
+    var d = document, s = d.createElement('script');
+    s.src = `https://${shortname}.disqus.com/embed.js`;
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .comments {
+    @include margin-top(2);
+  }
+</style>

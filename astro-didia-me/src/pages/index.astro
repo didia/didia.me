@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import Page from '../components/Page.astro';
+import Feed from '../components/Feed.astro';
+import Pagination from '../components/Pagination.astro';
+import { siteConfig } from '../config';
+
+// Get all blog posts
+const allPosts = await getCollection('blog', ({ data }) => {
+	return data.draft !== true;
+});
+
+// Sort posts by date
+const sortedPosts = allPosts.sort(
+	(a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+// Paginate posts
+const postsPerPage = siteConfig.postsPerPage;
+const currentPage = 1;
+const totalPages = Math.ceil(sortedPosts.length / postsPerPage);
+const paginatedPosts = sortedPosts.slice(0, postsPerPage);
+
+// Map posts to the format expected by Feed component
+const posts = paginatedPosts.map(post => ({
+	id: post.id,
+	slug: post.slug,
+	data: post.data
+}));
+---
+
+<Layout
+	title={siteConfig.title}
+	description={siteConfig.subtitle}
+>
+	<Page>
+		<Feed posts={posts} />
+		<Pagination
+			currentPage={currentPage}
+			totalPages={totalPages}
+			basePath="/"
+		/>
+	</Page>
+</Layout>

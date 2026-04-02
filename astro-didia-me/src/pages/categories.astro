@@ -1,0 +1,50 @@
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import Page from '../components/Page.astro';
+import { siteConfig } from '../config';
+
+// Get all posts
+const allPosts = await getCollection('blog', ({ data }) => {
+  return data.draft !== true;
+});
+
+// Extract unique categories
+const categories = [...new Set(allPosts.map(post => post.data.category).filter(Boolean))];
+const categoryData = categories.map(category => {
+  const posts = allPosts.filter(post => post.data.category === category);
+  return {
+    name: category,
+    slug: category.toLowerCase().replace(/\s+/g, '-'),
+    count: posts.length
+  };
+}).sort((a, b) => a.name.localeCompare(b.name));
+
+<Layout
+  title="Catégories"
+  description="Toutes les catégories du blog"
+>
+  <Page title="Catégories">
+    <ul>
+      {categoryData.map(category => (
+        <li>
+          <a href={`/category/${category.slug}/`}>
+            {category.name} ({category.count})
+          </a>
+        </li>
+      ))}
+    </ul>
+  </Page>
+</Layout>
+
+<style>
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 0.5rem;
+  }
+  a {
+    text-decoration: none;
+  }
+</style>

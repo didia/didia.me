@@ -1,0 +1,38 @@
+---
+// PostContent wrapper component
+---
+
+<div class="content">
+  <div class="content__inner">
+    <slot />
+  </div>
+</div>
+
+<style lang="scss">
+  @import '../styles/variables';
+  @import '../styles/mixins';
+
+  .content {
+    &__inner {
+      padding: 25px 20px;
+    }
+  }
+
+  @include breakpoint-sm {
+    .content {
+      lost-column: 7/12;
+      &__inner {
+        padding: 30px 20px;
+      }
+    }
+  }
+
+  @include breakpoint-md {
+    .content {
+      lost-column: 2/3;
+      &__inner {
+        padding: 40px 35px;
+      }
+    }
+  }
+</style>

@@ -1,0 +1,65 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import Page from '../components/Page.astro';
+import { siteConfig } from '../config';
+
+// Get all posts
+const allPosts = await getCollection('blog', ({ data }) => {
+  return data.draft !== true;
+});
+
+// Extract all tags
+const tagsMap = new Map();
+allPosts.forEach(post => {
+  if (post.data.tags) {
+    post.data.tags.forEach(tag => {
+      const normalizedTag = tag.trim();
+      const slug = normalizedTag.toLowerCase().replace(/\s+/g, '-');
+      if (!tagsMap.has(slug)) {
+        tagsMap.set(slug, { name: normalizedTag, count: 0 });
+      }
+      tagsMap.get(slug).count++;
+    });
+  }
+});
+
+const tags = Array.from(tagsMap.entries())
+  .map(([slug, data]) => ({ slug, ...data }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+
+<Layout
+  title="Tags"
+  description="Tous les tags du blog"
+>
+  <Page title="Tags">
+    <div class="tags">
+      {tags.map(tag => (
+        <a href={`/tag/${tag.slug}/`} class="tag">
+          {tag.name} ({tag.count})
+        </a>
+      ))}
+    </div>
+  </Page>
+</Layout>
+
+<style>
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .tag {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    font-size: 0.875rem;
+  }
+  .tag:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+  }
+</style>
